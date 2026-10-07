@@ -1,0 +1,204 @@
+u07	m	allergy	prawns	shellfish allergy
+u07	m	weekend_sport	cricket	plays weekend tennis-ball cricket
+u07	m	vehicle	Royal Enfield Classic 350	motorbike
+u07	m	injury	knee	knee ligament strain
+u07	m	language_learning	Japanese	
+u07	m	favorite_team	CSK	Chennai Super Kings (IPL)
+u08	m	employer	Flipkart	
+u08	m	pet_name	Simba	cat
+u08	m	diet	keto	
+u08	m	trip_destination	Goa	
+u08	m	exam_prep	GRE	
+u08	m	college	NIT Trichy	
+u09	f	home_city	Chennai	moved recently
+u09	f	hometown	Shimla	
+u09	f	learning_instrument	veena	
+u09	f	injury	wrist	wrist fracture or sprain
+u09	f	workout_time	5:30 am	
+u09	f	college	IISc	IISc Bengaluru (Indian Institute of Science); do not make Bengaluru the focus
+u10	f	job_role	architect	
+u10	f	allergy	dust mites	dust allergy
+u10	f	weekend_sport	swimming	
+u10	f	vehicle	Hyundai Creta	car
+u10	f	trip_destination	Bali	
+u10	f	favorite_team	Mumbai Indians	IPL
+u11	f	employer	Zomato	
+u11	f	sibling_name	Meera	sister
+u11	f	partner_name	Siddharth	fiancé (engaged); q_en: What is my fiancé's name?
+u11	f	diet	vegetarian	
+u11	f	favorite_food	rajma chawal	
+u11	f	language_learning	French	
+u12	f	pet_name	Mithu	parrot; q_en: What is my parrot's name?
+u12	f	exam_prep	IELTS	
+u12	f	favorite_singer	Lata Mangeshkar	
+u12	f	child_name	Vihaan	son
+u12	f	commute_mode	local train	
+u12	f	savings_goal	MBA abroad	
+u13	f	hometown	Varanasi	
+u13	f	favorite_food	pani puri	
+u13	f	learning_instrument	sitar	
+u13	f	injury	shoulder	
+u13	f	favorite_singer	A. R. Rahman	
+u13	f	child_name	Myra	daughter
+u14	m	job_role	chartered accountant	
+u14	m	sibling_name	Kabir	brother
+u14	m	diet	intermittent fasting	16:8 fasting
+u14	m	workout_time	9 pm	
+u14	m	college	Christ University	
+u14	m	savings_goal	Europe trip	
+u15	m	home_city	Indore	moved recently
+u15	m	vehicle	Tata Nexon	car
+u15	m	trip_destination	Coorg	
+u15	m	exam_prep	GATE	
+u15	m	commute_mode	office cab	company cab
+u15	m	favorite_team	Manchester United	football
+u16	m	employer	Wipro	
+u16	m	pet_name	Coco	dog (beagle)
+u16	m	partner_name	Divya	wife
+u16	m	allergy	cat fur	cat dander allergy
+u16	m	weekend_sport	tennis	
+u16	m	language_learning	Spanish	
+u17	m	employer	Swiggy	
+u17	m	job_role	data analyst	
+u17	m	learning_instrument	guitar	
+u17	m	favorite_singer	Diljit Dosanjh	
+u17	m	language_learning	Korean	
+u17	m	child_name	Reyansh	son
+u18	m	hometown	Hubballi	also spelled Hubli
+u18	m	sibling_name	Ishita	sister
+u18	m	diet	Jain food	no onion, garlic or root vegetables
+u18	m	vehicle	Maruti Swift	car
+u18	m	exam_prep	UPSC	civil services
+u18	m	favorite_team	KKR	Kolkata Knight Riders (IPL)
+u19	f	home_city	Kochi	moved recently
+u19	f	allergy	eggs	
+u19	f	favorite_food	momos	
+u19	f	trip_destination	Meghalaya	
+u19	f	injury	back	lower back
+u19	f	college	BITS Pilani	
+u20	f	pet_name	Oreo	cat
+u20	f	partner_name	Rahul	husband
+u20	f	weekend_sport	football	
+u20	f	workout_time	6:30 am	
+u20	f	commute_mode	bus	city bus
+u20	f	savings_goal	MacBook	laptop
+u21	f	job_role	nurse	
+u21	f	partner_name	Karthik	husband
+u21	f	weekend_sport	volleyball	
+u21	f	vehicle	TVS Jupiter	scooter
+u21	f	injury	elbow	
+u21	f	savings_goal	café	opening her own café
+u22	m	home_city	Jaipur	moved recently
+u22	m	pet_name	Tiger	dog (German Shepherd)
+u22	m	diet	high-protein	
+u22	m	favorite_food	butter chicken	
+u22	m	workout_time	8 pm	
+u22	m	favorite_team	Rajasthan Royals	IPL
+u23	m	hometown	Patna	
+u23	m	learning_instrument	flute	
+u23	m	exam_prep	SSC CGL	
+u23	m	language_learning	Tamil	
+u23	m	commute_mode	walking	walks to work
+u23	m	college	JNU	Jawaharlal Nehru University
+u24	m	employer	Razorpay	
+u24	m	sibling_name	Arjun	brother
+u24	m	allergy	pollen	
+u24	m	trip_destination	Dubai	
+u24	m	favorite_singer	Sonu Nigam	
+u24	m	child_name	Anika	daughter
+u25	m	employer	Tata Motors	
+u25	m	sibling_name	Pooja	sister
+u25	m	partner_name	Shruti	fiancée; q_en: What is my fiancée's name?
+u25	m	vehicle	Mahindra Thar	SUV
+u25	m	commute_mode	carpool	
+u25	m	favorite_team	Real Madrid	football
+u26	m	job_role	dentist	
+u26	m	allergy	penicillin	
+u26	m	favorite_food	chole bhature	
+u26	m	favorite_singer	KK	the singer KK
+u26	m	child_name	Advik	son
+u26	m	college	Manipal	Manipal University / MIT Manipal
+u27	f	pet_name	Leo	dog (golden retriever)
+u27	f	diet	vegan	
+u27	f	trip_destination	Rishikesh	
+u27	f	exam_prep	NEET PG	
+u27	f	language_learning	Italian	
+u27	f	savings_goal	car	her first car
+u28	m	home_city	Ahmedabad	moved recently
+u28	m	hometown	Udupi	
+u28	m	learning_instrument	drums	
+u28	m	weekend_sport	table tennis	
+u28	m	injury	hamstring	
+u28	m	workout_time	5 am	
+u29	f	hometown	Mangaluru	also Mangalore
+u29	f	employer	Deloitte	
+u29	f	pet_name	Kaju	cat
+u29	f	injury	neck	
+u29	f	workout_time	7 am	
+u29	f	savings_goal	wedding	her own wedding
+u30	m	home_city	Mysuru	moved recently; also Mysore
+u30	m	sibling_name	Nikhil	brother
+u30	m	vehicle	Kia Seltos	car
+u30	m	exam_prep	CA Final	
+u30	m	favorite_singer	Sid Sriram	
+u30	m	commute_mode	Rapido bike taxi	
+u31	f	job_role	graphic designer	
+u31	f	favorite_food	sushi	
+u31	f	learning_instrument	ukulele	
+u31	f	weekend_sport	basketball	
+u31	f	child_name	Kiara	daughter
+u31	f	college	VIT Vellore	
+u32	f	partner_name	Vikram	husband
+u32	f	allergy	soy	
+u32	f	diet	gluten-free	
+u32	f	trip_destination	Andaman	
+u32	f	language_learning	Mandarin	
+u32	f	favorite_team	Sunrisers Hyderabad	IPL
+u33	f	job_role	civil engineer	
+u33	f	allergy	cashews	
+u33	f	trip_destination	Spiti Valley	
+u33	f	workout_time	6 pm	
+u33	f	college	IIT Bombay	
+u33	f	savings_goal	startup	starting her own company
+u34	f	home_city	Chandigarh	moved recently
+u34	f	employer	Amazon	
+u34	f	sibling_name	Sneha	sister
+u34	f	weekend_sport	squash	
+u34	f	language_learning	Arabic	
+u34	f	child_name	Ayaan	son
+u35	m	hometown	Lucknow	
+u35	m	pet_name	Rocky	dog (pug)
+u35	m	diet	pescatarian	
+u35	m	learning_instrument	harmonium	
+u35	m	vehicle	Ola S1	electric scooter
+u35	m	favorite_team	Barcelona	FC Barcelona
+u36	m	partner_name	Kavya	wife
+u36	m	favorite_food	pav bhaji	
+u36	m	exam_prep	CFA	
+u36	m	injury	finger	
+u36	m	favorite_singer	Ed Sheeran	
+u36	m	commute_mode	auto-rickshaw	
+u37	m	partner_name	Neha	wife
+u37	m	allergy	sesame	
+u37	m	vehicle	Honda City	car
+u37	m	child_name	Saanvi	daughter
+u37	m	college	IIM Ahmedabad	MBA
+u37	m	savings_goal	Char Dham yatra	pilgrimage for his parents
+u38	f	employer	Zerodha	
+u38	f	learning_instrument	piano	
+u38	f	workout_time	10 pm	
+u38	f	favorite_singer	Taylor Swift	
+u38	f	language_learning	Russian	
+u38	f	commute_mode	electric scooter	
+u39	m	home_city	Bhubaneswar	moved recently
+u39	m	sibling_name	Varun	brother
+u39	m	diet	sugar-free	cut out sugar completely
+u39	m	trip_destination	Tokyo	
+u39	m	exam_prep	IBPS PO	bank PO exam
+u39	m	injury	toe	
+u40	f	hometown	Bhopal	
+u40	f	job_role	lawyer	
+u40	f	pet_name	Chiku	rabbit; q_en: What is my rabbit's name?
+u40	f	favorite_food	idli vada	
+u40	f	weekend_sport	kabaddi	
+u40	f	favorite_team	Arsenal	football

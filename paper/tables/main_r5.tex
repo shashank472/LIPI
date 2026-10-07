@@ -1,0 +1,28 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{4pt}
+\caption{Recall@5 (\%) of the target memory among 336 pooled memories, for English questions, when the fact was stored in each form (Raw indexing). Each cell averages 240 facts; 95\% bootstrap CIs are about $\pm$6 points. \textbf{Bold}: best retriever per column. $^\dagger$: not significantly different from the same retriever's \form{EN} score (McNemar, $p\ge 0.01$); all other non-EN cells differ significantly.}
+\label{tab:main}
+\begin{tabular}{@{}l ccccc ccccc@{}}
+\toprule
+ & \multicolumn{5}{c}{Hindi pool} & \multicolumn{5}{c}{Kannada pool} \\
+\cmidrule(lr){2-6}\cmidrule(lr){7-11}
+Retriever & EN & CM-R & CM-N & MO-N & MO-R & EN & CM-R & CM-N & MO-N & MO-R \\
+\midrule
+bm25 & 17.9 & 0.4 & 0.0 & 0.0 & 0.0 & 16.2 & 0.0 & 0.0 & 0.0 & 0.0 \\
+MiniLM-en & 64.2 & 23.8 & 37.1 & 0.4 & 6.7 & 63.7 & 32.1 & 42.1 & 0.0 & 9.6 \\
+\midrule
+mMiniLM & 54.6 & 26.7 & 52.5$^\dagger$ & 50.8$^\dagger$ & 7.9 & 54.6 & \textbf{33.3} & 15.0 & 1.7 & 7.1 \\
+mE5-small & 48.8 & \textbf{41.7}$^\dagger$ & 27.1 & 18.8 & 5.8 & 42.5 & 15.4 & 18.3 & 12.1 & 1.7 \\
+mE5-base & \textbf{75.4} & 33.3 & 29.2 & 23.3 & 4.6 & \textbf{70.4} & 16.7 & 14.6 & 10.4 & 0.8 \\
+LaBSE & 7.9 & 5.8$^\dagger$ & 38.8 & 35.4 & 0.0 & 6.7 & 2.9$^\dagger$ & 25.4 & 39.6 & 0.0 \\
+BGE-M3 & 67.9 & 20.4 & \textbf{63.3}$^\dagger$ & \textbf{56.2} & 2.5 & 65.0 & 14.2 & \textbf{60.0}$^\dagger$ & \textbf{51.2} & 1.2 \\
+\midrule
+IndicSBERT & 37.5 & 25.8 & 29.2 & 34.2$^\dagger$ & \textbf{18.3} & 35.0 & 15.0 & 24.2 & 31.7$^\dagger$ & \textbf{10.0} \\
+Vyakyarth & 35.8 & 16.2 & 29.2 & 31.7$^\dagger$ & 4.6 & 35.4 & 12.5 & 29.2$^\dagger$ & 33.3$^\dagger$ & 1.7 \\
+\midrule
+Avg.\ multilingual & 46.8 & 24.3 & 38.5 & 35.8 & 6.2 & 44.2 & 15.7 & 26.7 & 25.7 & 3.2 \\
+\bottomrule
+\end{tabular}
+\end{table}

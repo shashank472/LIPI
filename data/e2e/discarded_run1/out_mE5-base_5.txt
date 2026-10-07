@@ -1,0 +1,400 @@
+x01121	unknown
+x00791	pasta
+x00565	unknown
+x02034	Goa
+x00644	unknown
+x01212	finger
+x00598	unknown
+x01608	unknown
+x01335	engineer
+x01828	unknown
+x01516	saxophone
+x00609	retired nurse
+x00293	unknown
+x00078	unknown
+x00362	city bus
+x00050	unknown
+x00315	unknown
+x02100	Spiti Valley
+x01269	lower back
+x00955	unknown
+x02211	Tata Nexon
+x00868	Taylor Swift
+x01076	Jaipur
+x00132	unknown
+x02092	unknown
+x01824	Europe trip
+x00814	unknown
+x01479	German
+x00718	CA Final
+x01623	unknown
+x00466	unknown
+x01695	Kaju
+x00625	farmer
+x01945	unknown
+x01002	Kochi
+x00612	retired nurse
+x02379	5:30 am
+x01489	guitar
+x00830	The Killers
+x00849	Sonu Nigam
+x01971	unknown
+x01461	German
+x01389	unknown
+x01561	unknown
+x01366	unknown
+x01092	Jaipur
+x00303	unknown
+x00776	unknown
+x01115	unknown
+x00902	Manchester United
+x00549	retired nurse
+x01276	unknown
+x02411	unknown
+x01784	unknown
+x00364	city bus
+x01420	unknown
+x00809	pasta
+x00683	unknown
+x00794	pasta
+x00813	pasta
+x01629	Divya
+x00804	unknown
+x02039	unknown
+x02056	unknown
+x01050	unknown
+x01238	finger
+x01575	unknown
+x01985	unknown
+x02149	TVS Jupiter
+x02052	unknown
+x00739	CA Final
+x00633	CFA
+x00295	IISC
+x01963	unknown
+x02116	unknown
+x02237	unknown
+x01891	unknown
+x00768	unknown
+x00615	retired nurse
+x01213	unknown
+x01244	foot
+x00720	unknown
+x00428	unknown
+x00524	unknown
+x00583	unknown
+x00348	city bus
+x00275	IISC
+x00155	unknown
+x00246	unknown
+x00896	unknown
+x02071	unknown
+x01045	unknown
+x00875	unknown
+x02225	unknown
+x00946	unknown
+x00532	farmer
+x01229	finger
+x01557	unknown
+x00726	unknown
+x01572	unknown
+x02124	unknown
+x01734	unknown
+x00192	unknown
+x00601	unknown
+x00163	unknown
+x00668	unknown
+x02250	unknown
+x01851	unknown
+x00312	unknown
+x01504	unknown
+x00024	unknown
+x02210	Tata Nexon
+x02204	Tata Nexon
+x01004	unknown
+x00928	unknown
+x02253	unknown
+x00214	unknown
+x01987	unknown
+x01391	unknown
+x02262	unknown
+x01840	unknown
+x01780	unknown
+x00953	unknown
+x01531	unknown
+x00168	unknown
+x00541	retired nurse
+x02405	unknown
+x00282	unknown
+x01371	unknown
+x01691	unknown
+x01501	guitar
+x01096	unknown
+x01536	unknown
+x02218	unknown
+x00354	city bus
+x01617	Divya
+x01347	unknown
+x01217	foot
+x01314	unknown
+x01362	unknown
+x00338	unknown
+x00332	unknown
+x02378	5:30 am
+x01656	unknown
+x02153	TVS Jupiter
+x00779	unknown
+x00744	unknown
+x01451	unknown
+x02080	unknown
+x02114	unknown
+x01301	unknown
+x01816	unknown
+x01592	unknown
+x01923	unknown
+x02191	Tata Nexon
+x02151	TVS Jupiter
+x01363	unknown
+x02279	unknown
+x02082	unknown
+x01161	unknown
+x00651	unknown
+x02233	unknown
+x01486	unknown
+x01038	unknown
+x01759	unknown
+x00665	unknown
+x02222	unknown
+x01894	unknown
+x02334	unknown
+x02351	unknown
+x02353	unknown
+x00874	unknown
+x00022	unknown
+x02134	unknown
+x00844	unknown
+x01312	unknown
+x01529	unknown
+x00865	The Killers
+x00992	unknown
+x00678	unknown
+x00253	unknown
+x01129	unknown
+x00087	unknown
+x01267	unknown
+x01154	unknown
+x00194	unknown
+x00217	unknown
+x01788	unknown
+x02045	Goa
+x00740	CA Final
+x01069	unknown
+x00488	unknown
+x01043	unknown
+x00149	unknown
+x01462	unknown
+x00685	unknown
+x01591	unknown
+x00478	unknown
+x00972	unknown
+x00073	unknown
+x01507	unknown
+x01349	unknown
+x01659	unknown
+x00931	unknown
+x01559	unknown
+x02368	unknown
+x00731	CA Final
+x00186	unknown
+x00771	unknown
+x02375	unknown
+x01183	unknown
+x01838	unknown
+x01472	German
+x00096	unknown
+x00252	unknown
+x01094	unknown
+x02316	unknown
+x01914	unknown
+x01935	unknown
+x00493	unknown
+x00264	unknown
+x02277	unknown
+x00922	unknown
+x01650	unknown
+x02270	unknown
+x00080	unknown
+x00634	unknown
+x00593	unknown
+x00725	unknown
+x00658	CFA
+x01817	unknown
+x00622	farmer
+x00472	unknown
+x00118	unknown
+x01723	unknown
+x00637	CFA
+x01178	unknown
+x01487	unknown
+x01438	unknown
+x01325	engineer
+x02391	unknown
+x00417	unknown
+x01890	unknown
+x00672	unknown
+x01679	unknown
+x02141	TVS Jupiter
+x00044	unknown
+x00492	unknown
+x01341	engineer
+x01983	unknown
+x01322	unknown
+x00129	unknown
+x02055	Goa
+x00857	Taylor Swift
+x02076	unknown
+x01671	unknown
+x01758	unknown
+x00535	unknown
+x00180	unknown
+x01669	unknown
+x01940	Ishita
+x01258	unknown
+x00375	unknown
+x02026	unknown
+x02359	unknown
+x01558	unknown
+x00921	unknown
+x01700	unknown
+x01432	unknown
+x02057	unknown
+x02187	unknown
+x01155	unknown
+x01850	unknown
+x01078	Jaipur
+x01738	unknown
+x00831	unknown
+x01031	unknown
+x01686	unknown
+x01140	unknown
+x02112	unknown
+x01403	unknown
+x02388	unknown
+x01876	unknown
+x01036	unknown
+x00411	unknown
+x02088	Spiti Valley
+x02352	unknown
+x00066	unknown
+x01457	unknown
+x01496	unknown
+x00626	unknown
+x02377	unknown
+x01384	unknown
+x01466	German
+x00235	unknown
+x00389	unknown
+x01853	unknown
+x00174	unknown
+x00226	unknown
+x01554	unknown
+x01737	unknown
+x00068	unknown
+x01685	unknown
+x02396	5:30 am
+x00159	unknown
+x00336	unknown
+x01090	unknown
+x01562	unknown
+x01735	unknown
+x01195	unknown
+x01764	unknown
+x02118	unknown
+x01240	unknown
+x02252	unknown
+x02266	unknown
+x01644	unknown
+x01566	unknown
+x00546	retired nurse
+x00621	farmer
+x00827	The Killers
+x00894	unknown
+x01893	unknown
+x01938	unknown
+x02077	unknown
+x01920	unknown
+x00687	unknown
+x01283	unknown
+x00534	farmer
+x00545	unknown
+x01033	unknown
+x00247	unknown
+x02282	unknown
+x01400	unknown
+x00468	unknown
+x00680	unknown
+x00503	unknown
+x01825	unknown
+x00157	unknown
+x02239	unknown
+x01830	unknown
+x00729	unknown
+x01962	unknown
+x01297	unknown
+x01495	unknown
+x00805	unknown
+x02069	unknown
+x01431	unknown
+x00624	farmer
+x01675	unknown
+x01377	unknown
+x01541	tabla
+x00506	unknown
+x01006	unknown
+x00474	unknown
+x02289	unknown
+x00539	unknown
+x00480	unknown
+x00810	unknown
+x01081	Jaipur
+x02195	Tata Nexon
+x00009	unknown
+x00394	unknown
+x00255	unknown
+x02332	unknown
+x00042	unknown
+x01619	unknown
+x00054	unknown
+x01990	unknown
+x02194	Tata Nexon
+x01330	unknown
+x00772	unknown
+x00878	unknown
+x02169	TVS Jupiter
+x00122	unknown
+x01766	unknown
+x00858	Sonu Nigam
+x02309	unknown
+x00603	unknown
+x01649	unknown
+x00440	unknown
+x00613	retired nurse
+x01316	unknown
+x00438	unknown
+x00741	unknown
+x00035	unknown
+x01547	unknown
+x00084	unknown
+x01072	unknown
+x00292	unknown
+x02122	unknown
+x01743	unknown
+x02173	unknown
+x02373	unknown
+x02197	Tata Nexon
+x01662	unknown
+x00403	unknown
+x01672	unknown
+x02158	unknown
+x01966	unknown
+x00288	unknown

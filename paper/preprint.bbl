@@ -1,0 +1,282 @@
+\begin{thebibliography}{39}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{AGI Research}(2026)]{amemrepo}
+{AGI Research}.
+\newblock {A-MEM} reference implementation.
+\newblock \url{https://github.com/agiresearch/A-mem}, commit ceffb86 (accessed
+  7 October 2026), 2026.
+
+\bibitem[Aguilar et~al.(2020)Aguilar, Kar, and Solorio]{aguilar2020lince}
+Gustavo Aguilar, Sudipta Kar, and Thamar Solorio.
+\newblock {LinCE}: A centralized benchmark for linguistic code-switching
+  evaluation.
+\newblock In \emph{Proceedings of the 12th Language Resources and Evaluation
+  Conference (LREC)}, 2020.
+
+\bibitem[Bali et~al.(2014)Bali, Sharma, Choudhury, and Vyas]{bali2014borrowing}
+Kalika Bali, Jatin Sharma, Monojit Choudhury, and Yogarshi Vyas.
+\newblock ``{I} am borrowing ya mixing?'' {A}n analysis of {E}nglish-{H}indi
+  code mixing in {F}acebook.
+\newblock In \emph{Proceedings of the First Workshop on Computational
+  Approaches to Code Switching}, 2014.
+
+\bibitem[Chao et~al.(2026)Chao, Bai, Sheng, Li, and Sun]{chao2026stale}
+Hanxiang Chao, Yihan Bai, Rui Sheng, Tianle Li, and Yushi Sun.
+\newblock {STALE}: Can {LLM} agents know when their memories are no longer
+  valid?
+\newblock \emph{arXiv preprint arXiv:2605.06527}, 2026.
+
+\bibitem[Chen et~al.(2024)Chen, Xiao, Zhang, Luo, Lian, and Liu]{chen2024bgem3}
+Jianlv Chen, Shitao Xiao, Peitian Zhang, Kun Luo, Defu Lian, and Zheng Liu.
+\newblock {M3-Embedding}: Multi-linguality, multi-functionality,
+  multi-granularity text embeddings through self-knowledge distillation.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  ACL 2024}, 2024.
+
+\bibitem[Chhikara et~al.(2025)Chhikara, Khant, Aryan, Singh, and
+  Yadav]{chhikara2025mem0}
+Prateek Chhikara, Dev Khant, Saket Aryan, Taranjeet Singh, and Deshraj Yadav.
+\newblock {Mem0}: Building production-ready {AI} agents with scalable long-term
+  memory.
+\newblock \emph{arXiv preprint arXiv:2504.19413}, 2025.
+
+\bibitem[Das et~al.(2026)Das, Parmar, Ramnath, and Verma]{das2026indiromcom}
+Avisha Das, Mihir Parmar, Mohana Ramnath, and Pulkit Verma.
+\newblock {Indi-RomCoM}: Code-mixed benchmark for evaluating {LLMs} on
+  romanized {I}ndic-{E}nglish instructions.
+\newblock \emph{arXiv preprint arXiv:2606.30790}, 2026.
+
+\bibitem[Deode et~al.(2023)Deode, Gadre, Kajale, Joshi, and
+  Joshi]{deode2023indicsbert}
+Samruddhi Deode, Janhavi Gadre, Aditi Kajale, Ananya Joshi, and Raviraj Joshi.
+\newblock {L3Cube-IndicSBERT}: A simple approach for learning cross-lingual
+  sentence representations using multilingual {BERT}.
+\newblock \emph{arXiv preprint arXiv:2304.11434}, 2023.
+
+\bibitem[Feng et~al.(2022)Feng, Yang, Cer, Arivazhagan, and
+  Wang]{feng2022labse}
+Fangxiaoyu Feng, Yinfei Yang, Daniel Cer, Naveen Arivazhagan, and Wei Wang.
+\newblock Language-agnostic {BERT} sentence embedding.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, 2022.
+
+\bibitem[Gala et~al.(2023)Gala, Chitale, AK, Gumma, Doddapaneni, Kumar, Nawale,
+  Sujatha, Puduppully, Raghavan, Kumar, Khapra, Dabre, and
+  Kunchukuttan]{gala2023indictrans2}
+Jay Gala, Pranjal~A. Chitale, Raghavan AK, Varun Gumma, Sumanth Doddapaneni,
+  Aswanth Kumar, Janki Nawale, Anupama Sujatha, Ratish Puduppully, Vivek
+  Raghavan, Pratyush Kumar, Mitesh~M. Khapra, Raj Dabre, and Anoop
+  Kunchukuttan.
+\newblock {IndicTrans2}: Towards high-quality and accessible machine
+  translation models for all 22 scheduled {I}ndian languages.
+\newblock \emph{Transactions on Machine Learning Research}, 2023.
+
+\bibitem[Gawande \& Singh(2026)Gawande and Singh]{gawande2026indictalk}
+Sahil~Deepak Gawande and Mayank Singh.
+\newblock {IndicTalk}: A large-scale persona-based multilingual conversational
+  corpus for {I}ndic languages.
+\newblock \emph{arXiv preprint arXiv:2607.23242}, 2026.
+
+\bibitem[Gupta et~al.(2014)Gupta, Bali, Banchs, Choudhury, and
+  Rosso]{gupta2014mixedscript}
+Parth Gupta, Kalika Bali, Rafael~E. Banchs, Monojit Choudhury, and Paolo Rosso.
+\newblock Query expansion for mixed-script information retrieval.
+\newblock In \emph{Proceedings of the 37th International ACM SIGIR Conference
+  on Research and Development in Information Retrieval}, 2014.
+
+\bibitem[Hu et~al.(2026)Hu, Wang, and McAuley]{hu2026memoryagentbench}
+Yuanzhe Hu, Yu~Wang, and Julian McAuley.
+\newblock Evaluating memory in {LLM} agents via incremental multi-turn
+  interactions.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2026.
+
+\bibitem[Husain et~al.(2024)Husain, Dabre, Kumar, Gala, Jayakumar, Puduppully,
+  and Kunchukuttan]{husain2024romansetu}
+Jaavid~Aktar Husain, Raj Dabre, Aswanth Kumar, Jay Gala, Thanmay Jayakumar,
+  Ratish Puduppully, and Anoop Kunchukuttan.
+\newblock {RomanSetu}: Efficiently unlocking multilingual capabilities of large
+  language models via romanization.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, 2024.
+
+\bibitem[Jandaghi et~al.(2023)Jandaghi, Sheng, Bai, Pujara, and
+  Sidahmed]{jandaghi2023syntheticpersonachat}
+Pegah Jandaghi, XiangHai Sheng, Xinyi Bai, Jay Pujara, and Hakim Sidahmed.
+\newblock Faithful persona-based conversational dataset generation with large
+  language models.
+\newblock \emph{arXiv preprint arXiv:2312.10007}, 2023.
+
+\bibitem[Khanuja et~al.(2020)Khanuja, Dandapat, Srinivasan, Sitaram, and
+  Choudhury]{khanuja2020gluecos}
+Simran Khanuja, Sandipan Dandapat, Anirudh Srinivasan, Sunayana Sitaram, and
+  Monojit Choudhury.
+\newblock {GLUECoS}: An evaluation benchmark for code-switched {NLP}.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, 2020.
+
+\bibitem[Kim(2026)]{kim2026tablet2}
+Sunwoo Kim.
+\newblock Wontopos tablet 2: Measuring multilingual and multimodal memory
+  retrieval without lexical matching.
+\newblock \emph{arXiv preprint arXiv:2608.23920}, 2026.
+
+\bibitem[{Krutrim AI Labs}(2025)]{krutrim2025vyakyarth}
+{Krutrim AI Labs}.
+\newblock Vyakyarth: A multilingual sentence embedding model for {I}ndic
+  languages.
+\newblock \url{https://huggingface.co/krutrim-ai-labs/Vyakyarth}, 2025.
+
+\bibitem[Li et~al.(2026)Li, Wang, Lu, Chen, Li, Song, Zheng, and
+  Cai]{li2026memtx}
+Xiaoyang Li, Yiqi Wang, Haohui Lu, Zhi Chen, Mo~Li, Pingan Song, Mingkai Zheng,
+  and Taotao Cai.
+\newblock {MemTX}: Transactional belief commit for stateful agent memory.
+\newblock \emph{arXiv preprint arXiv:2607.23929}, 2026.
+
+\bibitem[Liu et~al.(2026)Liu, Zhang, Zheng, Cai, Wang, Duan, and
+  Wu]{liu2026pacmi}
+Jiaqi Liu, Jiaqi Zhang, Mingkai Zheng, Taotao Cai, Yiqi Wang, Yiqun Duan, and
+  Zhangkai Wu.
+\newblock {PACMI}: Provenance-aware cascading memory invalidation for long-term
+  {LLM} agents.
+\newblock \emph{arXiv preprint arXiv:2610.05732}, 2026.
+
+\bibitem[Madhani et~al.(2023)Madhani, Parthan, Bedekar, NC, Khapra,
+  Kunchukuttan, Kumar, and Khapra]{madhani2023aksharantar}
+Yash Madhani, Sushane Parthan, Priyanka Bedekar, Gokul NC, Ruchi Khapra, Anoop
+  Kunchukuttan, Pratyush Kumar, and Mitesh~M. Khapra.
+\newblock Aksharantar: Open {I}ndic-language transliteration datasets and
+  models for the next billion users.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2023}, 2023.
+
+\bibitem[Maharana et~al.(2024)Maharana, Lee, Tulyakov, Bansal, Barbieri, and
+  Fang]{maharana2024locomo}
+Adyasha Maharana, Dong-Ho Lee, Sergey Tulyakov, Mohit Bansal, Francesco
+  Barbieri, and Yuwei Fang.
+\newblock Evaluating very long-term conversational memory of {LLM} agents.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (ACL)}, 2024.
+
+\bibitem[{Mem0 contributors}(2026)]{mem0repo}
+{Mem0 contributors}.
+\newblock mem0: The memory layer for {AI} agents.
+\newblock \url{https://github.com/mem0ai/mem0}, version 2.2.1, commit 0516f19
+  (accessed 7 October 2026), 2026.
+
+\bibitem[Packer et~al.(2023)Packer, Wooders, Lin, Fang, Patil, Stoica, and
+  Gonzalez]{packer2023memgpt}
+Charles Packer, Sarah Wooders, Kevin Lin, Vivian Fang, Shishir~G. Patil, Ion
+  Stoica, and Joseph~E. Gonzalez.
+\newblock {MemGPT}: Towards {LLMs} as operating systems.
+\newblock \emph{arXiv preprint arXiv:2310.08560}, 2023.
+
+\bibitem[Park et~al.(2023)Park, O'Brien, Cai, Morris, Liang, and
+  Bernstein]{park2023generative}
+Joon~Sung Park, Joseph~C. O'Brien, Carrie~J. Cai, Meredith~Ringel Morris, Percy
+  Liang, and Michael~S. Bernstein.
+\newblock Generative agents: Interactive simulacra of human behavior.
+\newblock In \emph{Proceedings of the 36th Annual ACM Symposium on User
+  Interface Software and Technology (UIST)}, 2023.
+
+\bibitem[Rasmussen et~al.(2025)Rasmussen, Paliychuk, Beauvais, Ryan, and
+  Chalef]{rasmussen2025zep}
+Preston Rasmussen, Pavlo Paliychuk, Travis Beauvais, Jack Ryan, and Daniel
+  Chalef.
+\newblock Zep: A temporal knowledge graph architecture for agent memory.
+\newblock \emph{arXiv preprint arXiv:2501.13956}, 2025.
+
+\bibitem[Reimers \& Gurevych(2019)Reimers and Gurevych]{reimers2019sbert}
+Nils Reimers and Iryna Gurevych.
+\newblock Sentence-{BERT}: Sentence embeddings using {S}iamese {BERT}-networks.
+\newblock In \emph{Proceedings of EMNLP-IJCNLP}, 2019.
+
+\bibitem[Reimers \& Gurevych(2020)Reimers and
+  Gurevych]{reimers2020multilingual}
+Nils Reimers and Iryna Gurevych.
+\newblock Making monolingual sentence embeddings multilingual using knowledge
+  distillation.
+\newblock In \emph{Proceedings of EMNLP}, 2020.
+
+\bibitem[Robertson \& Zaragoza(2009)Robertson and Zaragoza]{robertson2009bm25}
+Stephen Robertson and Hugo Zaragoza.
+\newblock The probabilistic relevance framework: {BM25} and beyond.
+\newblock \emph{Foundations and Trends in Information Retrieval}, 3\penalty0
+  (4):\penalty0 333--389, 2009.
+
+\bibitem[{Sthanika AI}(2026)]{codemixtax2026}
+{Sthanika AI}.
+\newblock {CodeMixTax}: The code-mixing degradation curve for open-weight
+  models on {MMLU} and {GSM8K}.
+\newblock \url{https://github.com/sthanika-ai/CodeMixTax}, 2026.
+
+\bibitem[Sun \& He(2026)Sun and He]{sun2026stateauditor}
+Haofei Sun and Lin He.
+\newblock When memory updates but behavior does not: Repairing implicit stale
+  dependencies in personalized agent responses.
+\newblock \emph{arXiv preprint arXiv:2608.01619}, 2026.
+
+\bibitem[Wang et~al.(2024)Wang, Yang, Huang, Yang, Majumder, and
+  Wei]{wang2024me5}
+Liang Wang, Nan Yang, Xiaolong Huang, Linjun Yang, Rangan Majumder, and Furu
+  Wei.
+\newblock Multilingual {E5} text embeddings: A technical report.
+\newblock \emph{arXiv preprint arXiv:2402.05672}, 2024.
+
+\bibitem[Wang et~al.(2020)Wang, Wei, Dong, Bao, Yang, and Zhou]{wang2020minilm}
+Wenhui Wang, Furu Wei, Li~Dong, Hangbo Bao, Nan Yang, and Ming Zhou.
+\newblock {MiniLM}: Deep self-attention distillation for task-agnostic
+  compression of pre-trained transformers.
+\newblock In \emph{Advances in Neural Information Processing Systems
+  (NeurIPS)}, 2020.
+
+\bibitem[Wu et~al.(2025)Wu, Wang, Yu, Zhang, Chang, and Yu]{wu2025longmemeval}
+Di~Wu, Hongwei Wang, Wenhao Yu, Yuwei Zhang, Kai-Wei Chang, and Dong Yu.
+\newblock {LongMemEval}: Benchmarking chat assistants on long-term interactive
+  memory.
+\newblock In \emph{International Conference on Learning Representations
+  (ICLR)}, 2025.
+
+\bibitem[Xu et~al.(2025)Xu, Liang, Mei, Gao, Tan, and Zhang]{xu2025amem}
+Wujiang Xu, Zujie Liang, Kai Mei, Hang Gao, Juntao Tan, and Yongfeng Zhang.
+\newblock {A-MEM}: Agentic memory for {LLM} agents.
+\newblock \emph{arXiv preprint arXiv:2502.12110}, 2025.
+
+\bibitem[Yadav(2026)]{yadav2026memstrata}
+Neeraj Yadav.
+\newblock Temporal validity in retrieval memory: Eliminating stale-fact errors
+  for {AI} agents over evolving knowledge.
+\newblock \emph{arXiv preprint arXiv:2606.26511}, 2026.
+
+\bibitem[Zhang et~al.(2023)Zhang, Thakur, Ogundepo, Kamalloo, Alfonso-Hermelo,
+  Li, Liu, Rezagholizadeh, and Lin]{zhang2023miracl}
+Xinyu Zhang, Nandan Thakur, Odunayo Ogundepo, Ehsan Kamalloo, David
+  Alfonso-Hermelo, Xiaoguang Li, Qun Liu, Mehdi Rezagholizadeh, and Jimmy Lin.
+\newblock {MIRACL}: A multilingual retrieval dataset covering 18 diverse
+  languages.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  11:\penalty0 1114--1131, 2023.
+
+\bibitem[Zhang et~al.(2025)Zhang, Li, Long, Zhang, Lin, Yang, Xie, Yang, Liu,
+  Lin, Huang, and Zhou]{zhang2025qwen3embedding}
+Yanzhao Zhang, Mingxin Li, Dingkun Long, Xin Zhang, Huan Lin, Baosong Yang,
+  Pengjun Xie, An~Yang, Dayiheng Liu, Junyang Lin, Fei Huang, and Jingren Zhou.
+\newblock {Qwen3 Embedding}: Advancing text embedding and reranking through
+  foundation models.
+\newblock \emph{arXiv preprint arXiv:2506.05176}, 2025.
+
+\bibitem[Zhang et~al.(2024)Zhang, Bo, Ma, Li, Chen, Dai, Zhu, Dong, and
+  Wen]{zhang2024memorysurvey}
+Zeyu Zhang, Xiaohe Bo, Chen Ma, Rui Li, Xu~Chen, Quanyu Dai, Jieming Zhu,
+  Zhenhua Dong, and Ji-Rong Wen.
+\newblock A survey on the memory mechanism of large language model based
+  agents.
+\newblock \emph{arXiv preprint arXiv:2404.13501}, 2024.
+
+\end{thebibliography}

@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Logistic regression of Recall@5 success on the properties of the stored form (13,440 retrieval outcomes: 240 facts $\times$ 8 non-English forms $\times$ 7 multilingual and Indic encoders; Raw indexing, English questions). Retriever fixed effects are included; standard errors are clustered by fact. OR: odds ratio with 95\% CI.}
+\label{tab:regression}
+\begin{tabular}{@{}l c c c c@{}}
+\toprule
+Term & $\beta$ & SE & OR [95\% CI] & $p$ \\
+\midrule
+Code-mixed (vs.\ monolingual) & +1.65 & 0.13 & 5.20 [4.04, 6.69] & $<$0.001 \\
+Native script (vs.\ Latin) & +2.24 & 0.14 & 9.43 [7.21, 12.33] & $<$0.001 \\
+Code-mixed $\times$ native & -1.56 & 0.13 & 0.21 [0.16, 0.27] & $<$0.001 \\
+Kannada (vs.\ Hindi) & -0.54 & 0.04 & 0.58 [0.54, 0.63] & $<$0.001 \\
+\bottomrule
+\end{tabular}
+\end{table}

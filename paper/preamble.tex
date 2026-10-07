@@ -1,0 +1,39 @@
+% Shared preamble for the TMLR submission (anonymous) and preprint builds.
+% Compile with pdfLaTeX:  pdflatex submission && bibtex submission && pdflatex submission && pdflatex submission
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\input{math_commands.tex}
+
+\newcommand{\lipi}{LIPI}
+\newcommand{\form}[1]{\textsf{#1}}
+% Devanagari/Kannada words are pre-rendered vector images (scripts/render_indic.py),
+% so the paper compiles with pdfLaTeX and the unmodified TMLR style.
+\newcommand{\devlipi}{\raisebox{-3.6pt}{\includegraphics{indic/lipi_hi.pdf}}}
+\newcommand{\kanlipi}{\raisebox{-3.6pt}{\includegraphics{indic/lipi_kn.pdf}}}
+
+% Code repository URL (shown only in the preprint build).
+\newcommand{\CodeURL}{\url{https://github.com/shashank472/LIPI}}
+\ifpreprint
+  \newcommand{\CodeAvailability}{Code, data and all model outputs are available at \CodeURL.}
+\else
+  \newcommand{\CodeAvailability}{Code, data and all model outputs are provided as anonymized supplementary material and will be released publicly upon publication.}
+\fi
+
+\input{tables/numbers.tex}
+\input{tables/numbers_extra.tex}
+
+\title{Lost in Transliteration: Script and Code-Mixing Break\\Long-Term Memory Retrieval in LLM Agents}
+\author{\name Shashank Vipin Katoch \email shashankkatoch29@gmail.com \\
+        \addr Independent Researcher\\
+        Bengaluru, India}
+
+\def\month{MM}   % month of acceptance (camera-ready only)
+\def\year{YYYY}  % year of acceptance (camera-ready only)
+\def\openreview{\url{https://openreview.net/forum?id=XXXX}} % camera-ready only

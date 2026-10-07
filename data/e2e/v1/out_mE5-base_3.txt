@@ -1,0 +1,155 @@
+x00554	Lucknow
+x00864	Rocky
+x01219	9 pm
+x00859	Rocky
+x01048	Meghalaya
+x00010	soy
+x00304	Deloitte
+x00604	ankle
+x00885	Rocky
+x00677	lawyer
+x00830	Vikram
+x01171	football
+x01125	cricket
+x01100	electric scooter
+x00965	Ananya
+x01037	Andaman
+x00625	ankle
+x00618	throat
+x01095	unknown
+x00503	Bhubaneswar
+x01056	unknown
+x00557	Lucknow
+x00955	wedding
+x00514	Bhubaneswar
+x00910	unknown
+x00171	unknown
+x01198	8 pm
+x01149	softball
+x00233	gluten-free
+x00008	soy
+x00890	Coco
+x01079	Mahindra Thar
+x00275	Flipkart
+x00289	Flipkart
+x01057	Meghalaya
+x00558	unknown
+x00149	Christ University
+x00279	unknown
+x00138	Christ University
+x00882	Rocky
+x00590	Nagpur
+x00026	soya
+x00664	accountant
+x00032	cashew
+x00255	unknown
+x00573	unknown
+x00720	Russian
+x00348	unknown
+x00413	pav bhaji
+x00251	vegetarian
+x00421	unknown
+x01042	Andaman
+x00679	data analyst
+x00817	Nikhil
+x00408	pasta
+x00657	editor
+x00299	Deloitte
+x00995	Rohan
+x00930	MacBook
+x00051	unknown
+x00034	cashew
+x00980	Ananya
+x00425	unknown
+x00089	Sanvi
+x00642	shoulders
+x00724	Russian
+x00077	Kiara
+x00452	KK
+x00772	ukulele
+x01031	Andaman
+x00124	unknown
+x00228	unknown
+x00205	unknown
+x00709	Russian
+x00881	Rocky
+x00828	Vikram
+x00351	IELTS
+x00305	Deloitte
+x00926	unknown
+x00841	Divya
+x00102	Sanvi
+x00483	Mumbai Indians
+x00091	Sanvi
+x00363	unknown
+x01117	Ola S1 scooter
+x00462	Sunrisers Hyderabad
+x00779	flute
+x00310	Deloitte
+x00647	toe
+x00877	unknown
+x00776	unknown
+x00765	ukulele
+x00193	auto
+x00204	unknown
+x01084	Mahindra Thar
+x01197	8 pm
+x00611	ankle
+x00941	wedding
+x00731	German
+x00710	Hindi
+x00107	Sanvi
+x00188	train
+x00707	Russian
+x00838	Divya
+x00390	pasta
+x00715	Russian
+x00633	shoulders
+x00929	MacBook
+x00670	accountant
+x00818	Vikram
+x00592	Nagpur
+x00696	unknown
+x01122	unknown
+x00834	Divya
+x00359	IELTS
+x00833	Divya
+x00435	Shreya Ghoshal
+x00944	wedding
+x01073	Mahindra Thar
+x00033	unknown
+x00367	IELTS
+x00576	Nagpur
+x01135	unknown
+x01082	Mahindra Thar
+x01019	Andaman
+x01222	9 pm
+x00674	accountant
+x00630	toe
+x00999	unknown
+x00808	unknown
+x00966	Ananya
+x00379	mutton biryani
+x01192	8 pm
+x00027	cashew
+x00467	unknown
+x00447	Beatles
+x00649	toe
+x00550	unknown
+x00291	unknown
+x01005	unknown
+x00708	Russian
+x00755	ukulele
+x01027	Andaman
+x01226	9 pm
+x00005	soy
+x00093	unknown
+x00827	Vikram
+x00437	unknown
+x00168	unknown
+x00795	flute
+x01016	Rohan
+x00987	unknown
+x01118	Ola S1 scooter
+x00876	Rocky
+x00878	Rocky

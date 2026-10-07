@@ -1,0 +1,35 @@
+{
+ "seed": 2026,
+ "needle_forms": {
+  "hi": [
+   "en",
+   "hi_cm_rom",
+   "hi_cm_nat",
+   "hi_mono_nat",
+   "hi_mono_rom"
+  ],
+  "kn": [
+   "en",
+   "kn_cm_rom",
+   "kn_cm_nat",
+   "kn_mono_nat",
+   "kn_mono_rom"
+  ]
+ },
+ "query_forms": {
+  "hi": [
+   "q_en",
+   "q_hi_cm_rom",
+   "q_hi_mono_nat"
+  ],
+  "kn": [
+   "q_en",
+   "q_kn_cm_rom",
+   "q_kn_mono_nat"
+  ]
+ },
+ "bank": 600,
+ "per_user_per_source": 100,
+ "hard_neg": 30,
+ "pool_size": 336
+}

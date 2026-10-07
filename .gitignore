@@ -1,0 +1,14 @@
+models/
+assets/
+results/emb/
+__pycache__/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+paper/submission.pdf
+paper/preprint.pdf
+.DS_Store

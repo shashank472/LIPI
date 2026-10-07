@@ -1,0 +1,155 @@
+x00939	MacBook
+x00322	Deloitte
+x00927	MacBook
+x01053	unknown
+x00045	unknown
+x00870	Rocky
+x00697	lawyer
+x00395	mutton biryani
+x01103	Ola S1 scooter
+x00157	unknown
+x00692	writer
+x00704	Russian
+x00274	Flipkart
+x00574	unknown
+x00791	flute
+x01067	Meghalaya
+x00360	unknown
+x00256	vegetarian
+x00662	chartered accountant
+x00126	unknown
+x00973	Ananya
+x00420	Shreya Ghoshal
+x01086	unknown
+x00663	editor
+x00242	gluten-free
+x00416	unknown
+x00442	KK
+x00801	flute
+x00622	ankle
+x00788	flute
+x00627	unknown
+x01102	Ola S1 scooter
+x00612	ankle
+x00964	own house
+x00719	Russian
+x00092	Sanvi
+x00131	IIT Bombay
+x00253	vegetarian
+x00620	ankle
+x01032	unknown
+x01189	8 PM
+x00180	unknown
+x00078	unknown
+x00377	IELTS
+x01116	unknown
+x00373	IELTS
+x00497	Mumbai Indians
+x00659	editor
+x00508	Bhubaneswar
+x00431	Shreya Ghoshal
+x01213	9 PM
+x00173	local train
+x00236	gluten-free
+x00097	Sanvi
+x00982	Ananya
+x00121	unknown
+x00064	Kiara
+x00474	Sunrisers Hyderabad
+x01156	football
+x00924	MacBook
+x01025	Andaman
+x00963	own house
+x00690	writer
+x01151	cricket
+x00248	vegetarian
+x00777	ukulele
+x00268	vegetarian
+x00761	unknown
+x00609	unknown
+x00920	MacBook
+x00325	UPSC
+x00529	unknown
+x00565	unknown
+x00175	work from home
+x00254	vegetarian
+x00290	Flipkart
+x00853	unknown
+x00527	unknown
+x00559	unknown
+x00143	Christ University
+x00244	vegetarian
+x00516	unknown
+x00836	Divya
+x00041	cashew
+x00813	Vikram
+x00426	Shreya Ghoshal
+x01108	Ola S1 scooter
+x01029	unknown
+x01026	unknown
+x01099	Ola S1 scooter
+x00632	toe
+x00468	Sunrisers Hyderabad
+x00161	Christ University
+x00429	Shreya Ghoshal
+x00967	Ananya
+x00658	chartered accountant
+x00793	unknown
+x00213	unknown
+x01094	Mahindra Thar SUV
+x00314	Deloitte
+x00308	Deloitte
+x00506	Bhubaneswar
+x00886	Coco
+x00182	local train
+x01022	Andaman
+x00046	cashew
+x00848	Divya
+x00211	unknown
+x00934	unknown
+x00809	Vikram
+x00411	pav bhaji
+x00481	unknown
+x00904	unknown
+x00667	writer
+x00038	cashew
+x01174	football
+x00111	unknown
+x01163	football
+x00798	flute
+x00993	unknown
+x00147	Christ University
+x00722	unknown
+x00343	UPSC
+x00049	cashew
+x00288	unknown
+x01033	Andaman
+x00619	ankle
+x00187	unknown
+x00456	KK
+x00340	UPSC
+x00925	unknown
+x00158	Christ University
+x00691	lawyer
+x00580	unknown
+x00065	Kiara
+x00751	German
+x00767	unknown
+x00898	unknown
+x00911	Coco
+x00116	IIT Bombay
+x00139	Christ University
+x00166	work from home
+x00135	Christ University
+x00145	Christ University
+x01058	Meghalaya
+x00172	work from home
+x00907	unknown
+x00003	unknown
+x00990	Rohan
+x01179	8 PM
+x00218	gluten-free
+x00909	Coco
+x00393	mutton biryani
+x00376	IELTS
+x00318	unknown

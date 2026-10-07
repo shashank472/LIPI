@@ -1,0 +1,58 @@
+\section{Style guide used to draft the facts}
+\label{app:style}
+The drafting models received the following rules, abbreviated here; the full guide is released with the data.
+\begin{enumerate}
+\item \textbf{Statements.} Each statement is a first-person, casual chat message of 12--30 words, stating the fact plus one bit of everyday context. It does not mention any other answer of the same user. All nine forms convey the same content.
+\item \textbf{\form{CM-R}.} The matrix language is Hindi (Kannada), and roughly 30--50\% of content words are English. Spelling is casual chat style without diacritics.
+\item \textbf{\form{CM-N}.} Exactly the same words as \form{CM-R}. Hindi/Kannada words and all person, pet and place names go in native script. English words and English-language brand, company, team and institution names stay in Latin script.
+\item \textbf{\form{MO-N}.} Fluent Hindi (standard written Kannada) in native script. English words are replaced with native words wherever a common one exists. Unavoidable loanwords are written in native script.
+\item \textbf{\form{MO-R}.} Exactly the same words as \form{MO-N}, romanized casually. Names, brands and loanwords keep their usual English spelling.
+\item \textbf{Hindi agreement.} Hindi first-person verbs agree with the user's gender.
+\item \textbf{Questions.} Questions never contain the answer. They reuse a fixed English template per relation type.
+\item \textbf{Answers.} Every answer comes with an alias list: Latin and native-script spellings, plus inflected stems that occur in the forms.
+\end{enumerate}
+
+\section{Prompts}
+\label{app:prompts}
+\paragraph{Write-time gloss (W2).}
+\begin{quote}\small
+You are the write-time canonicaliser of a personal-assistant memory store. Each input line holds one message a user wrote to the assistant. The message may be in Hindi or Kannada, in native script (Devanagari or Kannada) or in Latin script, and is often mixed with English.
+
+For every message, write a faithful English translation in one or two fluent sentences:
+\begin{itemize}
+\item Preserve every fact: names, places, numbers, times, brands, family relations, foods, and who did what.
+\item Translate Romanized Hindi or Kannada words too. Keep proper nouns in their usual English spelling.
+\item Do not add, explain, summarise or omit information.
+\item If the message is already English, copy it unchanged.
+\end{itemize}
+\end{quote}
+Inputs were batches of several hundred memories with opaque identifiers, shuffled across users, conditions and sources.
+
+\paragraph{Read-time question translation (QT).}
+\begin{quote}\small
+Translate short questions into English. The question is in Hindi or Kannada, in native or Latin script, sometimes mixed with English. A user is asking an assistant about themselves. Write a faithful English translation in the first person, e.g.\ ``Which city do I live in now?''.
+\end{quote}
+
+\paragraph{Reader.}
+\begin{quote}\small
+You are a personal assistant with long-term memory. Each item gives a question the user asks about themselves and five memories, which are earlier messages from the same user. They may be in English, Hindi or Kannada, in Latin or native script, or code-mixed. Answer the question with a short English phrase of 1--5 words, using only the memories. If the memories do not contain the answer, write \emph{unknown}.
+\end{quote}
+
+\section{Quality of the LLM glosses}
+\label{app:gloss}
+\input{tables/gloss_quality}
+
+\section{Additional results}
+\label{app:more}
+\input{tables/full_metrics}
+\input{tables/per_relation}
+
+\section{Data statement and licences}
+\label{app:data}
+\begin{itemize}
+\item \textbf{Facts.} The 240 facts and their questions are synthetic and describe fictional users; no real person's data is included. Names of public figures (singers, sports teams) and companies appear only as values of preferences or employers.
+\item \textbf{Distractors.} They come from IndicTalk \citep{gawande2026indictalk} (CC-BY-4.0; Hindi and Kannada friends/family conversations) and Synthetic-Persona-Chat \citep{jandaghi2023syntheticpersonachat} (CC-BY-4.0).
+\item \textbf{Licence.} We release \lipi{} under CC-BY-4.0.
+\item \textbf{Models.} Encoders were used under their respective licences; Vyakyarth's Krutrim Community License permits research use.
+\item \textbf{LLM use.} LLMs (Claude Opus, Sonnet and Haiku) drafted the facts, wrote the glosses and translations, and served as the reader. All of their outputs are released.
+\end{itemize}

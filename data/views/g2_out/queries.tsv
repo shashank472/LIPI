@@ -1,0 +1,960 @@
+q0000	Which instrument am I learning?
+q0001	Which instrument am I learning?
+q0002	Which instrument am I learning?
+q0003	Which instrument am I learning?
+q0004	Which vehicle did I recently buy?
+q0005	Which vehicle did I recently buy?
+q0006	Which vehicle did I recently buy?
+q0007	Which vehicle did I recently buy?
+q0008	Which exam am I preparing for?
+q0009	Which exam am I preparing for?
+q0010	Which exam am I preparing for?
+q0011	Which exam am I preparing for?
+q0012	What time do I usually work out?
+q0013	What time do I usually work out?
+q0014	What time do I usually work out?
+q0015	What time do I usually work out?
+q0016	Who is my favorite singer?
+q0017	Who is my favorite singer?
+q0018	Who is my favorite singer?
+q0019	Who is my favorite singer?
+q0020	Which college did I study at?
+q0021	Which college did I study at?
+q0022	Which college did I study at?
+q0023	Which college did I study at?
+q0024	Which city do I currently live in?
+q0025	Which city do I currently live in?
+q0026	Which city do I currently live in?
+q0027	Which city do I currently live in?
+q0028	Which company do I work for?
+q0029	Which company do I work for?
+q0030	Which company do I work for?
+q0031	Which company do I work for?
+q0032	What is my husband's name?
+q0033	What is my husband's name?
+q0034	What is my husband's name?
+q0035	What is my husband's name?
+q0036	What sport do I play on weekends?
+q0037	What sport do I play on weekends?
+q0038	What sport do I play on weekends?
+q0039	What sport do I play on weekends?
+q0040	Where am I going for my next trip?
+q0041	Where am I going for my next trip?
+q0042	Where am I going for my next trip?
+q0043	Where am I going for my next trip?
+q0044	Which part of my body did I get injured?
+q0045	Which part of my body did I get injured?
+q0046	Which part of my body did I get injured?
+q0047	Which part of my body did I get injured?
+q0048	Where am I originally from?
+q0049	Where am I originally from?
+q0050	Where am I originally from?
+q0051	Where am I originally from?
+q0052	What do I do for a living?
+q0053	What do I do for a living?
+q0054	What do I do for a living?
+q0055	What do I do for a living?
+q0056	Which language am I learning?
+q0057	Which language am I learning?
+q0058	Which language am I learning?
+q0059	Which language am I learning?
+q0060	What is my son's name?
+q0061	What is my son's name?
+q0062	What is my son's name?
+q0063	What is my son's name?
+q0064	How do I go to work?
+q0065	How do I go to work?
+q0066	How do I go to work?
+q0067	How do I go to work?
+q0068	What am I saving money for?
+q0069	What am I saving money for?
+q0070	What am I saving money for?
+q0071	What am I saving money for?
+q0072	What is my dog's name?
+q0073	What is my dog's name?
+q0074	What is my dog's name?
+q0075	What is my dog's name?
+q0076	What is my sister's name?
+q0077	What is my sister's name?
+q0078	What is my sister's name?
+q0079	What is my sister's name?
+q0080	What am I allergic to?
+q0081	What am I allergic to?
+q0082	What am I allergic to?
+q0083	What am I allergic to?
+q0084	What diet do I follow?
+q0085	What diet do I follow?
+q0086	What diet do I follow?
+q0087	What diet do I follow?
+q0088	What is my favorite dish?
+q0089	What is my favorite dish?
+q0090	What is my favorite dish?
+q0091	What is my favorite dish?
+q0092	Which team do I support?
+q0093	Which team do I support?
+q0094	Which team do I support?
+q0095	Which team do I support?
+q0096	Which city do I currently live in?
+q0097	Which city do I currently live in?
+q0098	Which city do I currently live in?
+q0099	Which city do I currently live in?
+q0100	Where am I originally from?
+q0101	Where am I originally from?
+q0102	Where am I originally from?
+q0103	Where am I originally from?
+q0104	What do I do for a living?
+q0105	What do I do for a living?
+q0106	What do I do for a living?
+q0107	What do I do for a living?
+q0108	What is my daughter's name?
+q0109	What is my daughter's name?
+q0110	What is my daughter's name?
+q0111	What is my daughter's name?
+q0112	What do I do for a living?
+q0113	How do I go to work?
+q0114	How do I go to work?
+q0115	How do I go to work?
+q0116	What am I saving money for?
+q0117	What am I saving money for?
+q0118	What am I saving money for?
+q0119	What am I saving money for?
+q0120	What is my brother's name?
+q0121	What is my brother's name?
+q0122	What is my brother's name?
+q0123	What is my brother's name?
+q0124	What is my wife's name?
+q0125	What is my wife's name?
+q0126	What is my wife's name?
+q0127	What is my wife's name?
+q0128	What is my favorite dish?
+q0129	What is my favorite dish?
+q0130	What is my favorite dish?
+q0131	What is my favorite dish?
+q0132	Which instrument am I learning?
+q0133	Which instrument am I learning?
+q0134	Which instrument am I learning?
+q0135	Which instrument am I learning?
+q0136	What time do I usually work out?
+q0137	What time do I usually work out?
+q0138	What time do I usually work out?
+q0139	What time do I usually work out?
+q0140	Who is my favorite singer?
+q0141	Who is my favorite singer?
+q0142	Who is my favorite singer?
+q0143	Who is my favorite singer?
+q0144	What am I allergic to?
+q0145	What am I allergic to?
+q0146	What am I allergic to?
+q0147	What am I allergic to?
+q0148	What sport do I play on weekends?
+q0149	What sport do I play on weekends?
+q0150	What sport do I play on weekends?
+q0151	What sport do I play on weekends?
+q0152	Which vehicle did I recently buy?
+q0153	Which vehicle did I recently buy?
+q0154	Which vehicle did I recently buy?
+q0155	Which vehicle did I recently buy?
+q0156	Which part of my body did I get injured?
+q0157	Which part of my body did I get injured?
+q0158	Which part of my body did I get injured?
+q0159	Which part of my body did I get injured?
+q0160	Which language am I learning?
+q0161	Which language am I learning?
+q0162	Which language am I learning?
+q0163	Which language am I learning?
+q0164	Which team do I support?
+q0165	Which team do I support?
+q0166	Which team do I support?
+q0167	Which team do I support?
+q0168	Which company do I work for?
+q0169	Which company do I work for?
+q0170	Which company do I work for?
+q0171	Which company do I work for?
+q0172	What is my cat's name?
+q0173	What is my cat's name?
+q0174	What is my cat's name?
+q0175	What is my cat's name?
+q0176	What diet do I follow?
+q0177	What diet do I follow?
+q0178	What diet do I follow?
+q0179	What diet do I follow?
+q0180	Where am I going for my next trip?
+q0181	Where am I going for my next trip?
+q0182	Where am I going for my next trip?
+q0183	Where am I going for my next trip?
+q0184	Which exam am I preparing for?
+q0185	Which exam am I preparing for?
+q0186	Which exam am I preparing for?
+q0187	Which exam am I preparing for?
+q0188	Which college did I study at?
+q0189	Which college did I study at?
+q0190	Which college did I study at?
+q0191	Which college did I study at?
+q0192	Which city do I currently live in?
+q0193	Which city do I currently live in?
+q0194	Which city do I currently live in?
+q0195	Which city do I currently live in?
+q0196	Where am I originally from?
+q0197	Where am I originally from?
+q0198	Where am I originally from?
+q0199	Where am I originally from?
+q0200	Which instrument am I learning?
+q0201	Which instrument am I learning?
+q0202	Which instrument am I learning?
+q0203	Which instrument am I learning?
+q0204	Which part of my body did I get injured?
+q0205	Which part of my body did I get injured?
+q0206	Which part of my body did I get injured?
+q0207	Which part of my body did I get injured?
+q0208	What time do I usually work out?
+q0209	What time do I usually work out?
+q0210	What time do I usually work out?
+q0211	What time do I usually work out?
+q0212	Which college did I study at?
+q0213	Which college did I study at?
+q0214	Which college did I study at?
+q0215	Which college did I study at?
+q0216	What do I do for a living?
+q0217	What do I do for a living?
+q0218	What do I do for a living?
+q0219	What do I do for a living?
+q0220	What am I allergic to?
+q0221	What am I allergic to?
+q0222	What am I allergic to?
+q0223	What am I allergic to?
+q0224	What sport do I play on weekends?
+q0225	What sport do I play on weekends?
+q0226	What sport do I play on weekends?
+q0227	What sport do I play on weekends?
+q0228	Which vehicle did I recently buy?
+q0229	Which vehicle did I recently buy?
+q0230	Which vehicle did I recently buy?
+q0231	Which vehicle did I recently buy?
+q0232	Where am I going for my next trip?
+q0233	Where am I going for my next trip?
+q0234	Where am I going for my next trip?
+q0235	Where am I going for my next trip?
+q0236	Which team do I support?
+q0237	Which team do I support?
+q0238	Which team do I support?
+q0239	Which team do I support?
+q0240	Which company do I work for?
+q0241	Which company do I work for?
+q0242	Which company do I work for?
+q0243	Which company do I work for?
+q0244	What is my sister's name?
+q0245	What is my sister's name?
+q0246	What is my sister's name?
+q0247	What is my sister's name?
+q0248	What is my fiancee's name?
+q0249	What is my fiancee's name?
+q0250	What is my fiancee's name?
+q0251	What is my fiancee's name?
+q0252	What diet do I follow?
+q0253	What diet do I follow?
+q0254	What diet do I follow?
+q0255	What diet do I follow?
+q0256	What is my favorite dish?
+q0257	What is my favorite dish?
+q0258	What is my favorite dish?
+q0259	What is my favorite dish?
+q0260	Which language am I learning?
+q0261	Which language am I learning?
+q0262	Which language am I learning?
+q0263	Which language am I learning?
+q0264	What is my parrot's name?
+q0265	What is my parrot's name?
+q0266	What is my parrot's name?
+q0267	What is my parrot's name?
+q0268	Which exam am I preparing for?
+q0269	Which exam am I preparing for?
+q0270	Which exam am I preparing for?
+q0271	Which exam am I preparing for?
+q0272	Who is my favorite singer?
+q0273	Who is my favorite singer?
+q0274	Who is my favorite singer?
+q0275	Who is my favorite singer?
+q0276	What is my son's name?
+q0277	What is my son's name?
+q0278	What is my son's name?
+q0279	What is my son's name?
+q0280	How do I go to work?
+q0281	How do I go to work?
+q0282	How do I go to work?
+q0283	How do I go to work?
+q0284	What am I saving money for?
+q0285	What am I saving money for?
+q0286	What am I saving money for?
+q0287	What am I saving money for?
+q0288	Where am I originally from?
+q0289	Where am I originally from?
+q0290	Where am I originally from?
+q0291	Where am I originally from?
+q0292	What is my favorite dish?
+q0293	What is my favorite dish?
+q0294	What is my favorite dish?
+q0295	What is my favorite dish?
+q0296	Which instrument am I learning?
+q0297	Which instrument am I learning?
+q0298	Which instrument am I learning?
+q0299	Which instrument am I learning?
+q0300	Which part of my body did I get injured?
+q0301	Which part of my body did I get injured?
+q0302	Which part of my body did I get injured?
+q0303	Which part of my body did I get injured?
+q0304	Who is my favorite singer?
+q0305	Who is my favorite singer?
+q0306	Who is my favorite singer?
+q0307	Who is my favorite singer?
+q0308	What is my daughter's name?
+q0309	What is my daughter's name?
+q0310	What is my daughter's name?
+q0311	What is my daughter's name?
+q0312	What do I do for a living?
+q0313	What do I do for a living?
+q0314	What do I do for a living?
+q0315	What do I do for a living?
+q0316	What is my brother's name?
+q0317	What is my brother's name?
+q0318	What is my brother's name?
+q0319	What is my brother's name?
+q0320	What diet do I follow?
+q0321	What diet do I follow?
+q0322	What diet do I follow?
+q0323	What diet do I follow?
+q0324	What time do I usually work out?
+q0325	What time do I usually work out?
+q0326	What time do I usually work out?
+q0327	What time do I usually work out?
+q0328	Which college did I study at?
+q0329	Which college did I study at?
+q0330	Which college did I study at?
+q0331	Which college did I study at?
+q0332	What am I saving money for?
+q0333	What am I saving money for?
+q0334	What am I saving money for?
+q0335	What am I saving money for?
+q0336	Which city do I currently live in?
+q0337	Which city do I currently live in?
+q0338	Which city do I currently live in?
+q0339	Which city do I currently live in?
+q0340	Which vehicle did I recently buy?
+q0341	Which vehicle did I recently buy?
+q0342	Which vehicle did I recently buy?
+q0343	Which vehicle did I recently buy?
+q0344	Where am I going for my next trip?
+q0345	Where am I going for my next trip?
+q0346	Where am I going for my next trip?
+q0347	Where am I going for my next trip?
+q0348	Which exam am I preparing for?
+q0349	Which exam am I preparing for?
+q0350	Which exam am I preparing for?
+q0351	Which exam am I preparing for?
+q0352	How do I go to work?
+q0353	How do I go to work?
+q0354	How do I go to work?
+q0355	How do I go to work?
+q0356	Which team do I support?
+q0357	Which team do I support?
+q0358	Which team do I support?
+q0359	Which team do I support?
+q0360	Which company do I work for?
+q0361	Which company do I work for?
+q0362	Which company do I work for?
+q0363	Which company do I work for?
+q0364	What is my dog's name?
+q0365	What is my dog's name?
+q0366	What is my dog's name?
+q0367	What is my dog's name?
+q0368	What is my wife's name?
+q0369	What is my wife's name?
+q0370	What is my wife's name?
+q0371	What is my wife's name?
+q0372	What am I allergic to?
+q0373	What am I allergic to?
+q0374	What am I allergic to?
+q0375	What am I allergic to?
+q0376	What sport do I play on weekends?
+q0377	What sport do I play on weekends?
+q0378	What sport do I play on weekends?
+q0379	What sport do I play on weekends?
+q0380	Which language am I learning?
+q0381	Which language am I learning?
+q0382	Which language am I learning?
+q0383	Which language am I learning?
+q0384	Which company do I work for?
+q0385	Which company do I work for?
+q0386	Which company do I work for?
+q0387	Which company do I work for?
+q0388	What do I do for a living?
+q0389	What do I do for a living?
+q0390	What do I do for a living?
+q0391	What do I do for a living?
+q0392	Which instrument am I learning?
+q0393	Which instrument am I learning?
+q0394	Which instrument am I learning?
+q0395	Which instrument am I learning?
+q0396	Who is my favorite singer?
+q0397	Who is my favorite singer?
+q0398	Who is my favorite singer?
+q0399	Who is my favorite singer?
+q0400	Which language am I learning?
+q0401	Which language am I learning?
+q0402	Which language am I learning?
+q0403	Which language am I learning?
+q0404	What is my son's name?
+q0405	What is my son's name?
+q0406	What is my son's name?
+q0407	What is my son's name?
+q0408	Where am I originally from?
+q0409	Where am I originally from?
+q0410	Where am I originally from?
+q0411	Where am I originally from?
+q0412	What is my sister's name?
+q0413	What is my sister's name?
+q0414	What is my sister's name?
+q0415	What is my sister's name?
+q0416	What diet do I follow?
+q0417	What diet do I follow?
+q0418	What diet do I follow?
+q0419	What diet do I follow?
+q0420	Which vehicle did I recently buy?
+q0421	Which vehicle did I recently buy?
+q0422	Which vehicle did I recently buy?
+q0423	Which vehicle did I recently buy?
+q0424	Which exam am I preparing for?
+q0425	Which exam am I preparing for?
+q0426	Which exam am I preparing for?
+q0427	Which exam am I preparing for?
+q0428	Which team do I support?
+q0429	Which team do I support?
+q0430	Which team do I support?
+q0431	Which team do I support?
+q0432	Which city do I currently live in?
+q0433	Which city do I currently live in?
+q0434	Which city do I currently live in?
+q0435	Which city do I currently live in?
+q0436	What am I allergic to?
+q0437	What am I allergic to?
+q0438	What am I allergic to?
+q0439	What am I allergic to?
+q0440	What is my favorite dish?
+q0441	What is my favorite dish?
+q0442	What is my favorite dish?
+q0443	What is my favorite dish?
+q0444	Where am I going for my next trip?
+q0445	Where am I going for my next trip?
+q0446	Where am I going for my next trip?
+q0447	Where am I going for my next trip?
+q0448	Which part of my body did I get injured?
+q0449	Which part of my body did I get injured?
+q0450	Which part of my body did I get injured?
+q0451	Which part of my body did I get injured?
+q0452	Which college did I study at?
+q0453	Which college did I study at?
+q0454	Which college did I study at?
+q0455	Which college did I study at?
+q0456	What is my cat's name?
+q0457	What is my cat's name?
+q0458	What is my cat's name?
+q0459	What is my cat's name?
+q0460	What is my husband's name?
+q0461	What is my husband's name?
+q0462	What is my husband's name?
+q0463	What is my husband's name?
+q0464	What sport do I play on weekends?
+q0465	What sport do I play on weekends?
+q0466	What sport do I play on weekends?
+q0467	What sport do I play on weekends?
+q0468	What time do I usually work out?
+q0469	What time do I usually work out?
+q0470	What time do I usually work out?
+q0471	What time do I usually work out?
+q0472	How do I go to work?
+q0473	How do I go to work?
+q0474	How do I go to work?
+q0475	How do I go to work?
+q0476	What am I saving money for?
+q0477	What am I saving money for?
+q0478	What am I saving money for?
+q0479	What am I saving money for?
+q0480	What do I do for a living?
+q0481	What do I do for a living?
+q0482	What do I do for a living?
+q0483	What do I do for a living?
+q0484	What is my husband's name?
+q0485	What is my husband's name?
+q0486	What is my husband's name?
+q0487	What is my husband's name?
+q0488	What sport do I play on weekends?
+q0489	What sport do I play on weekends?
+q0490	What sport do I play on weekends?
+q0491	What sport do I play on weekends?
+q0492	Which vehicle did I recently buy?
+q0493	Which vehicle did I recently buy?
+q0494	Which vehicle did I recently buy?
+q0495	Which vehicle did I recently buy?
+q0496	Which part of my body did I get injured?
+q0497	Which part of my body did I get injured?
+q0498	Which part of my body did I get injured?
+q0499	Which part of my body did I get injured?
+q0500	What am I saving money for?
+q0501	What am I saving money for?
+q0502	What am I saving money for?
+q0503	What am I saving money for?
+q0504	Which city do I currently live in?
+q0505	Which city do I currently live in?
+q0506	Which city do I currently live in?
+q0507	Which city do I currently live in?
+q0508	What is my dog's name?
+q0509	What is my dog's name?
+q0510	What is my dog's name?
+q0511	What is my dog's name?
+q0512	What diet do I follow?
+q0513	What diet do I follow?
+q0514	What diet do I follow?
+q0515	What diet do I follow?
+q0516	What is my favorite dish?
+q0517	What is my favorite dish?
+q0518	What is my favorite dish?
+q0519	What is my favorite dish?
+q0520	What time do I usually work out?
+q0521	What time do I usually work out?
+q0522	What time do I usually work out?
+q0523	What time do I usually work out?
+q0524	Which team do I support?
+q0525	Which team do I support?
+q0526	Which team do I support?
+q0527	Which team do I support?
+q0528	Where am I originally from?
+q0529	Where am I originally from?
+q0530	Where am I originally from?
+q0531	Where am I originally from?
+q0532	Which instrument am I learning?
+q0533	Which instrument am I learning?
+q0534	Which instrument am I learning?
+q0535	Which instrument am I learning?
+q0536	Which exam am I preparing for?
+q0537	Which exam am I preparing for?
+q0538	Which exam am I preparing for?
+q0539	Which exam am I preparing for?
+q0540	Which language am I learning?
+q0541	Which language am I learning?
+q0542	Which language am I learning?
+q0543	Which language am I learning?
+q0544	How do I go to work?
+q0545	How do I go to work?
+q0546	How do I go to work?
+q0547	How do I go to work?
+q0548	Which college did I study at?
+q0549	Which college did I study at?
+q0550	Which college did I study at?
+q0551	Which college did I study at?
+q0552	Which company do I work for?
+q0553	Which company do I work for?
+q0554	Which company do I work for?
+q0555	Which company do I work for?
+q0556	What is my brother's name?
+q0557	What is my brother's name?
+q0558	What is my brother's name?
+q0559	What is my brother's name?
+q0560	What am I allergic to?
+q0561	What am I allergic to?
+q0562	What am I allergic to?
+q0563	What am I allergic to?
+q0564	Where am I going for my next trip?
+q0565	Where am I going for my next trip?
+q0566	Where am I going for my next trip?
+q0567	Where am I going for my next trip?
+q0568	Who is my favorite singer?
+q0569	Who is my favorite singer?
+q0570	Who is my favorite singer?
+q0571	Who is my favorite singer?
+q0572	What is my daughter's name?
+q0573	What is my daughter's name?
+q0574	What is my daughter's name?
+q0575	What is my daughter's name?
+q0576	Which company do I work for?
+q0577	Which company do I work for?
+q0578	Which company do I work for?
+q0579	Which company do I work for?
+q0580	What is my sister's name?
+q0581	What is my sister's name?
+q0582	What is my sister's name?
+q0583	What is my sister's name?
+q0584	What is my fiancee's name?
+q0585	What is my fiancee's name?
+q0586	What is my fiancee's name?
+q0587	What is my fiancee's name?
+q0588	Which vehicle did I recently buy?
+q0589	Which vehicle did I recently buy?
+q0590	Which vehicle did I recently buy?
+q0591	Which vehicle did I recently buy?
+q0592	How do I go to work?
+q0593	How do I go to work?
+q0594	How do I go to work?
+q0595	How do I go to work?
+q0596	Which team do I support?
+q0597	Which team do I support?
+q0598	Which team do I support?
+q0599	Which team do I support?
+q0600	What do I do for a living?
+q0601	What do I do for a living?
+q0602	What do I do for a living?
+q0603	What do I do for a living?
+q0604	What am I allergic to?
+q0605	What am I allergic to?
+q0606	What am I allergic to?
+q0607	What am I allergic to?
+q0608	What is my favorite dish?
+q0609	What is my favorite dish?
+q0610	What is my favorite dish?
+q0611	What is my favorite dish?
+q0612	Who is my favorite singer?
+q0613	Who is my favorite singer?
+q0614	Who is my favorite singer?
+q0615	Who is my favorite singer?
+q0616	What is my son's name?
+q0617	What is my son's name?
+q0618	What is my son's name?
+q0619	What is my son's name?
+q0620	Which college did I study at?
+q0621	Which college did I study at?
+q0622	Which college did I study at?
+q0623	Which college did I study at?
+q0624	What is my dog's name?
+q0625	What is my dog's name?
+q0626	What is my dog's name?
+q0627	What is my dog's name?
+q0628	What diet do I follow?
+q0629	What diet do I follow?
+q0630	What diet do I follow?
+q0631	What diet do I follow?
+q0632	Where am I going for my next trip?
+q0633	Where am I going for my next trip?
+q0634	Where am I going for my next trip?
+q0635	Where am I going for my next trip?
+q0636	Which exam am I preparing for?
+q0637	Which exam am I preparing for?
+q0638	Which exam am I preparing for?
+q0639	Which exam am I preparing for?
+q0640	Which language am I learning?
+q0641	Which language am I learning?
+q0642	Which language am I learning?
+q0643	Which language am I learning?
+q0644	What am I saving money for?
+q0645	What am I saving money for?
+q0646	What am I saving money for?
+q0647	What am I saving money for?
+q0648	Which city do I currently live in?
+q0649	Which city do I currently live in?
+q0650	Which city do I currently live in?
+q0651	Which city do I currently live in?
+q0652	Where am I originally from?
+q0653	Where am I originally from?
+q0654	Where am I originally from?
+q0655	Where am I originally from?
+q0656	Which instrument am I learning?
+q0657	Which instrument am I learning?
+q0658	Which instrument am I learning?
+q0659	Which instrument am I learning?
+q0660	What sport do I play on weekends?
+q0661	What sport do I play on weekends?
+q0662	What sport do I play on weekends?
+q0663	What sport do I play on weekends?
+q0664	Which part of my body did I get injured?
+q0665	Which part of my body did I get injured?
+q0666	Which part of my body did I get injured?
+q0667	Which part of my body did I get injured?
+q0668	What time do I usually work out?
+q0669	What time do I usually work out?
+q0670	What time do I usually work out?
+q0671	What time do I usually work out?
+q0672	Where am I originally from?
+q0673	Where am I originally from?
+q0674	Where am I originally from?
+q0675	Where am I originally from?
+q0676	Which company do I work for?
+q0677	Which company do I work for?
+q0678	Which company do I work for?
+q0679	Which company do I work for?
+q0680	What is my cat's name?
+q0681	What is my cat's name?
+q0682	What is my cat's name?
+q0683	What is my cat's name?
+q0684	Which part of my body did I get injured?
+q0685	Which part of my body did I get injured?
+q0686	Which part of my body did I get injured?
+q0687	Which part of my body did I get injured?
+q0688	What time do I usually work out?
+q0689	What time do I usually work out?
+q0690	What time do I usually work out?
+q0691	What time do I usually work out?
+q0692	What am I saving money for?
+q0693	What am I saving money for?
+q0694	What am I saving money for?
+q0695	What am I saving money for?
+q0696	Which city do I currently live in?
+q0697	Which city do I currently live in?
+q0698	Which city do I currently live in?
+q0699	Which city do I currently live in?
+q0700	What is my brother's name?
+q0701	What is my brother's name?
+q0702	What is my brother's name?
+q0703	What is my brother's name?
+q0704	Which vehicle did I recently buy?
+q0705	Which vehicle did I recently buy?
+q0706	Which vehicle did I recently buy?
+q0707	Which vehicle did I recently buy?
+q0708	Which exam am I preparing for?
+q0709	Which exam am I preparing for?
+q0710	Which exam am I preparing for?
+q0711	Which exam am I preparing for?
+q0712	Who is my favorite singer?
+q0713	Who is my favorite singer?
+q0714	Who is my favorite singer?
+q0715	Who is my favorite singer?
+q0716	How do I go to work?
+q0717	How do I go to work?
+q0718	How do I go to work?
+q0719	How do I go to work?
+q0720	What do I do for a living?
+q0721	What do I do for a living?
+q0722	What do I do for a living?
+q0723	What do I do for a living?
+q0724	What is my favorite dish?
+q0725	What is my favorite dish?
+q0726	What is my favorite dish?
+q0727	What is my favorite dish?
+q0728	Which instrument am I learning?
+q0729	Which instrument am I learning?
+q0730	Which instrument am I learning?
+q0731	Which instrument am I learning?
+q0732	What sport do I play on weekends?
+q0733	What sport do I play on weekends?
+q0734	What sport do I play on weekends?
+q0735	What sport do I play on weekends?
+q0736	What is my daughter's name?
+q0737	What is my daughter's name?
+q0738	What is my daughter's name?
+q0739	What is my daughter's name?
+q0740	Which college did I study at?
+q0741	Which college did I study at?
+q0742	Which college did I study at?
+q0743	Which college did I study at?
+q0744	What is my husband's name?
+q0745	What is my husband's name?
+q0746	What is my husband's name?
+q0747	What is my husband's name?
+q0748	What am I allergic to?
+q0749	What am I allergic to?
+q0750	What am I allergic to?
+q0751	What am I allergic to?
+q0752	What diet do I follow?
+q0753	What diet do I follow?
+q0754	What diet do I follow?
+q0755	What diet do I follow?
+q0756	Where am I going for my next trip?
+q0757	Where am I going for my next trip?
+q0758	Where am I going for my next trip?
+q0759	Where am I going for my next trip?
+q0760	Which language am I learning?
+q0761	Which language am I learning?
+q0762	Which language am I learning?
+q0763	Which language am I learning?
+q0764	Which team do I support?
+q0765	Which team do I support?
+q0766	Which team do I support?
+q0767	Which team do I support?
+q0768	What do I do for a living?
+q0769	What do I do for a living?
+q0770	What do I do for a living?
+q0771	What do I do for a living?
+q0772	What am I allergic to?
+q0773	What am I allergic to?
+q0774	What am I allergic to?
+q0775	What am I allergic to?
+q0776	Where am I going for my next trip?
+q0777	Where am I going for my next trip?
+q0778	Where am I going for my next trip?
+q0779	Where am I going for my next trip?
+q0780	What time do I usually work out?
+q0781	What time do I usually work out?
+q0782	What time do I usually work out?
+q0783	What time do I usually work out?
+q0784	Which college did I study at?
+q0785	Which college did I study at?
+q0786	Which college did I study at?
+q0787	Which college did I study at?
+q0788	What am I saving money for?
+q0789	What am I saving money for?
+q0790	What am I saving money for?
+q0791	What am I saving money for?
+q0792	Which city do I currently live in?
+q0793	Which city do I currently live in?
+q0794	Which city do I currently live in?
+q0795	Which city do I currently live in?
+q0796	Which company do I work for?
+q0797	Which company do I work for?
+q0798	Which company do I work for?
+q0799	Which company do I work for?
+q0800	What is my sister's name?
+q0801	What is my sister's name?
+q0802	What is my sister's name?
+q0803	What is my sister's name?
+q0804	What sport do I play on weekends?
+q0805	What sport do I play on weekends?
+q0806	What sport do I play on weekends?
+q0807	What sport do I play on weekends?
+q0808	Which language am I learning?
+q0809	Which language am I learning?
+q0810	Which language am I learning?
+q0811	Which language am I learning?
+q0812	What is my son's name?
+q0813	What is my son's name?
+q0814	What is my son's name?
+q0815	What is my son's name?
+q0816	Where am I originally from?
+q0817	Where am I originally from?
+q0818	Where am I originally from?
+q0819	Where am I originally from?
+q0820	What is my dog's name?
+q0821	What is my dog's name?
+q0822	What is my dog's name?
+q0823	What is my dog's name?
+q0824	What diet do I follow?
+q0825	What diet do I follow?
+q0826	What diet do I follow?
+q0827	What diet do I follow?
+q0828	Which instrument am I learning?
+q0829	Which instrument am I learning?
+q0830	Which instrument am I learning?
+q0831	Which instrument am I learning?
+q0832	Which vehicle did I recently buy?
+q0833	Which vehicle did I recently buy?
+q0834	Which vehicle did I recently buy?
+q0835	Which vehicle did I recently buy?
+q0836	Which team do I support?
+q0837	Which team do I support?
+q0838	Which team do I support?
+q0839	Which team do I support?
+q0840	What is my wife's name?
+q0841	What is my wife's name?
+q0842	What is my wife's name?
+q0843	What is my wife's name?
+q0844	What is my favorite dish?
+q0845	What is my favorite dish?
+q0846	What is my favorite dish?
+q0847	What is my favorite dish?
+q0848	Which exam am I preparing for?
+q0849	Which exam am I preparing for?
+q0850	Which exam am I preparing for?
+q0851	Which exam am I preparing for?
+q0852	Which part of my body did I get injured?
+q0853	Which part of my body did I get injured?
+q0854	Which part of my body did I get injured?
+q0855	Which part of my body did I get injured?
+q0856	Who is my favorite singer?
+q0857	Who is my favorite singer?
+q0858	Who is my favorite singer?
+q0859	Who is my favorite singer?
+q0860	How do I go to work?
+q0861	How do I go to work?
+q0862	How do I go to work?
+q0863	How do I go to work?
+q0864	What is my wife's name?
+q0865	What is my wife's name?
+q0866	What is my wife's name?
+q0867	What is my wife's name?
+q0868	What am I allergic to?
+q0869	What am I allergic to?
+q0870	What am I allergic to?
+q0871	What am I allergic to?
+q0872	Which vehicle did I recently buy?
+q0873	Which vehicle did I recently buy?
+q0874	Which vehicle did I recently buy?
+q0875	Which vehicle did I recently buy?
+q0876	What is my daughter's name?
+q0877	What is my daughter's name?
+q0878	What is my daughter's name?
+q0879	What is my daughter's name?
+q0880	Which college did I study at?
+q0881	Which college did I study at?
+q0882	Which college did I study at?
+q0883	Which college did I study at?
+q0884	What am I saving money for?
+q0885	What am I saving money for?
+q0886	What am I saving money for?
+q0887	What am I saving money for?
+q0888	Which company do I work for?
+q0889	Which company do I work for?
+q0890	Which company do I work for?
+q0891	Which company do I work for?
+q0892	Which instrument am I learning?
+q0893	Which instrument am I learning?
+q0894	Which instrument am I learning?
+q0895	Which instrument am I learning?
+q0896	What time do I usually work out?
+q0897	What time do I usually work out?
+q0898	What time do I usually work out?
+q0899	What time do I usually work out?
+q0900	Who is my favorite singer?
+q0901	Who is my favorite singer?
+q0902	Who is my favorite singer?
+q0903	Who is my favorite singer?
+q0904	Which language am I learning?
+q0905	Which language am I learning?
+q0906	Which language am I learning?
+q0907	Which language am I learning?
+q0908	How do I go to work?
+q0909	How do I go to work?
+q0910	How do I go to work?
+q0911	How do I go to work?
+q0912	Which city do I currently live in?
+q0913	Which city do I currently live in?
+q0914	Which city do I currently live in?
+q0915	Which city do I currently live in?
+q0916	What is my brother's name?
+q0917	What is my brother's name?
+q0918	What is my brother's name?
+q0919	What is my brother's name?
+q0920	What diet do I follow?
+q0921	What diet do I follow?
+q0922	What diet do I follow?
+q0923	What diet do I follow?
+q0924	Where am I going for my next trip?
+q0925	Where am I going for my next trip?
+q0926	Where am I going for my next trip?
+q0927	Where am I going for my next trip?
+q0928	Which exam am I preparing for?
+q0929	Which exam am I preparing for?
+q0930	Which exam am I preparing for?
+q0931	Which exam am I preparing for?
+q0932	Which part of my body did I get injured?
+q0933	Which part of my body did I get injured?
+q0934	Which part of my body did I get injured?
+q0935	Which part of my body did I get injured?
+q0936	Where am I originally from?
+q0937	Where am I originally from?
+q0938	Where am I originally from?
+q0939	Where am I originally from?
+q0940	What do I do for a living?
+q0941	What do I do for a living?
+q0942	What do I do for a living?
+q0943	What do I do for a living?
+q0944	What is my rabbit's name?
+q0945	What is my rabbit's name?
+q0946	What is my rabbit's name?
+q0947	What is my rabbit's name?
+q0948	What is my favorite dish?
+q0949	What is my favorite dish?
+q0950	What is my favorite dish?
+q0951	What is my favorite dish?
+q0952	What sport do I play on weekends?
+q0953	What sport do I play on weekends?
+q0954	What sport do I play on weekends?
+q0955	What sport do I play on weekends?
+q0956	Which team do I support?
+q0957	Which team do I support?
+q0958	Which team do I support?
+q0959	Which team do I support?

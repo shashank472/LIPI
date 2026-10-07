@@ -1,0 +1,22 @@
+\begin{table}[t]
+\centering
+\small
+\setlength{\tabcolsep}{4pt}
+\caption{Retrievers evaluated. Parameter counts are approximate.}
+\label{tab:retrievers}
+\begin{tabular}{@{}l l l l l@{}}
+\toprule
+Short name & Model & Type & Params & Notes \\
+\midrule
+bm25 & \texttt{BM25} & lexical & -- & \citet{robertson2009bm25} \\
+MiniLM-en & \texttt{all-MiniLM-L6-v2} & English-only & 23M & A-Mem default \\
+mMiniLM & \texttt{paraphrase-multilingual-MiniLM-L12-v2} & multilingual & 118M & 50+ languages \\
+mE5-small & \texttt{multilingual-e5-small} & multilingual & 118M & \texttt{query:}/\texttt{passage:} prefixes \\
+mE5-base & \texttt{multilingual-e5-base} & multilingual & 278M & \texttt{query:}/\texttt{passage:} prefixes \\
+LaBSE & \texttt{LaBSE} & multilingual & 471M & translation-pair trained \\
+BGE-M3 & \texttt{bge-m3 (dense)} & multilingual & 568M & XLM-R large backbone \\
+IndicSBERT & \texttt{indic-sentence-similarity-sbert} & Indic & 238M & L3Cube; 10 Indic languages \\
+Vyakyarth & \texttt{Vyakyarth} & Indic & 278M & Krutrim; XLM-R based \\
+\bottomrule
+\end{tabular}
+\end{table}

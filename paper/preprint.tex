@@ -1,0 +1,19 @@
+\pdfoutput=1
+\documentclass[10pt]{article}
+\usepackage[preprint]{tmlr}
+\newif\ifpreprint \preprinttrue
+\input{preamble}
+
+\begin{document}
+\maketitle
+
+\input{body_front}
+\input{body_results}
+
+\bibliography{references}
+\bibliographystyle{tmlr}
+
+\appendix
+\input{sections/appendix}
+
+\end{document}

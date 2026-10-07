@@ -1,0 +1,482 @@
+[
+ {
+  "user_id": "u01",
+  "gender": "f",
+  "relations": [
+   "learning_instrument",
+   "vehicle",
+   "exam_prep",
+   "workout_time",
+   "favorite_singer",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u02",
+  "gender": "f",
+  "relations": [
+   "home_city",
+   "employer",
+   "partner_name",
+   "weekend_sport",
+   "trip_destination",
+   "injury"
+  ]
+ },
+ {
+  "user_id": "u03",
+  "gender": "f",
+  "relations": [
+   "hometown",
+   "job_role",
+   "language_learning",
+   "child_name",
+   "commute_mode",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u04",
+  "gender": "m",
+  "relations": [
+   "pet_name",
+   "sibling_name",
+   "allergy",
+   "diet",
+   "favorite_food",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u05",
+  "gender": "f",
+  "relations": [
+   "home_city",
+   "hometown",
+   "job_role",
+   "child_name",
+   "commute_mode",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u06",
+  "gender": "m",
+  "relations": [
+   "sibling_name",
+   "partner_name",
+   "favorite_food",
+   "learning_instrument",
+   "workout_time",
+   "favorite_singer"
+  ]
+ },
+ {
+  "user_id": "u07",
+  "gender": "m",
+  "relations": [
+   "allergy",
+   "weekend_sport",
+   "vehicle",
+   "injury",
+   "language_learning",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u08",
+  "gender": "m",
+  "relations": [
+   "employer",
+   "pet_name",
+   "diet",
+   "trip_destination",
+   "exam_prep",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u09",
+  "gender": "f",
+  "relations": [
+   "home_city",
+   "hometown",
+   "learning_instrument",
+   "injury",
+   "workout_time",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u10",
+  "gender": "f",
+  "relations": [
+   "job_role",
+   "allergy",
+   "weekend_sport",
+   "vehicle",
+   "trip_destination",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u11",
+  "gender": "f",
+  "relations": [
+   "employer",
+   "sibling_name",
+   "partner_name",
+   "diet",
+   "favorite_food",
+   "language_learning"
+  ]
+ },
+ {
+  "user_id": "u12",
+  "gender": "f",
+  "relations": [
+   "pet_name",
+   "exam_prep",
+   "favorite_singer",
+   "child_name",
+   "commute_mode",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u13",
+  "gender": "f",
+  "relations": [
+   "hometown",
+   "favorite_food",
+   "learning_instrument",
+   "injury",
+   "favorite_singer",
+   "child_name"
+  ]
+ },
+ {
+  "user_id": "u14",
+  "gender": "m",
+  "relations": [
+   "job_role",
+   "sibling_name",
+   "diet",
+   "workout_time",
+   "college",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u15",
+  "gender": "m",
+  "relations": [
+   "home_city",
+   "vehicle",
+   "trip_destination",
+   "exam_prep",
+   "commute_mode",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u16",
+  "gender": "m",
+  "relations": [
+   "employer",
+   "pet_name",
+   "partner_name",
+   "allergy",
+   "weekend_sport",
+   "language_learning"
+  ]
+ },
+ {
+  "user_id": "u17",
+  "gender": "m",
+  "relations": [
+   "employer",
+   "job_role",
+   "learning_instrument",
+   "favorite_singer",
+   "language_learning",
+   "child_name"
+  ]
+ },
+ {
+  "user_id": "u18",
+  "gender": "m",
+  "relations": [
+   "hometown",
+   "sibling_name",
+   "diet",
+   "vehicle",
+   "exam_prep",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u19",
+  "gender": "f",
+  "relations": [
+   "home_city",
+   "allergy",
+   "favorite_food",
+   "trip_destination",
+   "injury",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u20",
+  "gender": "f",
+  "relations": [
+   "pet_name",
+   "partner_name",
+   "weekend_sport",
+   "workout_time",
+   "commute_mode",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u21",
+  "gender": "f",
+  "relations": [
+   "job_role",
+   "partner_name",
+   "weekend_sport",
+   "vehicle",
+   "injury",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u22",
+  "gender": "m",
+  "relations": [
+   "home_city",
+   "pet_name",
+   "diet",
+   "favorite_food",
+   "workout_time",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u23",
+  "gender": "m",
+  "relations": [
+   "hometown",
+   "learning_instrument",
+   "exam_prep",
+   "language_learning",
+   "commute_mode",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u24",
+  "gender": "m",
+  "relations": [
+   "employer",
+   "sibling_name",
+   "allergy",
+   "trip_destination",
+   "favorite_singer",
+   "child_name"
+  ]
+ },
+ {
+  "user_id": "u25",
+  "gender": "m",
+  "relations": [
+   "employer",
+   "sibling_name",
+   "partner_name",
+   "vehicle",
+   "commute_mode",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u26",
+  "gender": "m",
+  "relations": [
+   "job_role",
+   "allergy",
+   "favorite_food",
+   "favorite_singer",
+   "child_name",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u27",
+  "gender": "f",
+  "relations": [
+   "pet_name",
+   "diet",
+   "trip_destination",
+   "exam_prep",
+   "language_learning",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u28",
+  "gender": "m",
+  "relations": [
+   "home_city",
+   "hometown",
+   "learning_instrument",
+   "weekend_sport",
+   "injury",
+   "workout_time"
+  ]
+ },
+ {
+  "user_id": "u29",
+  "gender": "f",
+  "relations": [
+   "hometown",
+   "employer",
+   "pet_name",
+   "injury",
+   "workout_time",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u30",
+  "gender": "m",
+  "relations": [
+   "home_city",
+   "sibling_name",
+   "vehicle",
+   "exam_prep",
+   "favorite_singer",
+   "commute_mode"
+  ]
+ },
+ {
+  "user_id": "u31",
+  "gender": "f",
+  "relations": [
+   "job_role",
+   "favorite_food",
+   "learning_instrument",
+   "weekend_sport",
+   "child_name",
+   "college"
+  ]
+ },
+ {
+  "user_id": "u32",
+  "gender": "f",
+  "relations": [
+   "partner_name",
+   "allergy",
+   "diet",
+   "trip_destination",
+   "language_learning",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u33",
+  "gender": "f",
+  "relations": [
+   "job_role",
+   "allergy",
+   "trip_destination",
+   "workout_time",
+   "college",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u34",
+  "gender": "f",
+  "relations": [
+   "home_city",
+   "employer",
+   "sibling_name",
+   "weekend_sport",
+   "language_learning",
+   "child_name"
+  ]
+ },
+ {
+  "user_id": "u35",
+  "gender": "m",
+  "relations": [
+   "hometown",
+   "pet_name",
+   "diet",
+   "learning_instrument",
+   "vehicle",
+   "favorite_team"
+  ]
+ },
+ {
+  "user_id": "u36",
+  "gender": "m",
+  "relations": [
+   "partner_name",
+   "favorite_food",
+   "exam_prep",
+   "injury",
+   "favorite_singer",
+   "commute_mode"
+  ]
+ },
+ {
+  "user_id": "u37",
+  "gender": "m",
+  "relations": [
+   "partner_name",
+   "allergy",
+   "vehicle",
+   "child_name",
+   "college",
+   "savings_goal"
+  ]
+ },
+ {
+  "user_id": "u38",
+  "gender": "f",
+  "relations": [
+   "employer",
+   "learning_instrument",
+   "workout_time",
+   "favorite_singer",
+   "language_learning",
+   "commute_mode"
+  ]
+ },
+ {
+  "user_id": "u39",
+  "gender": "m",
+  "relations": [
+   "home_city",
+   "sibling_name",
+   "diet",
+   "trip_destination",
+   "exam_prep",
+   "injury"
+  ]
+ },
+ {
+  "user_id": "u40",
+  "gender": "f",
+  "relations": [
+   "hometown",
+   "job_role",
+   "pet_name",
+   "favorite_food",
+   "weekend_sport",
+   "favorite_team"
+  ]
+ }
+]

@@ -1,0 +1,960 @@
+q0000	Main kaunsa instrument seekh rahi hoon?
+q0001	मैं कौन सा वाद्य यंत्र सीख रही हूँ?
+q0002	Naanu yaava instrument kaltidini?
+q0003	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0004	Maine recently kaunsi vehicle li?
+q0005	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0006	Naanu recent aagi yaava vehicle tagonde?
+q0007	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0008	Main kaunse exam ki preparation kar rahi hoon?
+q0009	मैं किस परीक्षा की तैयारी कर रही हूँ?
+q0010	Naanu yaava exam ge prepare maadta idini?
+q0011	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0012	Main usually kitne baje workout karti hoon?
+q0013	मैं आमतौर पर कितने बजे कसरत करती हूँ?
+q0014	Naanu usually eshtu hottige workout maadtini?
+q0015	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0016	Mera favourite singer kaun hai?
+q0017	मुझे सबसे ज़्यादा किसके गाने पसंद हैं?
+q0018	Nanna favourite singer yaaru?
+q0019	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ಗಾಯಕರು ಯಾರು?
+q0020	Maine kaunse college se padhai ki?
+q0021	मैंने अपनी पढ़ाई कहाँ से पूरी की?
+q0022	Naanu yaava college alli odide?
+q0023	ನಾನು ನನ್ನ ವಿದ್ಯಾಭ್ಯಾಸವನ್ನು ಎಲ್ಲಿ ಮುಗಿಸಿದೆ?
+q0024	Main abhi kaunsi city mein rehti hoon?
+q0025	मैं अभी किस शहर में रहती हूँ?
+q0026	Naanu eega yaava city alli irtini?
+q0027	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0028	Main kaunsi company mein kaam karti hoon?
+q0029	मैं किस कंपनी में नौकरी करती हूँ?
+q0030	Naanu yaava company alli kelsa maadtini?
+q0031	ನಾನು ಯಾವ ಸಂಸ್ಥೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0032	Mere husband ka naam kya hai?
+q0033	मेरे पति का नाम क्या है?
+q0034	Nanna husband hesaru enu?
+q0035	ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?
+q0036	Main weekends pe kaunsa sport khelti hoon?
+q0037	मैं सप्ताहांत पर कौन सा खेल खेलती हूँ?
+q0038	Naanu weekends alli yaava sport aadtini?
+q0039	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0040	Mera next trip kahan ka hai?
+q0041	मेरी अगली यात्रा कहाँ की है?
+q0042	Nanna next trip ellige?
+q0043	ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?
+q0044	Mujhe body ke kis part mein chot lagi?
+q0045	मुझे शरीर के किस हिस्से में चोट लगी?
+q0046	Nanage body alli elli injury aaytu?
+q0047	ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಯಿತು?
+q0048	Main originally kahan se hoon?
+q0049	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0050	Naanu originally yaava ooru?
+q0051	ನನ್ನ ಹುಟ್ಟೂರು ಯಾವುದು?
+q0052	Main kya kaam karti hoon?
+q0053	मैं रोज़ी-रोटी के लिए क्या काम करती हूँ?
+q0054	Naanu enu kelsa maadtini?
+q0055	ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0056	Main kaunsi language seekh rahi hoon?
+q0057	मैं कौन सी भाषा सीख रही हूँ?
+q0058	Naanu yaava language kaltidini?
+q0059	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0060	Mere son ka naam kya hai?
+q0061	मेरे बेटे का नाम क्या है?
+q0062	Nanna son hesaru enu?
+q0063	ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?
+q0064	Main office kaise jaati hoon?
+q0065	मैं दफ्तर कैसे जाती हूँ?
+q0066	Naanu office ge hege hogtini?
+q0067	ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0068	Main kis cheez ke liye savings kar rahi hoon?
+q0069	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0070	Naanu yaavudakke duddu save maadtidini?
+q0071	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0072	Mere dog ka naam kya hai?
+q0073	मेरे कुत्ते का नाम क्या है?
+q0074	Nanna dog hesaru enu?
+q0075	ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?
+q0076	Meri sister ka naam kya hai?
+q0077	मेरी बहन का नाम क्या है?
+q0078	Nanna sister hesaru enu?
+q0079	ನನ್ನ ಸಹೋದರಿಯ ಹೆಸರು ಏನು?
+q0080	Mujhe kis cheez se allergy hai?
+q0081	मुझे किस चीज़ से एलर्जी है?
+q0082	Nanage yaavudu allergy?
+q0083	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0084	Main kaunsi diet follow karta hoon?
+q0085	मैं किस तरह का खान-पान रखता हूँ?
+q0086	Naanu yaava diet follow maadtini?
+q0087	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಪದ್ಧತಿ ಪಾಲಿಸುತ್ತೇನೆ?
+q0088	Meri favourite dish kaunsi hai?
+q0089	मेरा सबसे पसंदीदा व्यंजन कौन सा है?
+q0090	Nanna favourite dish yaavudu?
+q0091	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?
+q0092	Main kaunsi team support karta hoon?
+q0093	मैं किस टीम का समर्थक हूँ?
+q0094	Naanu yaava team support maadtini?
+q0095	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0096	Main abhi kaunsi city mein rehti hoon?
+q0097	मैं अभी किस शहर में रहती हूँ?
+q0098	Naanu eega yaava city alli irtini?
+q0099	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0100	Main originally kahan se hoon?
+q0101	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0102	Naanu originally yaava ooru?
+q0103	ನನ್ನ ಹುಟ್ಟೂರು ಯಾವುದು?
+q0104	Main kya kaam karti hoon?
+q0105	मैं रोज़ी-रोटी के लिए क्या काम करती हूँ?
+q0106	Naanu enu kelsa maadtini?
+q0107	ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0108	Meri daughter ka naam kya hai?
+q0109	मेरी बेटी का नाम क्या है?
+q0110	Nanna daughter hesaru enu?
+q0111	ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?
+q0112	Main kaam pe kaise jaati hoon?
+q0113	मैं काम पर कैसे जाती हूँ?
+q0114	Naanu kelsakke hege hogtini?
+q0115	ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0116	Main kis cheez ke liye savings kar rahi hoon?
+q0117	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0118	Naanu yaavudakke duddu save maadtidini?
+q0119	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0120	Mere brother ka naam kya hai?
+q0121	मेरे भाई का नाम क्या है?
+q0122	Nanna brother hesaru enu?
+q0123	ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?
+q0124	Meri wife ka naam kya hai?
+q0125	मेरी पत्नी का नाम क्या है?
+q0126	Nanna wife hesaru enu?
+q0127	ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?
+q0128	Meri favourite dish kaunsi hai?
+q0129	मेरा सबसे पसंदीदा व्यंजन कौन सा है?
+q0130	Nanna favourite dish yaavudu?
+q0131	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?
+q0132	Main kaunsa instrument seekh raha hoon?
+q0133	मैं कौन सा वाद्य यंत्र सीख रहा हूँ?
+q0134	Naanu yaava instrument kaltidini?
+q0135	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0136	Main usually kitne baje workout karta hoon?
+q0137	मैं आमतौर पर कितने बजे कसरत करता हूँ?
+q0138	Naanu usually eshtu hottige workout maadtini?
+q0139	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0140	Mera favourite singer kaun hai?
+q0141	मुझे सबसे ज़्यादा किसके गाने पसंद हैं?
+q0142	Nanna favourite singer yaaru?
+q0143	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ಗಾಯಕರು ಯಾರು?
+q0144	Mujhe kis cheez se allergy hai?
+q0145	मुझे किस चीज़ से एलर्जी है?
+q0146	Nanage yaavudakke allergy ide?
+q0147	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0148	Main weekends par kaunsa sport khelta hoon?
+q0149	मैं सप्ताहांत में कौन सा खेल खेलता हूँ?
+q0150	Naanu weekends alli yaava sport aadtini?
+q0151	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0152	Maine recently kaunsi vehicle li?
+q0153	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0154	Naanu recent aagi yaava vehicle tagonde?
+q0155	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0156	Mujhe body ke kis part mein chot lagi?
+q0157	मुझे शरीर के किस हिस्से में चोट लगी है?
+q0158	Nanage body alli yaava part ge pettu aagide?
+q0159	ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0160	Main kaunsi language seekh raha hoon?
+q0161	मैं कौन सी भाषा सीख रहा हूँ?
+q0162	Naanu yaava language kaltidini?
+q0163	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0164	Main kaunsi team ko support karta hoon?
+q0165	मैं किस टीम का समर्थन करता हूँ?
+q0166	Naanu yaava team support maadtini?
+q0167	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0168	Main kaunsi company mein kaam karta hoon?
+q0169	मैं किस कंपनी में काम करता हूँ?
+q0170	Naanu yaava company alli kelsa maadtini?
+q0171	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0172	Mere cat ka naam kya hai?
+q0173	मेरी बिल्ली का नाम क्या है?
+q0174	Nanna cat hesaru enu?
+q0175	ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?
+q0176	Main kis tarah ki diet follow karta hoon?
+q0177	मैं किस तरह का आहार लेता हूँ?
+q0178	Naanu yaava tarada diet follow maadtini?
+q0179	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0180	Main next trip par kahan ja raha hoon?
+q0181	मैं अगली यात्रा पर कहाँ जा रहा हूँ?
+q0182	Naanu next trip ge elli hogtidini?
+q0183	ನಾನು ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0184	Main kaunse exam ki preparation kar raha hoon?
+q0185	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0186	Naanu yaava exam ge prepare maadta idini?
+q0187	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0188	Maine kis college mein padhai ki thi?
+q0189	मैंने किस महाविद्यालय में पढ़ाई की थी?
+q0190	Naanu yaava college alli odide?
+q0191	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0192	Main ab kaun se city mein rehti hoon?
+q0193	मैं अब किस शहर में रहती हूँ?
+q0194	Naanu eega yaava city alli idini?
+q0195	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0196	Main originally kahan ki rehne wali hoon?
+q0197	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0198	Nanna native place yaavudu?
+q0199	ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?
+q0200	Main kaunsa instrument seekh rahi hoon?
+q0201	मैं कौन सा वाद्य यंत्र सीख रही हूँ?
+q0202	Naanu yaava instrument kaltidini?
+q0203	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0204	Mujhe body ke kis part mein chot lagi?
+q0205	मुझे शरीर के किस हिस्से में चोट लगी है?
+q0206	Nanage body alli yaava part ge pettu aagide?
+q0207	ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0208	Main usually kis time workout karti hoon?
+q0209	मैं आमतौर पर किस समय व्यायाम करती हूँ?
+q0210	Naanu usually yaava time ge workout maadtini?
+q0211	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯಕ್ಕೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0212	Maine kis college mein padhai ki thi?
+q0213	मैंने किस महाविद्यालय में पढ़ाई की थी?
+q0214	Naanu yaava college alli odide?
+q0215	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0216	Main profession se kya karti hoon?
+q0217	मैं पेशे से क्या करती हूँ?
+q0218	Naanu enu kelsa maadtini?
+q0219	ನಾನು ಯಾವ ವೃತ್ತಿಯಲ್ಲಿದ್ದೇನೆ?
+q0220	Mujhe kis cheez se allergy hai?
+q0221	मुझे किस चीज़ से एलर्जी है?
+q0222	Nanage yaavudakke allergy ide?
+q0223	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0224	Main weekends par kaunsa sport khelti hoon?
+q0225	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0226	Naanu weekends alli yaava sport aadtini?
+q0227	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0228	Maine recently kaunsi vehicle li?
+q0229	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0230	Naanu recent aagi yaava vehicle tagonde?
+q0231	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0232	Main next trip par kahan ja rahi hoon?
+q0233	मैं अगली यात्रा पर कहाँ जा रही हूँ?
+q0234	Naanu next trip ge elli hogtidini?
+q0235	ನಾನು ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0236	Main kaunsi team ko support karti hoon?
+q0237	मैं किस टीम का समर्थन करती हूँ?
+q0238	Naanu yaava team support maadtini?
+q0239	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0240	Main kaunsi company mein kaam karti hoon?
+q0241	मैं किस कंपनी में काम करती हूँ?
+q0242	Naanu yaava company alli kelsa maadtini?
+q0243	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0244	Meri sister ka naam kya hai?
+q0245	मेरी बहन का नाम क्या है?
+q0246	Nanna sister hesaru enu?
+q0247	ನನ್ನ ಸಹೋದರಿಯ ಹೆಸರು ಏನು?
+q0248	Mere fiance ka naam kya hai?
+q0249	मेरे मंगेतर का नाम क्या है?
+q0250	Nanna fiance hesaru enu?
+q0251	ನನ್ನ ನಿಶ್ಚಿತ ವರನ ಹೆಸರು ಏನು?
+q0252	Main kis tarah ki diet follow karti hoon?
+q0253	मैं किस तरह का आहार लेती हूँ?
+q0254	Naanu yaava tarada diet follow maadtini?
+q0255	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0256	Mera favourite dish kaunsa hai?
+q0257	मेरा पसंदीदा व्यंजन कौन सा है?
+q0258	Nanna favourite dish yaavudu?
+q0259	ನನ್ನ ಇಷ್ಟದ ಖಾದ್ಯ ಯಾವುದು?
+q0260	Main kaunsi language seekh rahi hoon?
+q0261	मैं कौन सी भाषा सीख रही हूँ?
+q0262	Naanu yaava language kaltidini?
+q0263	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0264	Mere parrot ka naam kya hai?
+q0265	मेरे तोते का नाम क्या है?
+q0266	Nanna parrot hesaru enu?
+q0267	ನನ್ನ ಗಿಳಿಯ ಹೆಸರು ಏನು?
+q0268	Main kaunse exam ki preparation kar rahi hoon?
+q0269	मैं किस परीक्षा की तैयारी कर रही हूँ?
+q0270	Naanu yaava exam ge prepare maadta idini?
+q0271	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0272	Mera favourite singer kaun hai?
+q0273	मेरा पसंदीदा गायक कौन है?
+q0274	Nanna favourite singer yaaru?
+q0275	ನನ್ನ ಇಷ್ಟದ ಗಾಯಕರು ಯಾರು?
+q0276	Mere son ka naam kya hai?
+q0277	मेरे बेटे का नाम क्या है?
+q0278	Nanna son hesaru enu?
+q0279	ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?
+q0280	Main office kaise jaati hoon?
+q0281	मैं दफ़्तर कैसे जाती हूँ?
+q0282	Naanu office ge hege hogtini?
+q0283	ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0284	Main kis cheez ke liye paise bacha rahi hoon?
+q0285	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0286	Naanu yaavudakke duddu uliskta idini?
+q0287	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0288	Main originally kahan ki rehne wali hoon?
+q0289	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0290	Nanna native place yaavudu?
+q0291	ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?
+q0292	Mera favourite dish kaunsa hai?
+q0293	मेरा पसंदीदा व्यंजन कौन सा है?
+q0294	Nanna favourite dish yaavudu?
+q0295	ನನ್ನ ಇಷ್ಟದ ಖಾದ್ಯ ಯಾವುದು?
+q0296	Main kaunsa instrument seekh rahi hoon?
+q0297	मैं कौन सा वाद्य यंत्र सीख रही हूँ?
+q0298	Naanu yaava instrument kaltidini?
+q0299	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0300	Mujhe body ke kis part mein chot lagi?
+q0301	मुझे शरीर के किस हिस्से में चोट लगी है?
+q0302	Nanage body alli yaava part ge pettu aagide?
+q0303	ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0304	Mera favourite singer kaun hai?
+q0305	मेरा पसंदीदा गायक कौन है?
+q0306	Nanna favourite singer yaaru?
+q0307	ನನ್ನ ಇಷ್ಟದ ಗಾಯಕರು ಯಾರು?
+q0308	Meri daughter ka naam kya hai?
+q0309	मेरी बेटी का नाम क्या है?
+q0310	Nanna daughter hesaru enu?
+q0311	ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?
+q0312	Main kya kaam karta hoon?
+q0313	मैं क्या काम करता हूँ?
+q0314	Nanna profession enu?
+q0315	ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0316	Mere brother ka naam kya hai?
+q0317	मेरे भाई का नाम क्या है?
+q0318	Nanna brother hesaru enu?
+q0319	ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?
+q0320	Main kis type ki diet follow karta hoon?
+q0321	मैं किस प्रकार के आहार का पालन करता हूँ?
+q0322	Naanu yaava type diet follow maadtini?
+q0323	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?
+q0324	Main usually kis time workout karta hoon?
+q0325	मैं आमतौर पर किस समय व्यायाम करता हूँ?
+q0326	Naanu usually yaava time ge workout maadtini?
+q0327	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0328	Maine kaunse college mein padhai ki?
+q0329	मैंने किस कॉलेज में पढ़ाई की थी?
+q0330	Naanu yaava college alli odide?
+q0331	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0332	Main kis cheez ke liye paise bacha raha hoon?
+q0333	मैं किस चीज़ के लिए पैसे बचा रहा हूँ?
+q0334	Naanu yaavudakke money save maadtidini?
+q0335	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0336	Main ab kaunse city mein rehta hoon?
+q0337	मैं अब किस शहर में रहता हूँ?
+q0338	Naanu eega yaava city alli idini?
+q0339	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0340	Maine recently kaunsi vehicle li?
+q0341	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0342	Naanu recent aagi yaava vehicle tagonde?
+q0343	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0344	Meri agli trip kahan ki hai?
+q0345	मेरी अगली यात्रा कहाँ की है?
+q0346	Naanu next trip yelli hogtidini?
+q0347	ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0348	Main kaunse exam ki preparation kar raha hoon?
+q0349	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0350	Naanu yaava exam ge prepare maadta idini?
+q0351	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0352	Main office kaise jaata hoon?
+q0353	मैं दफ़्तर कैसे पहुँचता हूँ?
+q0354	Naanu office ge hege hogtini?
+q0355	ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0356	Main kaunsi team ko support karta hoon?
+q0357	मैं किस टीम का समर्थन करता हूँ?
+q0358	Naanu yaava team support maadtini?
+q0359	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0360	Main kaunsi company mein kaam karta hoon?
+q0361	मैं किस कंपनी में काम करता हूँ?
+q0362	Naanu yaava company alli kelsa maadtini?
+q0363	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0364	Mere dog ka naam kya hai?
+q0365	मेरे कुत्ते का नाम क्या है?
+q0366	Nanna dog hesaru enu?
+q0367	ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?
+q0368	Meri wife ka naam kya hai?
+q0369	मेरी पत्नी का नाम क्या है?
+q0370	Nanna wife hesaru enu?
+q0371	ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?
+q0372	Mujhe kis cheez se allergy hai?
+q0373	मुझे किस चीज़ से एलर्जी है?
+q0374	Nanage yaavudara allergy ide?
+q0375	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0376	Main weekends par kaunsa sport khelta hoon?
+q0377	मैं सप्ताहांत में कौन सा खेल खेलता हूँ?
+q0378	Naanu weekend alli yaava sport aadtini?
+q0379	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?
+q0380	Main kaunsi language seekh raha hoon?
+q0381	मैं कौन सी भाषा सीख रहा हूँ?
+q0382	Naanu yaava language kaltidini?
+q0383	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0384	Main kaunsi company mein kaam karta hoon?
+q0385	मैं किस कंपनी में काम करता हूँ?
+q0386	Naanu yaava company alli kelsa maadtini?
+q0387	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0388	Main kya kaam karta hoon?
+q0389	मैं क्या काम करता हूँ?
+q0390	Nanna profession enu?
+q0391	ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0392	Main kaunsa instrument seekh raha hoon?
+q0393	मैं कौन सा वाद्य यंत्र सीख रहा हूँ?
+q0394	Naanu yaava instrument kaltidini?
+q0395	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0396	Mera favourite singer kaun hai?
+q0397	मेरा पसंदीदा गायक कौन है?
+q0398	Nanna favourite singer yaaru?
+q0399	ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?
+q0400	Main kaunsi language seekh raha hoon?
+q0401	मैं कौन सी भाषा सीख रहा हूँ?
+q0402	Naanu yaava language kaltidini?
+q0403	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0404	Mere son ka naam kya hai?
+q0405	मेरे बेटे का नाम क्या है?
+q0406	Nanna son hesaru enu?
+q0407	ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?
+q0408	Main originally kahan ka rehne wala hoon?
+q0409	मैं मूल रूप से कहाँ का रहने वाला हूँ?
+q0410	Naanu originally yelli inda bandidini?
+q0411	ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಯವನು?
+q0412	Meri sister ka naam kya hai?
+q0413	मेरी बहन का नाम क्या है?
+q0414	Nanna sister hesaru enu?
+q0415	ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?
+q0416	Main kis type ki diet follow karta hoon?
+q0417	मैं किस प्रकार के आहार का पालन करता हूँ?
+q0418	Naanu yaava type diet follow maadtini?
+q0419	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?
+q0420	Maine recently kaunsi vehicle li?
+q0421	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0422	Naanu recent aagi yaava vehicle tagonde?
+q0423	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0424	Main kaunse exam ki preparation kar raha hoon?
+q0425	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0426	Naanu yaava exam ge prepare maadta idini?
+q0427	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0428	Main kaunsi team ko support karta hoon?
+q0429	मैं किस टीम का समर्थन करता हूँ?
+q0430	Naanu yaava team support maadtini?
+q0431	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0432	Main ab kaunse city mein rehti hoon?
+q0433	मैं अब किस शहर में रहती हूँ?
+q0434	Naanu eega yaava city alli idini?
+q0435	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0436	Mujhe kis cheez se allergy hai?
+q0437	मुझे किस चीज़ से एलर्जी है?
+q0438	Nanage yaavudara allergy ide?
+q0439	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0440	Mera favourite dish kya hai?
+q0441	मेरा पसंदीदा व्यंजन क्या है?
+q0442	Nanna favourite dish enu?
+q0443	ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?
+q0444	Meri agli trip kahan ki hai?
+q0445	मेरी अगली यात्रा कहाँ की है?
+q0446	Naanu next trip yelli hogtidini?
+q0447	ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0448	Meri body ka kaunsa hissa hurt hua hai?
+q0449	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0450	Nanna body alli yaava part ge gaayavaagide?
+q0451	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಗಾಯವಾಗಿದೆ?
+q0452	Maine kaunse college mein padhai ki?
+q0453	मैंने किस कॉलेज में पढ़ाई की थी?
+q0454	Naanu yaava college alli odide?
+q0455	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0456	Meri cat ka naam kya hai?
+q0457	मेरी बिल्ली का नाम क्या है?
+q0458	Nanna cat hesaru enu?
+q0459	ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?
+q0460	Mere husband ka naam kya hai?
+q0461	मेरे पति का नाम क्या है?
+q0462	Nanna husband hesaru enu?
+q0463	ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?
+q0464	Main weekends par kaunsa sport khelti hoon?
+q0465	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0466	Naanu weekend alli yaava sport aadtini?
+q0467	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?
+q0468	Main usually kis time workout karti hoon?
+q0469	मैं आमतौर पर किस समय व्यायाम करती हूँ?
+q0470	Naanu usually yaava time ge workout maadtini?
+q0471	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0472	Main office kaise jaati hoon?
+q0473	मैं दफ़्तर कैसे पहुँचती हूँ?
+q0474	Naanu office ge hege hogtini?
+q0475	ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0476	Main kis cheez ke liye paise bacha rahi hoon?
+q0477	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0478	Naanu yaavudakke money save maadtidini?
+q0479	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0480	Main kya job karti hoon?
+q0481	मैं आजीविका के लिए क्या करती हूँ?
+q0482	Nanna job yenu?
+q0483	ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಮಾಡುತ್ತೇನೆ?
+q0484	Mere husband ka naam kya hai?
+q0485	मेरे पति का नाम क्या है?
+q0486	Nanna husband hesaru enu?
+q0487	ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?
+q0488	Main weekends par kaunsa sport khelti hoon?
+q0489	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0490	Naanu weekend alli yaava sport aadtini?
+q0491	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0492	Maine recently kaunsi vehicle li?
+q0493	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0494	Naanu recent aagi yaava vehicle tagonde?
+q0495	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0496	Meri body ke kaunse part mein chot lagi hai?
+q0497	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0498	Nange body alli yaava part ge pettu aagide?
+q0499	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0500	Main kis cheez ke liye paisa save kar rahi hoon?
+q0501	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0502	Naanu yaavdakke money save maadtidini?
+q0503	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0504	Main abhi kaun si city mein rehta hoon?
+q0505	मैं अभी किस शहर में रहता हूँ?
+q0506	Naanu eega yaava city alli idini?
+q0507	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0508	Mere dog ka naam kya hai?
+q0509	मेरे कुत्ते का नाम क्या है?
+q0510	Nanna dog hesaru enu?
+q0511	ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?
+q0512	Main kaunsi diet follow karta hoon?
+q0513	मैं किस तरह का आहार लेता हूँ?
+q0514	Naanu yaava diet follow maadtini?
+q0515	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0516	Meri favourite dish kaunsi hai?
+q0517	मेरा पसंदीदा व्यंजन कौन सा है?
+q0518	Nanna favourite dish yenu?
+q0519	ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?
+q0520	Main usually kitne baje workout karta hoon?
+q0521	मैं आमतौर पर कितने बजे व्यायाम करता हूँ?
+q0522	Naanu usually yaava time ge workout maadtini?
+q0523	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0524	Main kaun si team ko support karta hoon?
+q0525	मैं किस टीम का समर्थन करता हूँ?
+q0526	Naanu yaava team support maadtini?
+q0527	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0528	Main originally kahaan se hoon?
+q0529	मैं मूल रूप से कहाँ का रहने वाला हूँ?
+q0530	Naanu originally ellinda bandidini?
+q0531	ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೇನೆ?
+q0532	Main kaunsa instrument seekh raha hoon?
+q0533	मैं कौन सा वाद्य यंत्र सीख रहा हूँ?
+q0534	Naanu yaava instrument kaltidini?
+q0535	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0536	Main kaunse exam ki preparation kar raha hoon?
+q0537	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0538	Naanu yaava exam ge prepare maadta idini?
+q0539	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0540	Main kaunsi language seekh raha hoon?
+q0541	मैं कौन सी भाषा सीख रहा हूँ?
+q0542	Naanu yaava language kaltidini?
+q0543	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0544	Main work par kaise jaata hoon?
+q0545	मैं काम पर कैसे जाता हूँ?
+q0546	Naanu work ge hege hogtini?
+q0547	ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0548	Maine kaunse college mein padhai ki?
+q0549	मैंने किस कॉलेज में पढ़ाई की?
+q0550	Naanu yaava college alli odide?
+q0551	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದ್ದೇನೆ?
+q0552	Main kaunsi company mein kaam karta hoon?
+q0553	मैं किस कंपनी में काम करता हूँ?
+q0554	Naanu yaava company alli kelasa maadtini?
+q0555	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0556	Mere brother ka naam kya hai?
+q0557	मेरे भाई का नाम क्या है?
+q0558	Nanna brother hesaru enu?
+q0559	ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?
+q0560	Mujhe kis cheez se allergy hai?
+q0561	मुझे किस चीज़ से एलर्जी है?
+q0562	Nange yaavdakke allergy ide?
+q0563	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0564	Meri next trip kahaan ki hai?
+q0565	मेरी अगली यात्रा कहाँ की है?
+q0566	Naanu next trip ge yelli hogtidini?
+q0567	ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?
+q0568	Mera favourite singer kaun hai?
+q0569	मेरा पसंदीदा गायक कौन है?
+q0570	Nanna favourite singer yaaru?
+q0571	ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?
+q0572	Meri beti ka naam kya hai?
+q0573	मेरी बेटी का नाम क्या है?
+q0574	Nanna daughter hesaru enu?
+q0575	ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?
+q0576	Main kaunsi company mein kaam karta hoon?
+q0577	मैं किस कंपनी में काम करता हूँ?
+q0578	Naanu yaava company alli kelasa maadtini?
+q0579	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0580	Meri sister ka naam kya hai?
+q0581	मेरी बहन का नाम क्या है?
+q0582	Nanna sister hesaru enu?
+q0583	ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?
+q0584	Meri fiancee ka naam kya hai?
+q0585	मेरी मंगेतर का नाम क्या है?
+q0586	Nanna fiancee hesaru enu?
+q0587	ನನ್ನ ನಿಶ್ಚಿತ ವಧುವಿನ ಹೆಸರು ಏನು?
+q0588	Maine recently kaunsi vehicle li?
+q0589	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0590	Naanu recent aagi yaava vehicle tagonde?
+q0591	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0592	Main office kaise jaata hoon?
+q0593	मैं कार्यालय कैसे जाता हूँ?
+q0594	Naanu office ge hege hogtini?
+q0595	ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0596	Main kaun si team ko support karta hoon?
+q0597	मैं किस टीम का समर्थन करता हूँ?
+q0598	Naanu yaava team support maadtini?
+q0599	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0600	Main kya job karta hoon?
+q0601	मैं आजीविका के लिए क्या करता हूँ?
+q0602	Nanna job yenu?
+q0603	ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಮಾಡುತ್ತೇನೆ?
+q0604	Mujhe kis cheez se allergy hai?
+q0605	मुझे किस चीज़ से एलर्जी है?
+q0606	Nange yaavdakke allergy ide?
+q0607	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0608	Meri favourite dish kaunsi hai?
+q0609	मेरा पसंदीदा व्यंजन कौन सा है?
+q0610	Nanna favourite dish yenu?
+q0611	ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?
+q0612	Mera favourite singer kaun hai?
+q0613	मेरा पसंदीदा गायक कौन है?
+q0614	Nanna favourite singer yaaru?
+q0615	ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?
+q0616	Mere son ka naam kya hai?
+q0617	मेरे बेटे का नाम क्या है?
+q0618	Nanna son hesaru enu?
+q0619	ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?
+q0620	Maine kaunse college mein padhai ki?
+q0621	मैंने किस कॉलेज में पढ़ाई की?
+q0622	Naanu yaava college alli odide?
+q0623	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದ್ದೇನೆ?
+q0624	Mere dog ka naam kya hai?
+q0625	मेरे कुत्ते का नाम क्या है?
+q0626	Nanna dog hesaru enu?
+q0627	ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?
+q0628	Main kaunsi diet follow karti hoon?
+q0629	मैं किस तरह का आहार लेती हूँ?
+q0630	Naanu yaava diet follow maadtini?
+q0631	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0632	Meri next trip kahaan ki hai?
+q0633	मेरी अगली यात्रा कहाँ की है?
+q0634	Naanu next trip ge yelli hogtidini?
+q0635	ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?
+q0636	Main kaunse exam ki preparation kar rahi hoon?
+q0637	मैं किस परीक्षा की तैयारी कर रही हूँ?
+q0638	Naanu yaava exam ge prepare maadta idini?
+q0639	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0640	Main kaunsi language seekh rahi hoon?
+q0641	मैं कौन सी भाषा सीख रही हूँ?
+q0642	Naanu yaava language kaltidini?
+q0643	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0644	Main kis cheez ke liye paisa save kar rahi hoon?
+q0645	मैं किस चीज़ के लिए पैसे बचा रही हूँ?
+q0646	Naanu yaavdakke money save maadtidini?
+q0647	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0648	Main ab kaunse city mein rehta hoon?
+q0649	मैं अब किस शहर में रहता हूँ?
+q0650	Naanu eega yaava city alli idini?
+q0651	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0652	Main originally kahan ka hoon?
+q0653	मैं मूल रूप से कहाँ का रहने वाला हूँ?
+q0654	Nanna original ooru yaavudu?
+q0655	ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?
+q0656	Main kaunsa instrument seekh raha hoon?
+q0657	मैं कौन सा वाद्य यंत्र सीख रहा हूँ?
+q0658	Naanu yaava instrument kaltidini?
+q0659	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0660	Main weekends par kaunsa sport khelta hoon?
+q0661	मैं सप्ताहांत में कौन सा खेल खेलता हूँ?
+q0662	Naanu weekends alli yaava sport aadtini?
+q0663	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0664	Mere body ke kis part mein chot lagi hai?
+q0665	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0666	Nanna body alli yaava part ge etu bittu?
+q0667	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0668	Main usually kitne baje workout karta hoon?
+q0669	मैं आम तौर पर कितने बजे कसरत करता हूँ?
+q0670	Naanu usually yaava time ge workout maadtini?
+q0671	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0672	Main originally kahan ki hoon?
+q0673	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0674	Nanna original ooru yaavudu?
+q0675	ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?
+q0676	Main kaunsi company mein kaam karti hoon?
+q0677	मैं किस कंपनी में काम करती हूँ?
+q0678	Naanu yaava company alli kelsa maadtini?
+q0679	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0680	Meri cat ka naam kya hai?
+q0681	मेरी बिल्ली का नाम क्या है?
+q0682	Nanna cat hesaru enu?
+q0683	ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?
+q0684	Mere body ke kis part mein chot lagi hai?
+q0685	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0686	Nanna body alli yaava part ge etu bittu?
+q0687	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0688	Main usually kitne baje workout karti hoon?
+q0689	मैं आम तौर पर कितने बजे कसरत करती हूँ?
+q0690	Naanu usually yaava time ge workout maadtini?
+q0691	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0692	Main paise kis cheez ke liye bacha rahi hoon?
+q0693	मैं पैसे किसके लिए बचा रही हूँ?
+q0694	Naanu yaavudakke duddu ulsta idini?
+q0695	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0696	Main ab kaunse city mein rehta hoon?
+q0697	मैं अब किस शहर में रहता हूँ?
+q0698	Naanu eega yaava city alli idini?
+q0699	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0700	Mere brother ka naam kya hai?
+q0701	मेरे भाई का नाम क्या है?
+q0702	Nanna brother hesaru enu?
+q0703	ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?
+q0704	Maine recently kaunsi vehicle li?
+q0705	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0706	Naanu recent aagi yaava vehicle tagonde?
+q0707	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0708	Main kaunse exam ki preparation kar raha hoon?
+q0709	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0710	Naanu yaava exam ge prepare maadta idini?
+q0711	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0712	Mera favourite singer kaun hai?
+q0713	मेरा पसंदीदा गायक कौन है?
+q0714	Nanna favourite singer yaaru?
+q0715	ನನ್ನ ಮೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?
+q0716	Main office kaise pahunchta hoon?
+q0717	मैं दफ़्तर कैसे पहुँचता हूँ?
+q0718	Naanu office ge hege hogtini?
+q0719	ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0720	Main kya kaam karti hoon?
+q0721	मैं क्या काम करती हूँ?
+q0722	Naanu enu kelsa maadtini?
+q0723	ನಾನು ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0724	Meri favourite dish kaunsi hai?
+q0725	मेरा पसंदीदा व्यंजन कौन सा है?
+q0726	Nanna favourite dish yaavudu?
+q0727	ನನ್ನ ಅಚ್ಚುಮೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?
+q0728	Main kaunsa instrument seekh rahi hoon?
+q0729	मैं कौन सा वाद्य यंत्र सीख रही हूँ?
+q0730	Naanu yaava instrument kaltidini?
+q0731	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0732	Main weekends par kaunsa sport khelti hoon?
+q0733	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0734	Naanu weekends alli yaava sport aadtini?
+q0735	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0736	Meri beti ka naam kya hai?
+q0737	मेरी बेटी का नाम क्या है?
+q0738	Nanna magalu hesaru enu?
+q0739	ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?
+q0740	Maine kis college mein padhai ki thi?
+q0741	मैंने किस महाविद्यालय में पढ़ाई की थी?
+q0742	Naanu yaava college alli odide?
+q0743	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0744	Mere husband ka naam kya hai?
+q0745	मेरे पति का नाम क्या है?
+q0746	Nanna husband hesaru enu?
+q0747	ನನ್ನ ಪತಿಯ ಹೆಸರು ಏನು?
+q0748	Mujhe kis cheez se allergy hai?
+q0749	मुझे किस चीज़ से एलर्जी है?
+q0750	Nanage yaavudakke allergy ide?
+q0751	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0752	Main kis tarah ki diet follow karti hoon?
+q0753	मैं किस प्रकार का आहार अपनाती हूँ?
+q0754	Naanu yaava tarada diet follow maadtini?
+q0755	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0756	Main apne next trip par kahan ja rahi hoon?
+q0757	मैं अपनी अगली यात्रा पर कहाँ जा रही हूँ?
+q0758	Naanu next trip ge yelli hogtidini?
+q0759	ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0760	Main kaunsi language seekh rahi hoon?
+q0761	मैं कौन सी भाषा सीख रही हूँ?
+q0762	Naanu yaava language kaltidini?
+q0763	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0764	Main kaunsi team ko support karti hoon?
+q0765	मैं किस टीम का समर्थन करती हूँ?
+q0766	Naanu yaava team support maadtini?
+q0767	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0768	Main kya kaam karti hoon?
+q0769	मैं क्या काम करती हूँ?
+q0770	Naanu enu kelsa maadtini?
+q0771	ನಾನು ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0772	Mujhe kis cheez se allergy hai?
+q0773	मुझे किस चीज़ से एलर्जी है?
+q0774	Nanage yaavudakke allergy ide?
+q0775	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0776	Main apne next trip par kahan ja rahi hoon?
+q0777	मैं अपनी अगली यात्रा पर कहाँ जा रही हूँ?
+q0778	Naanu next trip ge yelli hogtidini?
+q0779	ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0780	Main usually kitne baje workout karti hoon?
+q0781	मैं आम तौर पर कितने बजे कसरत करती हूँ?
+q0782	Naanu usually yaava time ge workout maadtini?
+q0783	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0784	Maine kis college mein padhai ki thi?
+q0785	मैंने किस महाविद्यालय में पढ़ाई की थी?
+q0786	Naanu yaava college alli odide?
+q0787	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0788	Main paise kis cheez ke liye bacha rahi hoon?
+q0789	मैं पैसे किसके लिए बचा रही हूँ?
+q0790	Naanu yaavudakke duddu ulsta idini?
+q0791	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0792	Main ab kaunse city mein rehti hoon?
+q0793	मैं अब किस शहर में रहती हूँ?
+q0794	Naanu eega yaava city alli idini?
+q0795	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0796	Main kaunsi company mein kaam karti hoon?
+q0797	मैं किस कंपनी में काम करती हूँ?
+q0798	Naanu yaava company alli kelsa maadtini?
+q0799	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0800	Meri sister ka naam kya hai?
+q0801	मेरी बहन का नाम क्या है?
+q0802	Nanna sister hesaru enu?
+q0803	ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?
+q0804	Main weekends par kaunsa sport khelti hoon?
+q0805	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0806	Naanu weekends alli yaava sport aadtini?
+q0807	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?
+q0808	Main kaunsi language seekh rahi hoon?
+q0809	मैं कौन सी भाषा सीख रही हूँ?
+q0810	Naanu yaava language kaltidini?
+q0811	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0812	Mere son ka naam kya hai?
+q0813	मेरे बेटे का नाम क्या है?
+q0814	Nanna maga hesaru enu?
+q0815	ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?
+q0816	Main originally kahan ka hoon?
+q0817	मैं मूल रूप से कहाँ का रहने वाला हूँ?
+q0818	Nanna original ooru yaavudu?
+q0819	ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?
+q0820	Mere dog ka naam kya hai?
+q0821	मेरे कुत्ते का नाम क्या है?
+q0822	Nanna dog hesaru enu?
+q0823	ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?
+q0824	Main kis tarah ki diet follow karta hoon?
+q0825	मैं किस प्रकार का आहार अपनाता हूँ?
+q0826	Naanu yaava tarada diet follow maadtini?
+q0827	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?
+q0828	Main kaunsa instrument seekh raha hoon?
+q0829	मैं कौन सा वाद्य यंत्र सीख रहा हूँ?
+q0830	Naanu yaava instrument kaltidini?
+q0831	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0832	Maine recently kaunsi vehicle li?
+q0833	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0834	Naanu recent aagi yaava vehicle tagonde?
+q0835	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0836	Main kaunsi team ko support karta hoon?
+q0837	मैं किस टीम का समर्थन करता हूँ?
+q0838	Naanu yaava team support maadtini?
+q0839	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?
+q0840	Meri wife ka naam kya hai?
+q0841	मेरी पत्नी का नाम क्या है?
+q0842	Nanna wife hesaru enu?
+q0843	ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?
+q0844	Meri favourite dish kaunsi hai?
+q0845	मेरा सबसे पसंदीदा व्यंजन कौन सा है?
+q0846	Nanna favourite dish yaavudu?
+q0847	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?
+q0848	Main kaunse exam ki preparation kar raha hoon?
+q0849	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0850	Naanu yaava exam ge prepare maadta idini?
+q0851	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0852	Meri body ke kaunse part mein chot lagi hai?
+q0853	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0854	Nanna body alli yaava part ge debbu aagide?
+q0855	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0856	Mera favourite singer kaun hai?
+q0857	मेरा सबसे पसंदीदा गायक कौन है?
+q0858	Nanna favourite singer yaaru?
+q0859	ನನ್ನ ಅತ್ಯಂತ ಇಷ್ಟದ ಗಾಯಕ ಯಾರು?
+q0860	Main roz office kaise jaata hoon?
+q0861	मैं रोज़ दफ़्तर कैसे जाता हूँ?
+q0862	Naanu office ge hege hogtini?
+q0863	ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0864	Meri wife ka naam kya hai?
+q0865	मेरी पत्नी का नाम क्या है?
+q0866	Nanna wife hesaru enu?
+q0867	ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?
+q0868	Mujhe kis cheez se allergy hai?
+q0869	मुझे किस चीज़ से एलर्जी है?
+q0870	Nanage yaavudakke allergy ide?
+q0871	ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?
+q0872	Maine recently kaunsi vehicle li?
+q0873	मैंने हाल ही में कौन सी गाड़ी खरीदी?
+q0874	Naanu recent aagi yaava vehicle tagonde?
+q0875	ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?
+q0876	Meri daughter ka naam kya hai?
+q0877	मेरी बेटी का नाम क्या है?
+q0878	Nanna daughter hesaru enu?
+q0879	ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?
+q0880	Maine kaunse college mein padhai ki thi?
+q0881	मैंने किस महाविद्यालय में पढ़ाई की थी?
+q0882	Naanu yaava college alli odide?
+q0883	ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?
+q0884	Main kis cheez ke liye paise save kar raha hoon?
+q0885	मैं किस चीज़ के लिए पैसे बचा रहा हूँ?
+q0886	Naanu yaavudakke duddu save maadtidini?
+q0887	ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?
+q0888	Main kaunsi company mein kaam karti hoon?
+q0889	मैं किस कंपनी में काम करती हूँ?
+q0890	Naanu yaava company alli kelasa maadtidini?
+q0891	ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0892	Main kaunsa instrument seekh rahi hoon?
+q0893	मैं कौन सा वाद्य यंत्र सीख रही हूँ?
+q0894	Naanu yaava instrument kaltidini?
+q0895	ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0896	Main usually kis time workout karti hoon?
+q0897	मैं आमतौर पर किस समय व्यायाम करती हूँ?
+q0898	Naanu usually yaava time ge workout maadtini?
+q0899	ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯಕ್ಕೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?
+q0900	Mera favourite singer kaun hai?
+q0901	मेरा सबसे पसंदीदा गायक कौन है?
+q0902	Nanna favourite singer yaaru?
+q0903	ನನ್ನ ಅತ್ಯಂತ ಇಷ್ಟದ ಗಾಯಕ ಯಾರು?
+q0904	Main kaunsi language seekh rahi hoon?
+q0905	मैं कौन सी भाषा सीख रही हूँ?
+q0906	Naanu yaava language kaltidini?
+q0907	ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?
+q0908	Main office kaise jaati hoon?
+q0909	मैं दफ़्तर कैसे जाती हूँ?
+q0910	Naanu office ge hege hogtini?
+q0911	ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?
+q0912	Main ab kaunse city mein rehta hoon?
+q0913	मैं अब किस शहर में रहता हूँ?
+q0914	Naanu eega yaava city alli irtini?
+q0915	ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?
+q0916	Mere brother ka naam kya hai?
+q0917	मेरे भाई का नाम क्या है?
+q0918	Nanna brother hesaru enu?
+q0919	ನನ್ನ ಸಹೋದರನ ಹೆಸರು ಏನು?
+q0920	Main kaunsi diet follow karta hoon?
+q0921	मैं किस प्रकार का आहार लेता हूँ?
+q0922	Naanu yaava tarada diet follow maadtini?
+q0923	ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?
+q0924	Main apni next trip par kahan ja raha hoon?
+q0925	मैं अपनी अगली यात्रा पर कहाँ जा रहा हूँ?
+q0926	Naanu next trip ge elli hogtidini?
+q0927	ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?
+q0928	Main kaunse exam ki preparation kar raha hoon?
+q0929	मैं किस परीक्षा की तैयारी कर रहा हूँ?
+q0930	Naanu yaava exam ge prepare maadta idini?
+q0931	ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?
+q0932	Meri body ke kaunse part mein chot lagi hai?
+q0933	मेरे शरीर के किस हिस्से में चोट लगी है?
+q0934	Nanna body alli yaava part ge debbu aagide?
+q0935	ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?
+q0936	Main originally kahan ki rehne wali hoon?
+q0937	मैं मूल रूप से कहाँ की रहने वाली हूँ?
+q0938	Naanu originally elli inda bandidini?
+q0939	ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೇನೆ?
+q0940	Main kya kaam karti hoon?
+q0941	मैं क्या काम करती हूँ?
+q0942	Naanu yenu kelasa maadtini?
+q0943	ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?
+q0944	Mere rabbit ka naam kya hai?
+q0945	मेरे खरगोश का नाम क्या है?
+q0946	Nanna rabbit hesaru enu?
+q0947	ನನ್ನ ಮೊಲದ ಹೆಸರು ಏನು?
+q0948	Meri favourite dish kaunsi hai?
+q0949	मेरा सबसे पसंदीदा व्यंजन कौन सा है?
+q0950	Nanna favourite dish yaavudu?
+q0951	ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?
+q0952	Main weekends par kaunsa sport khelti hoon?
+q0953	मैं सप्ताहांत में कौन सा खेल खेलती हूँ?
+q0954	Naanu weekend alli yaava sport aadtini?
+q0955	ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?
+q0956	Main kaunsi team ko support karti hoon?
+q0957	मैं किस टीम का समर्थन करती हूँ?
+q0958	Naanu yaava team support maadtini?
+q0959	ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?

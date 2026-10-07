@@ -1,0 +1,25 @@
+\begin{table}[t]
+\centering
+\small
+\caption{End-to-end answer accuracy (\%) of an LLM reader (Claude Haiku 4.5) given five memories, for 48 facts (two per relation) and English questions. Raw/Gloss: top-5 memories retrieved by mE5-base under Raw or Gloss indexing; in parentheses, how often the target memory was among them. Oracle: target memory plus four random pool memories.}
+\label{tab:e2e}
+\begin{tabular}{@{}l ccc@{}}
+\toprule
+Stored form & Raw & Gloss & Oracle \\
+\midrule
+\form{EN} & 72.9 (75) & 66.7 (69) & 95.8 \\
+\midrule
+\form{hi-CM-R} & 35.4 (35) & 66.7 (71) & 100.0 \\
+\form{hi-CM-N} & 25.0 (27) & 66.7 (71) & 97.9 \\
+\form{hi-MO-N} & 25.0 (23) & 70.8 (71) & 100.0 \\
+\form{hi-MO-R} & 2.1 (2) & 62.5 (62) & 100.0 \\
+\midrule
+\form{kn-CM-R} & 18.8 (19) & 64.6 (67) & 97.9 \\
+\form{kn-CM-N} & 12.5 (12) & 64.6 (69) & 97.9 \\
+\form{kn-MO-N} & 10.4 (10) & 58.3 (65) & 97.9 \\
+\form{kn-MO-R} & 2.1 (2) & 52.1 (65) & 87.5 \\
+\midrule
+non-EN mean & 16.4 & 63.3 & 97.4 \\
+\bottomrule
+\end{tabular}
+\end{table}

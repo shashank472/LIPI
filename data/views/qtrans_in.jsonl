@@ -1,0 +1,960 @@
+{"n": 0, "id": "q0000", "text": "Main kaunsa instrument seekh rahi hoon?"}
+{"n": 1, "id": "q0001", "text": "मैं कौन सा वाद्य यंत्र सीख रही हूँ?"}
+{"n": 2, "id": "q0002", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 3, "id": "q0003", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 4, "id": "q0004", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 5, "id": "q0005", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 6, "id": "q0006", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 7, "id": "q0007", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 8, "id": "q0008", "text": "Main kaunse exam ki preparation kar rahi hoon?"}
+{"n": 9, "id": "q0009", "text": "मैं किस परीक्षा की तैयारी कर रही हूँ?"}
+{"n": 10, "id": "q0010", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 11, "id": "q0011", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 12, "id": "q0012", "text": "Main usually kitne baje workout karti hoon?"}
+{"n": 13, "id": "q0013", "text": "मैं आमतौर पर कितने बजे कसरत करती हूँ?"}
+{"n": 14, "id": "q0014", "text": "Naanu usually eshtu hottige workout maadtini?"}
+{"n": 15, "id": "q0015", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 16, "id": "q0016", "text": "Mera favourite singer kaun hai?"}
+{"n": 17, "id": "q0017", "text": "मुझे सबसे ज़्यादा किसके गाने पसंद हैं?"}
+{"n": 18, "id": "q0018", "text": "Nanna favourite singer yaaru?"}
+{"n": 19, "id": "q0019", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ಗಾಯಕರು ಯಾರು?"}
+{"n": 20, "id": "q0020", "text": "Maine kaunse college se padhai ki?"}
+{"n": 21, "id": "q0021", "text": "मैंने अपनी पढ़ाई कहाँ से पूरी की?"}
+{"n": 22, "id": "q0022", "text": "Naanu yaava college alli odide?"}
+{"n": 23, "id": "q0023", "text": "ನಾನು ನನ್ನ ವಿದ್ಯಾಭ್ಯಾಸವನ್ನು ಎಲ್ಲಿ ಮುಗಿಸಿದೆ?"}
+{"n": 24, "id": "q0024", "text": "Main abhi kaunsi city mein rehti hoon?"}
+{"n": 25, "id": "q0025", "text": "मैं अभी किस शहर में रहती हूँ?"}
+{"n": 26, "id": "q0026", "text": "Naanu eega yaava city alli irtini?"}
+{"n": 27, "id": "q0027", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 28, "id": "q0028", "text": "Main kaunsi company mein kaam karti hoon?"}
+{"n": 29, "id": "q0029", "text": "मैं किस कंपनी में नौकरी करती हूँ?"}
+{"n": 30, "id": "q0030", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 31, "id": "q0031", "text": "ನಾನು ಯಾವ ಸಂಸ್ಥೆಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 32, "id": "q0032", "text": "Mere husband ka naam kya hai?"}
+{"n": 33, "id": "q0033", "text": "मेरे पति का नाम क्या है?"}
+{"n": 34, "id": "q0034", "text": "Nanna husband hesaru enu?"}
+{"n": 35, "id": "q0035", "text": "ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?"}
+{"n": 36, "id": "q0036", "text": "Main weekends pe kaunsa sport khelti hoon?"}
+{"n": 37, "id": "q0037", "text": "मैं सप्ताहांत पर कौन सा खेल खेलती हूँ?"}
+{"n": 38, "id": "q0038", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 39, "id": "q0039", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 40, "id": "q0040", "text": "Mera next trip kahan ka hai?"}
+{"n": 41, "id": "q0041", "text": "मेरी अगली यात्रा कहाँ की है?"}
+{"n": 42, "id": "q0042", "text": "Nanna next trip ellige?"}
+{"n": 43, "id": "q0043", "text": "ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?"}
+{"n": 44, "id": "q0044", "text": "Mujhe body ke kis part mein chot lagi?"}
+{"n": 45, "id": "q0045", "text": "मुझे शरीर के किस हिस्से में चोट लगी?"}
+{"n": 46, "id": "q0046", "text": "Nanage body alli elli injury aaytu?"}
+{"n": 47, "id": "q0047", "text": "ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಯಿತು?"}
+{"n": 48, "id": "q0048", "text": "Main originally kahan se hoon?"}
+{"n": 49, "id": "q0049", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 50, "id": "q0050", "text": "Naanu originally yaava ooru?"}
+{"n": 51, "id": "q0051", "text": "ನನ್ನ ಹುಟ್ಟೂರು ಯಾವುದು?"}
+{"n": 52, "id": "q0052", "text": "Main kya kaam karti hoon?"}
+{"n": 53, "id": "q0053", "text": "मैं रोज़ी-रोटी के लिए क्या काम करती हूँ?"}
+{"n": 54, "id": "q0054", "text": "Naanu enu kelsa maadtini?"}
+{"n": 55, "id": "q0055", "text": "ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 56, "id": "q0056", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 57, "id": "q0057", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 58, "id": "q0058", "text": "Naanu yaava language kaltidini?"}
+{"n": 59, "id": "q0059", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 60, "id": "q0060", "text": "Mere son ka naam kya hai?"}
+{"n": 61, "id": "q0061", "text": "मेरे बेटे का नाम क्या है?"}
+{"n": 62, "id": "q0062", "text": "Nanna son hesaru enu?"}
+{"n": 63, "id": "q0063", "text": "ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?"}
+{"n": 64, "id": "q0064", "text": "Main office kaise jaati hoon?"}
+{"n": 65, "id": "q0065", "text": "मैं दफ्तर कैसे जाती हूँ?"}
+{"n": 66, "id": "q0066", "text": "Naanu office ge hege hogtini?"}
+{"n": 67, "id": "q0067", "text": "ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 68, "id": "q0068", "text": "Main kis cheez ke liye savings kar rahi hoon?"}
+{"n": 69, "id": "q0069", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 70, "id": "q0070", "text": "Naanu yaavudakke duddu save maadtidini?"}
+{"n": 71, "id": "q0071", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 72, "id": "q0072", "text": "Mere dog ka naam kya hai?"}
+{"n": 73, "id": "q0073", "text": "मेरे कुत्ते का नाम क्या है?"}
+{"n": 74, "id": "q0074", "text": "Nanna dog hesaru enu?"}
+{"n": 75, "id": "q0075", "text": "ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?"}
+{"n": 76, "id": "q0076", "text": "Meri sister ka naam kya hai?"}
+{"n": 77, "id": "q0077", "text": "मेरी बहन का नाम क्या है?"}
+{"n": 78, "id": "q0078", "text": "Nanna sister hesaru enu?"}
+{"n": 79, "id": "q0079", "text": "ನನ್ನ ಸಹೋದರಿಯ ಹೆಸರು ಏನು?"}
+{"n": 80, "id": "q0080", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 81, "id": "q0081", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 82, "id": "q0082", "text": "Nanage yaavudu allergy?"}
+{"n": 83, "id": "q0083", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 84, "id": "q0084", "text": "Main kaunsi diet follow karta hoon?"}
+{"n": 85, "id": "q0085", "text": "मैं किस तरह का खान-पान रखता हूँ?"}
+{"n": 86, "id": "q0086", "text": "Naanu yaava diet follow maadtini?"}
+{"n": 87, "id": "q0087", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಪದ್ಧತಿ ಪಾಲಿಸುತ್ತೇನೆ?"}
+{"n": 88, "id": "q0088", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 89, "id": "q0089", "text": "मेरा सबसे पसंदीदा व्यंजन कौन सा है?"}
+{"n": 90, "id": "q0090", "text": "Nanna favourite dish yaavudu?"}
+{"n": 91, "id": "q0091", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?"}
+{"n": 92, "id": "q0092", "text": "Main kaunsi team support karta hoon?"}
+{"n": 93, "id": "q0093", "text": "मैं किस टीम का समर्थक हूँ?"}
+{"n": 94, "id": "q0094", "text": "Naanu yaava team support maadtini?"}
+{"n": 95, "id": "q0095", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 96, "id": "q0096", "text": "Main abhi kaunsi city mein rehti hoon?"}
+{"n": 97, "id": "q0097", "text": "मैं अभी किस शहर में रहती हूँ?"}
+{"n": 98, "id": "q0098", "text": "Naanu eega yaava city alli irtini?"}
+{"n": 99, "id": "q0099", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 100, "id": "q0100", "text": "Main originally kahan se hoon?"}
+{"n": 101, "id": "q0101", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 102, "id": "q0102", "text": "Naanu originally yaava ooru?"}
+{"n": 103, "id": "q0103", "text": "ನನ್ನ ಹುಟ್ಟೂರು ಯಾವುದು?"}
+{"n": 104, "id": "q0104", "text": "Main kya kaam karti hoon?"}
+{"n": 105, "id": "q0105", "text": "मैं रोज़ी-रोटी के लिए क्या काम करती हूँ?"}
+{"n": 106, "id": "q0106", "text": "Naanu enu kelsa maadtini?"}
+{"n": 107, "id": "q0107", "text": "ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 108, "id": "q0108", "text": "Meri daughter ka naam kya hai?"}
+{"n": 109, "id": "q0109", "text": "मेरी बेटी का नाम क्या है?"}
+{"n": 110, "id": "q0110", "text": "Nanna daughter hesaru enu?"}
+{"n": 111, "id": "q0111", "text": "ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?"}
+{"n": 112, "id": "q0112", "text": "Main kaam pe kaise jaati hoon?"}
+{"n": 113, "id": "q0113", "text": "मैं काम पर कैसे जाती हूँ?"}
+{"n": 114, "id": "q0114", "text": "Naanu kelsakke hege hogtini?"}
+{"n": 115, "id": "q0115", "text": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 116, "id": "q0116", "text": "Main kis cheez ke liye savings kar rahi hoon?"}
+{"n": 117, "id": "q0117", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 118, "id": "q0118", "text": "Naanu yaavudakke duddu save maadtidini?"}
+{"n": 119, "id": "q0119", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 120, "id": "q0120", "text": "Mere brother ka naam kya hai?"}
+{"n": 121, "id": "q0121", "text": "मेरे भाई का नाम क्या है?"}
+{"n": 122, "id": "q0122", "text": "Nanna brother hesaru enu?"}
+{"n": 123, "id": "q0123", "text": "ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?"}
+{"n": 124, "id": "q0124", "text": "Meri wife ka naam kya hai?"}
+{"n": 125, "id": "q0125", "text": "मेरी पत्नी का नाम क्या है?"}
+{"n": 126, "id": "q0126", "text": "Nanna wife hesaru enu?"}
+{"n": 127, "id": "q0127", "text": "ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?"}
+{"n": 128, "id": "q0128", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 129, "id": "q0129", "text": "मेरा सबसे पसंदीदा व्यंजन कौन सा है?"}
+{"n": 130, "id": "q0130", "text": "Nanna favourite dish yaavudu?"}
+{"n": 131, "id": "q0131", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?"}
+{"n": 132, "id": "q0132", "text": "Main kaunsa instrument seekh raha hoon?"}
+{"n": 133, "id": "q0133", "text": "मैं कौन सा वाद्य यंत्र सीख रहा हूँ?"}
+{"n": 134, "id": "q0134", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 135, "id": "q0135", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 136, "id": "q0136", "text": "Main usually kitne baje workout karta hoon?"}
+{"n": 137, "id": "q0137", "text": "मैं आमतौर पर कितने बजे कसरत करता हूँ?"}
+{"n": 138, "id": "q0138", "text": "Naanu usually eshtu hottige workout maadtini?"}
+{"n": 139, "id": "q0139", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 140, "id": "q0140", "text": "Mera favourite singer kaun hai?"}
+{"n": 141, "id": "q0141", "text": "मुझे सबसे ज़्यादा किसके गाने पसंद हैं?"}
+{"n": 142, "id": "q0142", "text": "Nanna favourite singer yaaru?"}
+{"n": 143, "id": "q0143", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ಗಾಯಕರು ಯಾರು?"}
+{"n": 144, "id": "q0144", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 145, "id": "q0145", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 146, "id": "q0146", "text": "Nanage yaavudakke allergy ide?"}
+{"n": 147, "id": "q0147", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 148, "id": "q0148", "text": "Main weekends par kaunsa sport khelta hoon?"}
+{"n": 149, "id": "q0149", "text": "मैं सप्ताहांत में कौन सा खेल खेलता हूँ?"}
+{"n": 150, "id": "q0150", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 151, "id": "q0151", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 152, "id": "q0152", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 153, "id": "q0153", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 154, "id": "q0154", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 155, "id": "q0155", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 156, "id": "q0156", "text": "Mujhe body ke kis part mein chot lagi?"}
+{"n": 157, "id": "q0157", "text": "मुझे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 158, "id": "q0158", "text": "Nanage body alli yaava part ge pettu aagide?"}
+{"n": 159, "id": "q0159", "text": "ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 160, "id": "q0160", "text": "Main kaunsi language seekh raha hoon?"}
+{"n": 161, "id": "q0161", "text": "मैं कौन सी भाषा सीख रहा हूँ?"}
+{"n": 162, "id": "q0162", "text": "Naanu yaava language kaltidini?"}
+{"n": 163, "id": "q0163", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 164, "id": "q0164", "text": "Main kaunsi team ko support karta hoon?"}
+{"n": 165, "id": "q0165", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 166, "id": "q0166", "text": "Naanu yaava team support maadtini?"}
+{"n": 167, "id": "q0167", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 168, "id": "q0168", "text": "Main kaunsi company mein kaam karta hoon?"}
+{"n": 169, "id": "q0169", "text": "मैं किस कंपनी में काम करता हूँ?"}
+{"n": 170, "id": "q0170", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 171, "id": "q0171", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 172, "id": "q0172", "text": "Mere cat ka naam kya hai?"}
+{"n": 173, "id": "q0173", "text": "मेरी बिल्ली का नाम क्या है?"}
+{"n": 174, "id": "q0174", "text": "Nanna cat hesaru enu?"}
+{"n": 175, "id": "q0175", "text": "ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?"}
+{"n": 176, "id": "q0176", "text": "Main kis tarah ki diet follow karta hoon?"}
+{"n": 177, "id": "q0177", "text": "मैं किस तरह का आहार लेता हूँ?"}
+{"n": 178, "id": "q0178", "text": "Naanu yaava tarada diet follow maadtini?"}
+{"n": 179, "id": "q0179", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 180, "id": "q0180", "text": "Main next trip par kahan ja raha hoon?"}
+{"n": 181, "id": "q0181", "text": "मैं अगली यात्रा पर कहाँ जा रहा हूँ?"}
+{"n": 182, "id": "q0182", "text": "Naanu next trip ge elli hogtidini?"}
+{"n": 183, "id": "q0183", "text": "ನಾನು ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 184, "id": "q0184", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 185, "id": "q0185", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 186, "id": "q0186", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 187, "id": "q0187", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 188, "id": "q0188", "text": "Maine kis college mein padhai ki thi?"}
+{"n": 189, "id": "q0189", "text": "मैंने किस महाविद्यालय में पढ़ाई की थी?"}
+{"n": 190, "id": "q0190", "text": "Naanu yaava college alli odide?"}
+{"n": 191, "id": "q0191", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 192, "id": "q0192", "text": "Main ab kaun se city mein rehti hoon?"}
+{"n": 193, "id": "q0193", "text": "मैं अब किस शहर में रहती हूँ?"}
+{"n": 194, "id": "q0194", "text": "Naanu eega yaava city alli idini?"}
+{"n": 195, "id": "q0195", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 196, "id": "q0196", "text": "Main originally kahan ki rehne wali hoon?"}
+{"n": 197, "id": "q0197", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 198, "id": "q0198", "text": "Nanna native place yaavudu?"}
+{"n": 199, "id": "q0199", "text": "ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?"}
+{"n": 200, "id": "q0200", "text": "Main kaunsa instrument seekh rahi hoon?"}
+{"n": 201, "id": "q0201", "text": "मैं कौन सा वाद्य यंत्र सीख रही हूँ?"}
+{"n": 202, "id": "q0202", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 203, "id": "q0203", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 204, "id": "q0204", "text": "Mujhe body ke kis part mein chot lagi?"}
+{"n": 205, "id": "q0205", "text": "मुझे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 206, "id": "q0206", "text": "Nanage body alli yaava part ge pettu aagide?"}
+{"n": 207, "id": "q0207", "text": "ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 208, "id": "q0208", "text": "Main usually kis time workout karti hoon?"}
+{"n": 209, "id": "q0209", "text": "मैं आमतौर पर किस समय व्यायाम करती हूँ?"}
+{"n": 210, "id": "q0210", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 211, "id": "q0211", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯಕ್ಕೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 212, "id": "q0212", "text": "Maine kis college mein padhai ki thi?"}
+{"n": 213, "id": "q0213", "text": "मैंने किस महाविद्यालय में पढ़ाई की थी?"}
+{"n": 214, "id": "q0214", "text": "Naanu yaava college alli odide?"}
+{"n": 215, "id": "q0215", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 216, "id": "q0216", "text": "Main profession se kya karti hoon?"}
+{"n": 217, "id": "q0217", "text": "मैं पेशे से क्या करती हूँ?"}
+{"n": 218, "id": "q0218", "text": "Naanu enu kelsa maadtini?"}
+{"n": 219, "id": "q0219", "text": "ನಾನು ಯಾವ ವೃತ್ತಿಯಲ್ಲಿದ್ದೇನೆ?"}
+{"n": 220, "id": "q0220", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 221, "id": "q0221", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 222, "id": "q0222", "text": "Nanage yaavudakke allergy ide?"}
+{"n": 223, "id": "q0223", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 224, "id": "q0224", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 225, "id": "q0225", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 226, "id": "q0226", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 227, "id": "q0227", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 228, "id": "q0228", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 229, "id": "q0229", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 230, "id": "q0230", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 231, "id": "q0231", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 232, "id": "q0232", "text": "Main next trip par kahan ja rahi hoon?"}
+{"n": 233, "id": "q0233", "text": "मैं अगली यात्रा पर कहाँ जा रही हूँ?"}
+{"n": 234, "id": "q0234", "text": "Naanu next trip ge elli hogtidini?"}
+{"n": 235, "id": "q0235", "text": "ನಾನು ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 236, "id": "q0236", "text": "Main kaunsi team ko support karti hoon?"}
+{"n": 237, "id": "q0237", "text": "मैं किस टीम का समर्थन करती हूँ?"}
+{"n": 238, "id": "q0238", "text": "Naanu yaava team support maadtini?"}
+{"n": 239, "id": "q0239", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 240, "id": "q0240", "text": "Main kaunsi company mein kaam karti hoon?"}
+{"n": 241, "id": "q0241", "text": "मैं किस कंपनी में काम करती हूँ?"}
+{"n": 242, "id": "q0242", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 243, "id": "q0243", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 244, "id": "q0244", "text": "Meri sister ka naam kya hai?"}
+{"n": 245, "id": "q0245", "text": "मेरी बहन का नाम क्या है?"}
+{"n": 246, "id": "q0246", "text": "Nanna sister hesaru enu?"}
+{"n": 247, "id": "q0247", "text": "ನನ್ನ ಸಹೋದರಿಯ ಹೆಸರು ಏನು?"}
+{"n": 248, "id": "q0248", "text": "Mere fiance ka naam kya hai?"}
+{"n": 249, "id": "q0249", "text": "मेरे मंगेतर का नाम क्या है?"}
+{"n": 250, "id": "q0250", "text": "Nanna fiance hesaru enu?"}
+{"n": 251, "id": "q0251", "text": "ನನ್ನ ನಿಶ್ಚಿತ ವರನ ಹೆಸರು ಏನು?"}
+{"n": 252, "id": "q0252", "text": "Main kis tarah ki diet follow karti hoon?"}
+{"n": 253, "id": "q0253", "text": "मैं किस तरह का आहार लेती हूँ?"}
+{"n": 254, "id": "q0254", "text": "Naanu yaava tarada diet follow maadtini?"}
+{"n": 255, "id": "q0255", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 256, "id": "q0256", "text": "Mera favourite dish kaunsa hai?"}
+{"n": 257, "id": "q0257", "text": "मेरा पसंदीदा व्यंजन कौन सा है?"}
+{"n": 258, "id": "q0258", "text": "Nanna favourite dish yaavudu?"}
+{"n": 259, "id": "q0259", "text": "ನನ್ನ ಇಷ್ಟದ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 260, "id": "q0260", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 261, "id": "q0261", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 262, "id": "q0262", "text": "Naanu yaava language kaltidini?"}
+{"n": 263, "id": "q0263", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 264, "id": "q0264", "text": "Mere parrot ka naam kya hai?"}
+{"n": 265, "id": "q0265", "text": "मेरे तोते का नाम क्या है?"}
+{"n": 266, "id": "q0266", "text": "Nanna parrot hesaru enu?"}
+{"n": 267, "id": "q0267", "text": "ನನ್ನ ಗಿಳಿಯ ಹೆಸರು ಏನು?"}
+{"n": 268, "id": "q0268", "text": "Main kaunse exam ki preparation kar rahi hoon?"}
+{"n": 269, "id": "q0269", "text": "मैं किस परीक्षा की तैयारी कर रही हूँ?"}
+{"n": 270, "id": "q0270", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 271, "id": "q0271", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 272, "id": "q0272", "text": "Mera favourite singer kaun hai?"}
+{"n": 273, "id": "q0273", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 274, "id": "q0274", "text": "Nanna favourite singer yaaru?"}
+{"n": 275, "id": "q0275", "text": "ನನ್ನ ಇಷ್ಟದ ಗಾಯಕರು ಯಾರು?"}
+{"n": 276, "id": "q0276", "text": "Mere son ka naam kya hai?"}
+{"n": 277, "id": "q0277", "text": "मेरे बेटे का नाम क्या है?"}
+{"n": 278, "id": "q0278", "text": "Nanna son hesaru enu?"}
+{"n": 279, "id": "q0279", "text": "ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?"}
+{"n": 280, "id": "q0280", "text": "Main office kaise jaati hoon?"}
+{"n": 281, "id": "q0281", "text": "मैं दफ़्तर कैसे जाती हूँ?"}
+{"n": 282, "id": "q0282", "text": "Naanu office ge hege hogtini?"}
+{"n": 283, "id": "q0283", "text": "ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 284, "id": "q0284", "text": "Main kis cheez ke liye paise bacha rahi hoon?"}
+{"n": 285, "id": "q0285", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 286, "id": "q0286", "text": "Naanu yaavudakke duddu uliskta idini?"}
+{"n": 287, "id": "q0287", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 288, "id": "q0288", "text": "Main originally kahan ki rehne wali hoon?"}
+{"n": 289, "id": "q0289", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 290, "id": "q0290", "text": "Nanna native place yaavudu?"}
+{"n": 291, "id": "q0291", "text": "ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?"}
+{"n": 292, "id": "q0292", "text": "Mera favourite dish kaunsa hai?"}
+{"n": 293, "id": "q0293", "text": "मेरा पसंदीदा व्यंजन कौन सा है?"}
+{"n": 294, "id": "q0294", "text": "Nanna favourite dish yaavudu?"}
+{"n": 295, "id": "q0295", "text": "ನನ್ನ ಇಷ್ಟದ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 296, "id": "q0296", "text": "Main kaunsa instrument seekh rahi hoon?"}
+{"n": 297, "id": "q0297", "text": "मैं कौन सा वाद्य यंत्र सीख रही हूँ?"}
+{"n": 298, "id": "q0298", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 299, "id": "q0299", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 300, "id": "q0300", "text": "Mujhe body ke kis part mein chot lagi?"}
+{"n": 301, "id": "q0301", "text": "मुझे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 302, "id": "q0302", "text": "Nanage body alli yaava part ge pettu aagide?"}
+{"n": 303, "id": "q0303", "text": "ನನಗೆ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 304, "id": "q0304", "text": "Mera favourite singer kaun hai?"}
+{"n": 305, "id": "q0305", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 306, "id": "q0306", "text": "Nanna favourite singer yaaru?"}
+{"n": 307, "id": "q0307", "text": "ನನ್ನ ಇಷ್ಟದ ಗಾಯಕರು ಯಾರು?"}
+{"n": 308, "id": "q0308", "text": "Meri daughter ka naam kya hai?"}
+{"n": 309, "id": "q0309", "text": "मेरी बेटी का नाम क्या है?"}
+{"n": 310, "id": "q0310", "text": "Nanna daughter hesaru enu?"}
+{"n": 311, "id": "q0311", "text": "ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?"}
+{"n": 312, "id": "q0312", "text": "Main kya kaam karta hoon?"}
+{"n": 313, "id": "q0313", "text": "मैं क्या काम करता हूँ?"}
+{"n": 314, "id": "q0314", "text": "Nanna profession enu?"}
+{"n": 315, "id": "q0315", "text": "ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 316, "id": "q0316", "text": "Mere brother ka naam kya hai?"}
+{"n": 317, "id": "q0317", "text": "मेरे भाई का नाम क्या है?"}
+{"n": 318, "id": "q0318", "text": "Nanna brother hesaru enu?"}
+{"n": 319, "id": "q0319", "text": "ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?"}
+{"n": 320, "id": "q0320", "text": "Main kis type ki diet follow karta hoon?"}
+{"n": 321, "id": "q0321", "text": "मैं किस प्रकार के आहार का पालन करता हूँ?"}
+{"n": 322, "id": "q0322", "text": "Naanu yaava type diet follow maadtini?"}
+{"n": 323, "id": "q0323", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?"}
+{"n": 324, "id": "q0324", "text": "Main usually kis time workout karta hoon?"}
+{"n": 325, "id": "q0325", "text": "मैं आमतौर पर किस समय व्यायाम करता हूँ?"}
+{"n": 326, "id": "q0326", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 327, "id": "q0327", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 328, "id": "q0328", "text": "Maine kaunse college mein padhai ki?"}
+{"n": 329, "id": "q0329", "text": "मैंने किस कॉलेज में पढ़ाई की थी?"}
+{"n": 330, "id": "q0330", "text": "Naanu yaava college alli odide?"}
+{"n": 331, "id": "q0331", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 332, "id": "q0332", "text": "Main kis cheez ke liye paise bacha raha hoon?"}
+{"n": 333, "id": "q0333", "text": "मैं किस चीज़ के लिए पैसे बचा रहा हूँ?"}
+{"n": 334, "id": "q0334", "text": "Naanu yaavudakke money save maadtidini?"}
+{"n": 335, "id": "q0335", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 336, "id": "q0336", "text": "Main ab kaunse city mein rehta hoon?"}
+{"n": 337, "id": "q0337", "text": "मैं अब किस शहर में रहता हूँ?"}
+{"n": 338, "id": "q0338", "text": "Naanu eega yaava city alli idini?"}
+{"n": 339, "id": "q0339", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 340, "id": "q0340", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 341, "id": "q0341", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 342, "id": "q0342", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 343, "id": "q0343", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 344, "id": "q0344", "text": "Meri agli trip kahan ki hai?"}
+{"n": 345, "id": "q0345", "text": "मेरी अगली यात्रा कहाँ की है?"}
+{"n": 346, "id": "q0346", "text": "Naanu next trip yelli hogtidini?"}
+{"n": 347, "id": "q0347", "text": "ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 348, "id": "q0348", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 349, "id": "q0349", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 350, "id": "q0350", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 351, "id": "q0351", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 352, "id": "q0352", "text": "Main office kaise jaata hoon?"}
+{"n": 353, "id": "q0353", "text": "मैं दफ़्तर कैसे पहुँचता हूँ?"}
+{"n": 354, "id": "q0354", "text": "Naanu office ge hege hogtini?"}
+{"n": 355, "id": "q0355", "text": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 356, "id": "q0356", "text": "Main kaunsi team ko support karta hoon?"}
+{"n": 357, "id": "q0357", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 358, "id": "q0358", "text": "Naanu yaava team support maadtini?"}
+{"n": 359, "id": "q0359", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 360, "id": "q0360", "text": "Main kaunsi company mein kaam karta hoon?"}
+{"n": 361, "id": "q0361", "text": "मैं किस कंपनी में काम करता हूँ?"}
+{"n": 362, "id": "q0362", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 363, "id": "q0363", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 364, "id": "q0364", "text": "Mere dog ka naam kya hai?"}
+{"n": 365, "id": "q0365", "text": "मेरे कुत्ते का नाम क्या है?"}
+{"n": 366, "id": "q0366", "text": "Nanna dog hesaru enu?"}
+{"n": 367, "id": "q0367", "text": "ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?"}
+{"n": 368, "id": "q0368", "text": "Meri wife ka naam kya hai?"}
+{"n": 369, "id": "q0369", "text": "मेरी पत्नी का नाम क्या है?"}
+{"n": 370, "id": "q0370", "text": "Nanna wife hesaru enu?"}
+{"n": 371, "id": "q0371", "text": "ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?"}
+{"n": 372, "id": "q0372", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 373, "id": "q0373", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 374, "id": "q0374", "text": "Nanage yaavudara allergy ide?"}
+{"n": 375, "id": "q0375", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 376, "id": "q0376", "text": "Main weekends par kaunsa sport khelta hoon?"}
+{"n": 377, "id": "q0377", "text": "मैं सप्ताहांत में कौन सा खेल खेलता हूँ?"}
+{"n": 378, "id": "q0378", "text": "Naanu weekend alli yaava sport aadtini?"}
+{"n": 379, "id": "q0379", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?"}
+{"n": 380, "id": "q0380", "text": "Main kaunsi language seekh raha hoon?"}
+{"n": 381, "id": "q0381", "text": "मैं कौन सी भाषा सीख रहा हूँ?"}
+{"n": 382, "id": "q0382", "text": "Naanu yaava language kaltidini?"}
+{"n": 383, "id": "q0383", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 384, "id": "q0384", "text": "Main kaunsi company mein kaam karta hoon?"}
+{"n": 385, "id": "q0385", "text": "मैं किस कंपनी में काम करता हूँ?"}
+{"n": 386, "id": "q0386", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 387, "id": "q0387", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 388, "id": "q0388", "text": "Main kya kaam karta hoon?"}
+{"n": 389, "id": "q0389", "text": "मैं क्या काम करता हूँ?"}
+{"n": 390, "id": "q0390", "text": "Nanna profession enu?"}
+{"n": 391, "id": "q0391", "text": "ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 392, "id": "q0392", "text": "Main kaunsa instrument seekh raha hoon?"}
+{"n": 393, "id": "q0393", "text": "मैं कौन सा वाद्य यंत्र सीख रहा हूँ?"}
+{"n": 394, "id": "q0394", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 395, "id": "q0395", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 396, "id": "q0396", "text": "Mera favourite singer kaun hai?"}
+{"n": 397, "id": "q0397", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 398, "id": "q0398", "text": "Nanna favourite singer yaaru?"}
+{"n": 399, "id": "q0399", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?"}
+{"n": 400, "id": "q0400", "text": "Main kaunsi language seekh raha hoon?"}
+{"n": 401, "id": "q0401", "text": "मैं कौन सी भाषा सीख रहा हूँ?"}
+{"n": 402, "id": "q0402", "text": "Naanu yaava language kaltidini?"}
+{"n": 403, "id": "q0403", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 404, "id": "q0404", "text": "Mere son ka naam kya hai?"}
+{"n": 405, "id": "q0405", "text": "मेरे बेटे का नाम क्या है?"}
+{"n": 406, "id": "q0406", "text": "Nanna son hesaru enu?"}
+{"n": 407, "id": "q0407", "text": "ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?"}
+{"n": 408, "id": "q0408", "text": "Main originally kahan ka rehne wala hoon?"}
+{"n": 409, "id": "q0409", "text": "मैं मूल रूप से कहाँ का रहने वाला हूँ?"}
+{"n": 410, "id": "q0410", "text": "Naanu originally yelli inda bandidini?"}
+{"n": 411, "id": "q0411", "text": "ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಯವನು?"}
+{"n": 412, "id": "q0412", "text": "Meri sister ka naam kya hai?"}
+{"n": 413, "id": "q0413", "text": "मेरी बहन का नाम क्या है?"}
+{"n": 414, "id": "q0414", "text": "Nanna sister hesaru enu?"}
+{"n": 415, "id": "q0415", "text": "ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?"}
+{"n": 416, "id": "q0416", "text": "Main kis type ki diet follow karta hoon?"}
+{"n": 417, "id": "q0417", "text": "मैं किस प्रकार के आहार का पालन करता हूँ?"}
+{"n": 418, "id": "q0418", "text": "Naanu yaava type diet follow maadtini?"}
+{"n": 419, "id": "q0419", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?"}
+{"n": 420, "id": "q0420", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 421, "id": "q0421", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 422, "id": "q0422", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 423, "id": "q0423", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 424, "id": "q0424", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 425, "id": "q0425", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 426, "id": "q0426", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 427, "id": "q0427", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 428, "id": "q0428", "text": "Main kaunsi team ko support karta hoon?"}
+{"n": 429, "id": "q0429", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 430, "id": "q0430", "text": "Naanu yaava team support maadtini?"}
+{"n": 431, "id": "q0431", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 432, "id": "q0432", "text": "Main ab kaunse city mein rehti hoon?"}
+{"n": 433, "id": "q0433", "text": "मैं अब किस शहर में रहती हूँ?"}
+{"n": 434, "id": "q0434", "text": "Naanu eega yaava city alli idini?"}
+{"n": 435, "id": "q0435", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 436, "id": "q0436", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 437, "id": "q0437", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 438, "id": "q0438", "text": "Nanage yaavudara allergy ide?"}
+{"n": 439, "id": "q0439", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 440, "id": "q0440", "text": "Mera favourite dish kya hai?"}
+{"n": 441, "id": "q0441", "text": "मेरा पसंदीदा व्यंजन क्या है?"}
+{"n": 442, "id": "q0442", "text": "Nanna favourite dish enu?"}
+{"n": 443, "id": "q0443", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 444, "id": "q0444", "text": "Meri agli trip kahan ki hai?"}
+{"n": 445, "id": "q0445", "text": "मेरी अगली यात्रा कहाँ की है?"}
+{"n": 446, "id": "q0446", "text": "Naanu next trip yelli hogtidini?"}
+{"n": 447, "id": "q0447", "text": "ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 448, "id": "q0448", "text": "Meri body ka kaunsa hissa hurt hua hai?"}
+{"n": 449, "id": "q0449", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 450, "id": "q0450", "text": "Nanna body alli yaava part ge gaayavaagide?"}
+{"n": 451, "id": "q0451", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಗಾಯವಾಗಿದೆ?"}
+{"n": 452, "id": "q0452", "text": "Maine kaunse college mein padhai ki?"}
+{"n": 453, "id": "q0453", "text": "मैंने किस कॉलेज में पढ़ाई की थी?"}
+{"n": 454, "id": "q0454", "text": "Naanu yaava college alli odide?"}
+{"n": 455, "id": "q0455", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 456, "id": "q0456", "text": "Meri cat ka naam kya hai?"}
+{"n": 457, "id": "q0457", "text": "मेरी बिल्ली का नाम क्या है?"}
+{"n": 458, "id": "q0458", "text": "Nanna cat hesaru enu?"}
+{"n": 459, "id": "q0459", "text": "ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?"}
+{"n": 460, "id": "q0460", "text": "Mere husband ka naam kya hai?"}
+{"n": 461, "id": "q0461", "text": "मेरे पति का नाम क्या है?"}
+{"n": 462, "id": "q0462", "text": "Nanna husband hesaru enu?"}
+{"n": 463, "id": "q0463", "text": "ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?"}
+{"n": 464, "id": "q0464", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 465, "id": "q0465", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 466, "id": "q0466", "text": "Naanu weekend alli yaava sport aadtini?"}
+{"n": 467, "id": "q0467", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?"}
+{"n": 468, "id": "q0468", "text": "Main usually kis time workout karti hoon?"}
+{"n": 469, "id": "q0469", "text": "मैं आमतौर पर किस समय व्यायाम करती हूँ?"}
+{"n": 470, "id": "q0470", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 471, "id": "q0471", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 472, "id": "q0472", "text": "Main office kaise jaati hoon?"}
+{"n": 473, "id": "q0473", "text": "मैं दफ़्तर कैसे पहुँचती हूँ?"}
+{"n": 474, "id": "q0474", "text": "Naanu office ge hege hogtini?"}
+{"n": 475, "id": "q0475", "text": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 476, "id": "q0476", "text": "Main kis cheez ke liye paise bacha rahi hoon?"}
+{"n": 477, "id": "q0477", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 478, "id": "q0478", "text": "Naanu yaavudakke money save maadtidini?"}
+{"n": 479, "id": "q0479", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 480, "id": "q0480", "text": "Main kya job karti hoon?"}
+{"n": 481, "id": "q0481", "text": "मैं आजीविका के लिए क्या करती हूँ?"}
+{"n": 482, "id": "q0482", "text": "Nanna job yenu?"}
+{"n": 483, "id": "q0483", "text": "ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಮಾಡುತ್ತೇನೆ?"}
+{"n": 484, "id": "q0484", "text": "Mere husband ka naam kya hai?"}
+{"n": 485, "id": "q0485", "text": "मेरे पति का नाम क्या है?"}
+{"n": 486, "id": "q0486", "text": "Nanna husband hesaru enu?"}
+{"n": 487, "id": "q0487", "text": "ನನ್ನ ಗಂಡನ ಹೆಸರು ಏನು?"}
+{"n": 488, "id": "q0488", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 489, "id": "q0489", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 490, "id": "q0490", "text": "Naanu weekend alli yaava sport aadtini?"}
+{"n": 491, "id": "q0491", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 492, "id": "q0492", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 493, "id": "q0493", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 494, "id": "q0494", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 495, "id": "q0495", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 496, "id": "q0496", "text": "Meri body ke kaunse part mein chot lagi hai?"}
+{"n": 497, "id": "q0497", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 498, "id": "q0498", "text": "Nange body alli yaava part ge pettu aagide?"}
+{"n": 499, "id": "q0499", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 500, "id": "q0500", "text": "Main kis cheez ke liye paisa save kar rahi hoon?"}
+{"n": 501, "id": "q0501", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 502, "id": "q0502", "text": "Naanu yaavdakke money save maadtidini?"}
+{"n": 503, "id": "q0503", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 504, "id": "q0504", "text": "Main abhi kaun si city mein rehta hoon?"}
+{"n": 505, "id": "q0505", "text": "मैं अभी किस शहर में रहता हूँ?"}
+{"n": 506, "id": "q0506", "text": "Naanu eega yaava city alli idini?"}
+{"n": 507, "id": "q0507", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 508, "id": "q0508", "text": "Mere dog ka naam kya hai?"}
+{"n": 509, "id": "q0509", "text": "मेरे कुत्ते का नाम क्या है?"}
+{"n": 510, "id": "q0510", "text": "Nanna dog hesaru enu?"}
+{"n": 511, "id": "q0511", "text": "ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?"}
+{"n": 512, "id": "q0512", "text": "Main kaunsi diet follow karta hoon?"}
+{"n": 513, "id": "q0513", "text": "मैं किस तरह का आहार लेता हूँ?"}
+{"n": 514, "id": "q0514", "text": "Naanu yaava diet follow maadtini?"}
+{"n": 515, "id": "q0515", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 516, "id": "q0516", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 517, "id": "q0517", "text": "मेरा पसंदीदा व्यंजन कौन सा है?"}
+{"n": 518, "id": "q0518", "text": "Nanna favourite dish yenu?"}
+{"n": 519, "id": "q0519", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 520, "id": "q0520", "text": "Main usually kitne baje workout karta hoon?"}
+{"n": 521, "id": "q0521", "text": "मैं आमतौर पर कितने बजे व्यायाम करता हूँ?"}
+{"n": 522, "id": "q0522", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 523, "id": "q0523", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಎಷ್ಟು ಗಂಟೆಗೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 524, "id": "q0524", "text": "Main kaun si team ko support karta hoon?"}
+{"n": 525, "id": "q0525", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 526, "id": "q0526", "text": "Naanu yaava team support maadtini?"}
+{"n": 527, "id": "q0527", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 528, "id": "q0528", "text": "Main originally kahaan se hoon?"}
+{"n": 529, "id": "q0529", "text": "मैं मूल रूप से कहाँ का रहने वाला हूँ?"}
+{"n": 530, "id": "q0530", "text": "Naanu originally ellinda bandidini?"}
+{"n": 531, "id": "q0531", "text": "ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೇನೆ?"}
+{"n": 532, "id": "q0532", "text": "Main kaunsa instrument seekh raha hoon?"}
+{"n": 533, "id": "q0533", "text": "मैं कौन सा वाद्य यंत्र सीख रहा हूँ?"}
+{"n": 534, "id": "q0534", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 535, "id": "q0535", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 536, "id": "q0536", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 537, "id": "q0537", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 538, "id": "q0538", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 539, "id": "q0539", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 540, "id": "q0540", "text": "Main kaunsi language seekh raha hoon?"}
+{"n": 541, "id": "q0541", "text": "मैं कौन सी भाषा सीख रहा हूँ?"}
+{"n": 542, "id": "q0542", "text": "Naanu yaava language kaltidini?"}
+{"n": 543, "id": "q0543", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 544, "id": "q0544", "text": "Main work par kaise jaata hoon?"}
+{"n": 545, "id": "q0545", "text": "मैं काम पर कैसे जाता हूँ?"}
+{"n": 546, "id": "q0546", "text": "Naanu work ge hege hogtini?"}
+{"n": 547, "id": "q0547", "text": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 548, "id": "q0548", "text": "Maine kaunse college mein padhai ki?"}
+{"n": 549, "id": "q0549", "text": "मैंने किस कॉलेज में पढ़ाई की?"}
+{"n": 550, "id": "q0550", "text": "Naanu yaava college alli odide?"}
+{"n": 551, "id": "q0551", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದ್ದೇನೆ?"}
+{"n": 552, "id": "q0552", "text": "Main kaunsi company mein kaam karta hoon?"}
+{"n": 553, "id": "q0553", "text": "मैं किस कंपनी में काम करता हूँ?"}
+{"n": 554, "id": "q0554", "text": "Naanu yaava company alli kelasa maadtini?"}
+{"n": 555, "id": "q0555", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 556, "id": "q0556", "text": "Mere brother ka naam kya hai?"}
+{"n": 557, "id": "q0557", "text": "मेरे भाई का नाम क्या है?"}
+{"n": 558, "id": "q0558", "text": "Nanna brother hesaru enu?"}
+{"n": 559, "id": "q0559", "text": "ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?"}
+{"n": 560, "id": "q0560", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 561, "id": "q0561", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 562, "id": "q0562", "text": "Nange yaavdakke allergy ide?"}
+{"n": 563, "id": "q0563", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 564, "id": "q0564", "text": "Meri next trip kahaan ki hai?"}
+{"n": 565, "id": "q0565", "text": "मेरी अगली यात्रा कहाँ की है?"}
+{"n": 566, "id": "q0566", "text": "Naanu next trip ge yelli hogtidini?"}
+{"n": 567, "id": "q0567", "text": "ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?"}
+{"n": 568, "id": "q0568", "text": "Mera favourite singer kaun hai?"}
+{"n": 569, "id": "q0569", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 570, "id": "q0570", "text": "Nanna favourite singer yaaru?"}
+{"n": 571, "id": "q0571", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?"}
+{"n": 572, "id": "q0572", "text": "Meri beti ka naam kya hai?"}
+{"n": 573, "id": "q0573", "text": "मेरी बेटी का नाम क्या है?"}
+{"n": 574, "id": "q0574", "text": "Nanna daughter hesaru enu?"}
+{"n": 575, "id": "q0575", "text": "ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?"}
+{"n": 576, "id": "q0576", "text": "Main kaunsi company mein kaam karta hoon?"}
+{"n": 577, "id": "q0577", "text": "मैं किस कंपनी में काम करता हूँ?"}
+{"n": 578, "id": "q0578", "text": "Naanu yaava company alli kelasa maadtini?"}
+{"n": 579, "id": "q0579", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 580, "id": "q0580", "text": "Meri sister ka naam kya hai?"}
+{"n": 581, "id": "q0581", "text": "मेरी बहन का नाम क्या है?"}
+{"n": 582, "id": "q0582", "text": "Nanna sister hesaru enu?"}
+{"n": 583, "id": "q0583", "text": "ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?"}
+{"n": 584, "id": "q0584", "text": "Meri fiancee ka naam kya hai?"}
+{"n": 585, "id": "q0585", "text": "मेरी मंगेतर का नाम क्या है?"}
+{"n": 586, "id": "q0586", "text": "Nanna fiancee hesaru enu?"}
+{"n": 587, "id": "q0587", "text": "ನನ್ನ ನಿಶ್ಚಿತ ವಧುವಿನ ಹೆಸರು ಏನು?"}
+{"n": 588, "id": "q0588", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 589, "id": "q0589", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 590, "id": "q0590", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 591, "id": "q0591", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 592, "id": "q0592", "text": "Main office kaise jaata hoon?"}
+{"n": 593, "id": "q0593", "text": "मैं कार्यालय कैसे जाता हूँ?"}
+{"n": 594, "id": "q0594", "text": "Naanu office ge hege hogtini?"}
+{"n": 595, "id": "q0595", "text": "ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 596, "id": "q0596", "text": "Main kaun si team ko support karta hoon?"}
+{"n": 597, "id": "q0597", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 598, "id": "q0598", "text": "Naanu yaava team support maadtini?"}
+{"n": 599, "id": "q0599", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 600, "id": "q0600", "text": "Main kya job karta hoon?"}
+{"n": 601, "id": "q0601", "text": "मैं आजीविका के लिए क्या करता हूँ?"}
+{"n": 602, "id": "q0602", "text": "Nanna job yenu?"}
+{"n": 603, "id": "q0603", "text": "ನಾನು ಜೀವನೋಪಾಯಕ್ಕಾಗಿ ಏನು ಮಾಡುತ್ತೇನೆ?"}
+{"n": 604, "id": "q0604", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 605, "id": "q0605", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 606, "id": "q0606", "text": "Nange yaavdakke allergy ide?"}
+{"n": 607, "id": "q0607", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 608, "id": "q0608", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 609, "id": "q0609", "text": "मेरा पसंदीदा व्यंजन कौन सा है?"}
+{"n": 610, "id": "q0610", "text": "Nanna favourite dish yenu?"}
+{"n": 611, "id": "q0611", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 612, "id": "q0612", "text": "Mera favourite singer kaun hai?"}
+{"n": 613, "id": "q0613", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 614, "id": "q0614", "text": "Nanna favourite singer yaaru?"}
+{"n": 615, "id": "q0615", "text": "ನನ್ನ ನೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?"}
+{"n": 616, "id": "q0616", "text": "Mere son ka naam kya hai?"}
+{"n": 617, "id": "q0617", "text": "मेरे बेटे का नाम क्या है?"}
+{"n": 618, "id": "q0618", "text": "Nanna son hesaru enu?"}
+{"n": 619, "id": "q0619", "text": "ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?"}
+{"n": 620, "id": "q0620", "text": "Maine kaunse college mein padhai ki?"}
+{"n": 621, "id": "q0621", "text": "मैंने किस कॉलेज में पढ़ाई की?"}
+{"n": 622, "id": "q0622", "text": "Naanu yaava college alli odide?"}
+{"n": 623, "id": "q0623", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದ್ದೇನೆ?"}
+{"n": 624, "id": "q0624", "text": "Mere dog ka naam kya hai?"}
+{"n": 625, "id": "q0625", "text": "मेरे कुत्ते का नाम क्या है?"}
+{"n": 626, "id": "q0626", "text": "Nanna dog hesaru enu?"}
+{"n": 627, "id": "q0627", "text": "ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?"}
+{"n": 628, "id": "q0628", "text": "Main kaunsi diet follow karti hoon?"}
+{"n": 629, "id": "q0629", "text": "मैं किस तरह का आहार लेती हूँ?"}
+{"n": 630, "id": "q0630", "text": "Naanu yaava diet follow maadtini?"}
+{"n": 631, "id": "q0631", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 632, "id": "q0632", "text": "Meri next trip kahaan ki hai?"}
+{"n": 633, "id": "q0633", "text": "मेरी अगली यात्रा कहाँ की है?"}
+{"n": 634, "id": "q0634", "text": "Naanu next trip ge yelli hogtidini?"}
+{"n": 635, "id": "q0635", "text": "ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸ ಎಲ್ಲಿಗೆ?"}
+{"n": 636, "id": "q0636", "text": "Main kaunse exam ki preparation kar rahi hoon?"}
+{"n": 637, "id": "q0637", "text": "मैं किस परीक्षा की तैयारी कर रही हूँ?"}
+{"n": 638, "id": "q0638", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 639, "id": "q0639", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 640, "id": "q0640", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 641, "id": "q0641", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 642, "id": "q0642", "text": "Naanu yaava language kaltidini?"}
+{"n": 643, "id": "q0643", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 644, "id": "q0644", "text": "Main kis cheez ke liye paisa save kar rahi hoon?"}
+{"n": 645, "id": "q0645", "text": "मैं किस चीज़ के लिए पैसे बचा रही हूँ?"}
+{"n": 646, "id": "q0646", "text": "Naanu yaavdakke money save maadtidini?"}
+{"n": 647, "id": "q0647", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 648, "id": "q0648", "text": "Main ab kaunse city mein rehta hoon?"}
+{"n": 649, "id": "q0649", "text": "मैं अब किस शहर में रहता हूँ?"}
+{"n": 650, "id": "q0650", "text": "Naanu eega yaava city alli idini?"}
+{"n": 651, "id": "q0651", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 652, "id": "q0652", "text": "Main originally kahan ka hoon?"}
+{"n": 653, "id": "q0653", "text": "मैं मूल रूप से कहाँ का रहने वाला हूँ?"}
+{"n": 654, "id": "q0654", "text": "Nanna original ooru yaavudu?"}
+{"n": 655, "id": "q0655", "text": "ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?"}
+{"n": 656, "id": "q0656", "text": "Main kaunsa instrument seekh raha hoon?"}
+{"n": 657, "id": "q0657", "text": "मैं कौन सा वाद्य यंत्र सीख रहा हूँ?"}
+{"n": 658, "id": "q0658", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 659, "id": "q0659", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 660, "id": "q0660", "text": "Main weekends par kaunsa sport khelta hoon?"}
+{"n": 661, "id": "q0661", "text": "मैं सप्ताहांत में कौन सा खेल खेलता हूँ?"}
+{"n": 662, "id": "q0662", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 663, "id": "q0663", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 664, "id": "q0664", "text": "Mere body ke kis part mein chot lagi hai?"}
+{"n": 665, "id": "q0665", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 666, "id": "q0666", "text": "Nanna body alli yaava part ge etu bittu?"}
+{"n": 667, "id": "q0667", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 668, "id": "q0668", "text": "Main usually kitne baje workout karta hoon?"}
+{"n": 669, "id": "q0669", "text": "मैं आम तौर पर कितने बजे कसरत करता हूँ?"}
+{"n": 670, "id": "q0670", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 671, "id": "q0671", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 672, "id": "q0672", "text": "Main originally kahan ki hoon?"}
+{"n": 673, "id": "q0673", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 674, "id": "q0674", "text": "Nanna original ooru yaavudu?"}
+{"n": 675, "id": "q0675", "text": "ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?"}
+{"n": 676, "id": "q0676", "text": "Main kaunsi company mein kaam karti hoon?"}
+{"n": 677, "id": "q0677", "text": "मैं किस कंपनी में काम करती हूँ?"}
+{"n": 678, "id": "q0678", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 679, "id": "q0679", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 680, "id": "q0680", "text": "Meri cat ka naam kya hai?"}
+{"n": 681, "id": "q0681", "text": "मेरी बिल्ली का नाम क्या है?"}
+{"n": 682, "id": "q0682", "text": "Nanna cat hesaru enu?"}
+{"n": 683, "id": "q0683", "text": "ನನ್ನ ಬೆಕ್ಕಿನ ಹೆಸರು ಏನು?"}
+{"n": 684, "id": "q0684", "text": "Mere body ke kis part mein chot lagi hai?"}
+{"n": 685, "id": "q0685", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 686, "id": "q0686", "text": "Nanna body alli yaava part ge etu bittu?"}
+{"n": 687, "id": "q0687", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 688, "id": "q0688", "text": "Main usually kitne baje workout karti hoon?"}
+{"n": 689, "id": "q0689", "text": "मैं आम तौर पर कितने बजे कसरत करती हूँ?"}
+{"n": 690, "id": "q0690", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 691, "id": "q0691", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 692, "id": "q0692", "text": "Main paise kis cheez ke liye bacha rahi hoon?"}
+{"n": 693, "id": "q0693", "text": "मैं पैसे किसके लिए बचा रही हूँ?"}
+{"n": 694, "id": "q0694", "text": "Naanu yaavudakke duddu ulsta idini?"}
+{"n": 695, "id": "q0695", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 696, "id": "q0696", "text": "Main ab kaunse city mein rehta hoon?"}
+{"n": 697, "id": "q0697", "text": "मैं अब किस शहर में रहता हूँ?"}
+{"n": 698, "id": "q0698", "text": "Naanu eega yaava city alli idini?"}
+{"n": 699, "id": "q0699", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 700, "id": "q0700", "text": "Mere brother ka naam kya hai?"}
+{"n": 701, "id": "q0701", "text": "मेरे भाई का नाम क्या है?"}
+{"n": 702, "id": "q0702", "text": "Nanna brother hesaru enu?"}
+{"n": 703, "id": "q0703", "text": "ನನ್ನ ತಮ್ಮನ ಹೆಸರು ಏನು?"}
+{"n": 704, "id": "q0704", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 705, "id": "q0705", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 706, "id": "q0706", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 707, "id": "q0707", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 708, "id": "q0708", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 709, "id": "q0709", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 710, "id": "q0710", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 711, "id": "q0711", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 712, "id": "q0712", "text": "Mera favourite singer kaun hai?"}
+{"n": 713, "id": "q0713", "text": "मेरा पसंदीदा गायक कौन है?"}
+{"n": 714, "id": "q0714", "text": "Nanna favourite singer yaaru?"}
+{"n": 715, "id": "q0715", "text": "ನನ್ನ ಮೆಚ್ಚಿನ ಗಾಯಕ ಯಾರು?"}
+{"n": 716, "id": "q0716", "text": "Main office kaise pahunchta hoon?"}
+{"n": 717, "id": "q0717", "text": "मैं दफ़्तर कैसे पहुँचता हूँ?"}
+{"n": 718, "id": "q0718", "text": "Naanu office ge hege hogtini?"}
+{"n": 719, "id": "q0719", "text": "ನಾನು ಕೆಲಸಕ್ಕೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 720, "id": "q0720", "text": "Main kya kaam karti hoon?"}
+{"n": 721, "id": "q0721", "text": "मैं क्या काम करती हूँ?"}
+{"n": 722, "id": "q0722", "text": "Naanu enu kelsa maadtini?"}
+{"n": 723, "id": "q0723", "text": "ನಾನು ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 724, "id": "q0724", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 725, "id": "q0725", "text": "मेरा पसंदीदा व्यंजन कौन सा है?"}
+{"n": 726, "id": "q0726", "text": "Nanna favourite dish yaavudu?"}
+{"n": 727, "id": "q0727", "text": "ನನ್ನ ಅಚ್ಚುಮೆಚ್ಚಿನ ಖಾದ್ಯ ಯಾವುದು?"}
+{"n": 728, "id": "q0728", "text": "Main kaunsa instrument seekh rahi hoon?"}
+{"n": 729, "id": "q0729", "text": "मैं कौन सा वाद्य यंत्र सीख रही हूँ?"}
+{"n": 730, "id": "q0730", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 731, "id": "q0731", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 732, "id": "q0732", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 733, "id": "q0733", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 734, "id": "q0734", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 735, "id": "q0735", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 736, "id": "q0736", "text": "Meri beti ka naam kya hai?"}
+{"n": 737, "id": "q0737", "text": "मेरी बेटी का नाम क्या है?"}
+{"n": 738, "id": "q0738", "text": "Nanna magalu hesaru enu?"}
+{"n": 739, "id": "q0739", "text": "ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?"}
+{"n": 740, "id": "q0740", "text": "Maine kis college mein padhai ki thi?"}
+{"n": 741, "id": "q0741", "text": "मैंने किस महाविद्यालय में पढ़ाई की थी?"}
+{"n": 742, "id": "q0742", "text": "Naanu yaava college alli odide?"}
+{"n": 743, "id": "q0743", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 744, "id": "q0744", "text": "Mere husband ka naam kya hai?"}
+{"n": 745, "id": "q0745", "text": "मेरे पति का नाम क्या है?"}
+{"n": 746, "id": "q0746", "text": "Nanna husband hesaru enu?"}
+{"n": 747, "id": "q0747", "text": "ನನ್ನ ಪತಿಯ ಹೆಸರು ಏನು?"}
+{"n": 748, "id": "q0748", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 749, "id": "q0749", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 750, "id": "q0750", "text": "Nanage yaavudakke allergy ide?"}
+{"n": 751, "id": "q0751", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 752, "id": "q0752", "text": "Main kis tarah ki diet follow karti hoon?"}
+{"n": 753, "id": "q0753", "text": "मैं किस प्रकार का आहार अपनाती हूँ?"}
+{"n": 754, "id": "q0754", "text": "Naanu yaava tarada diet follow maadtini?"}
+{"n": 755, "id": "q0755", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 756, "id": "q0756", "text": "Main apne next trip par kahan ja rahi hoon?"}
+{"n": 757, "id": "q0757", "text": "मैं अपनी अगली यात्रा पर कहाँ जा रही हूँ?"}
+{"n": 758, "id": "q0758", "text": "Naanu next trip ge yelli hogtidini?"}
+{"n": 759, "id": "q0759", "text": "ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 760, "id": "q0760", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 761, "id": "q0761", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 762, "id": "q0762", "text": "Naanu yaava language kaltidini?"}
+{"n": 763, "id": "q0763", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 764, "id": "q0764", "text": "Main kaunsi team ko support karti hoon?"}
+{"n": 765, "id": "q0765", "text": "मैं किस टीम का समर्थन करती हूँ?"}
+{"n": 766, "id": "q0766", "text": "Naanu yaava team support maadtini?"}
+{"n": 767, "id": "q0767", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 768, "id": "q0768", "text": "Main kya kaam karti hoon?"}
+{"n": 769, "id": "q0769", "text": "मैं क्या काम करती हूँ?"}
+{"n": 770, "id": "q0770", "text": "Naanu enu kelsa maadtini?"}
+{"n": 771, "id": "q0771", "text": "ನಾನು ಏನು ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 772, "id": "q0772", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 773, "id": "q0773", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 774, "id": "q0774", "text": "Nanage yaavudakke allergy ide?"}
+{"n": 775, "id": "q0775", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 776, "id": "q0776", "text": "Main apne next trip par kahan ja rahi hoon?"}
+{"n": 777, "id": "q0777", "text": "मैं अपनी अगली यात्रा पर कहाँ जा रही हूँ?"}
+{"n": 778, "id": "q0778", "text": "Naanu next trip ge yelli hogtidini?"}
+{"n": 779, "id": "q0779", "text": "ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 780, "id": "q0780", "text": "Main usually kitne baje workout karti hoon?"}
+{"n": 781, "id": "q0781", "text": "मैं आम तौर पर कितने बजे कसरत करती हूँ?"}
+{"n": 782, "id": "q0782", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 783, "id": "q0783", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯದಲ್ಲಿ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 784, "id": "q0784", "text": "Maine kis college mein padhai ki thi?"}
+{"n": 785, "id": "q0785", "text": "मैंने किस महाविद्यालय में पढ़ाई की थी?"}
+{"n": 786, "id": "q0786", "text": "Naanu yaava college alli odide?"}
+{"n": 787, "id": "q0787", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 788, "id": "q0788", "text": "Main paise kis cheez ke liye bacha rahi hoon?"}
+{"n": 789, "id": "q0789", "text": "मैं पैसे किसके लिए बचा रही हूँ?"}
+{"n": 790, "id": "q0790", "text": "Naanu yaavudakke duddu ulsta idini?"}
+{"n": 791, "id": "q0791", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 792, "id": "q0792", "text": "Main ab kaunse city mein rehti hoon?"}
+{"n": 793, "id": "q0793", "text": "मैं अब किस शहर में रहती हूँ?"}
+{"n": 794, "id": "q0794", "text": "Naanu eega yaava city alli idini?"}
+{"n": 795, "id": "q0795", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 796, "id": "q0796", "text": "Main kaunsi company mein kaam karti hoon?"}
+{"n": 797, "id": "q0797", "text": "मैं किस कंपनी में काम करती हूँ?"}
+{"n": 798, "id": "q0798", "text": "Naanu yaava company alli kelsa maadtini?"}
+{"n": 799, "id": "q0799", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 800, "id": "q0800", "text": "Meri sister ka naam kya hai?"}
+{"n": 801, "id": "q0801", "text": "मेरी बहन का नाम क्या है?"}
+{"n": 802, "id": "q0802", "text": "Nanna sister hesaru enu?"}
+{"n": 803, "id": "q0803", "text": "ನನ್ನ ತಂಗಿಯ ಹೆಸರು ಏನು?"}
+{"n": 804, "id": "q0804", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 805, "id": "q0805", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 806, "id": "q0806", "text": "Naanu weekends alli yaava sport aadtini?"}
+{"n": 807, "id": "q0807", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಆಟ ಆಡುತ್ತೇನೆ?"}
+{"n": 808, "id": "q0808", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 809, "id": "q0809", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 810, "id": "q0810", "text": "Naanu yaava language kaltidini?"}
+{"n": 811, "id": "q0811", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 812, "id": "q0812", "text": "Mere son ka naam kya hai?"}
+{"n": 813, "id": "q0813", "text": "मेरे बेटे का नाम क्या है?"}
+{"n": 814, "id": "q0814", "text": "Nanna maga hesaru enu?"}
+{"n": 815, "id": "q0815", "text": "ನನ್ನ ಮಗನ ಹೆಸರು ಏನು?"}
+{"n": 816, "id": "q0816", "text": "Main originally kahan ka hoon?"}
+{"n": 817, "id": "q0817", "text": "मैं मूल रूप से कहाँ का रहने वाला हूँ?"}
+{"n": 818, "id": "q0818", "text": "Nanna original ooru yaavudu?"}
+{"n": 819, "id": "q0819", "text": "ನನ್ನ ಮೂಲ ಊರು ಯಾವುದು?"}
+{"n": 820, "id": "q0820", "text": "Mere dog ka naam kya hai?"}
+{"n": 821, "id": "q0821", "text": "मेरे कुत्ते का नाम क्या है?"}
+{"n": 822, "id": "q0822", "text": "Nanna dog hesaru enu?"}
+{"n": 823, "id": "q0823", "text": "ನನ್ನ ನಾಯಿಯ ಹೆಸರು ಏನು?"}
+{"n": 824, "id": "q0824", "text": "Main kis tarah ki diet follow karta hoon?"}
+{"n": 825, "id": "q0825", "text": "मैं किस प्रकार का आहार अपनाता हूँ?"}
+{"n": 826, "id": "q0826", "text": "Naanu yaava tarada diet follow maadtini?"}
+{"n": 827, "id": "q0827", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರ ಕ್ರಮವನ್ನು ಅನುಸರಿಸುತ್ತೇನೆ?"}
+{"n": 828, "id": "q0828", "text": "Main kaunsa instrument seekh raha hoon?"}
+{"n": 829, "id": "q0829", "text": "मैं कौन सा वाद्य यंत्र सीख रहा हूँ?"}
+{"n": 830, "id": "q0830", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 831, "id": "q0831", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 832, "id": "q0832", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 833, "id": "q0833", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 834, "id": "q0834", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 835, "id": "q0835", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 836, "id": "q0836", "text": "Main kaunsi team ko support karta hoon?"}
+{"n": 837, "id": "q0837", "text": "मैं किस टीम का समर्थन करता हूँ?"}
+{"n": 838, "id": "q0838", "text": "Naanu yaava team support maadtini?"}
+{"n": 839, "id": "q0839", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}
+{"n": 840, "id": "q0840", "text": "Meri wife ka naam kya hai?"}
+{"n": 841, "id": "q0841", "text": "मेरी पत्नी का नाम क्या है?"}
+{"n": 842, "id": "q0842", "text": "Nanna wife hesaru enu?"}
+{"n": 843, "id": "q0843", "text": "ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?"}
+{"n": 844, "id": "q0844", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 845, "id": "q0845", "text": "मेरा सबसे पसंदीदा व्यंजन कौन सा है?"}
+{"n": 846, "id": "q0846", "text": "Nanna favourite dish yaavudu?"}
+{"n": 847, "id": "q0847", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?"}
+{"n": 848, "id": "q0848", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 849, "id": "q0849", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 850, "id": "q0850", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 851, "id": "q0851", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 852, "id": "q0852", "text": "Meri body ke kaunse part mein chot lagi hai?"}
+{"n": 853, "id": "q0853", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 854, "id": "q0854", "text": "Nanna body alli yaava part ge debbu aagide?"}
+{"n": 855, "id": "q0855", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 856, "id": "q0856", "text": "Mera favourite singer kaun hai?"}
+{"n": 857, "id": "q0857", "text": "मेरा सबसे पसंदीदा गायक कौन है?"}
+{"n": 858, "id": "q0858", "text": "Nanna favourite singer yaaru?"}
+{"n": 859, "id": "q0859", "text": "ನನ್ನ ಅತ್ಯಂತ ಇಷ್ಟದ ಗಾಯಕ ಯಾರು?"}
+{"n": 860, "id": "q0860", "text": "Main roz office kaise jaata hoon?"}
+{"n": 861, "id": "q0861", "text": "मैं रोज़ दफ़्तर कैसे जाता हूँ?"}
+{"n": 862, "id": "q0862", "text": "Naanu office ge hege hogtini?"}
+{"n": 863, "id": "q0863", "text": "ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 864, "id": "q0864", "text": "Meri wife ka naam kya hai?"}
+{"n": 865, "id": "q0865", "text": "मेरी पत्नी का नाम क्या है?"}
+{"n": 866, "id": "q0866", "text": "Nanna wife hesaru enu?"}
+{"n": 867, "id": "q0867", "text": "ನನ್ನ ಹೆಂಡತಿಯ ಹೆಸರು ಏನು?"}
+{"n": 868, "id": "q0868", "text": "Mujhe kis cheez se allergy hai?"}
+{"n": 869, "id": "q0869", "text": "मुझे किस चीज़ से एलर्जी है?"}
+{"n": 870, "id": "q0870", "text": "Nanage yaavudakke allergy ide?"}
+{"n": 871, "id": "q0871", "text": "ನನಗೆ ಯಾವುದರಿಂದ ಅಲರ್ಜಿ ಇದೆ?"}
+{"n": 872, "id": "q0872", "text": "Maine recently kaunsi vehicle li?"}
+{"n": 873, "id": "q0873", "text": "मैंने हाल ही में कौन सी गाड़ी खरीदी?"}
+{"n": 874, "id": "q0874", "text": "Naanu recent aagi yaava vehicle tagonde?"}
+{"n": 875, "id": "q0875", "text": "ನಾನು ಇತ್ತೀಚೆಗೆ ಯಾವ ವಾಹನವನ್ನು ಖರೀದಿಸಿದೆ?"}
+{"n": 876, "id": "q0876", "text": "Meri daughter ka naam kya hai?"}
+{"n": 877, "id": "q0877", "text": "मेरी बेटी का नाम क्या है?"}
+{"n": 878, "id": "q0878", "text": "Nanna daughter hesaru enu?"}
+{"n": 879, "id": "q0879", "text": "ನನ್ನ ಮಗಳ ಹೆಸರು ಏನು?"}
+{"n": 880, "id": "q0880", "text": "Maine kaunse college mein padhai ki thi?"}
+{"n": 881, "id": "q0881", "text": "मैंने किस महाविद्यालय में पढ़ाई की थी?"}
+{"n": 882, "id": "q0882", "text": "Naanu yaava college alli odide?"}
+{"n": 883, "id": "q0883", "text": "ನಾನು ಯಾವ ಕಾಲೇಜಿನಲ್ಲಿ ಓದಿದೆ?"}
+{"n": 884, "id": "q0884", "text": "Main kis cheez ke liye paise save kar raha hoon?"}
+{"n": 885, "id": "q0885", "text": "मैं किस चीज़ के लिए पैसे बचा रहा हूँ?"}
+{"n": 886, "id": "q0886", "text": "Naanu yaavudakke duddu save maadtidini?"}
+{"n": 887, "id": "q0887", "text": "ನಾನು ಯಾವುದಕ್ಕಾಗಿ ಹಣ ಉಳಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 888, "id": "q0888", "text": "Main kaunsi company mein kaam karti hoon?"}
+{"n": 889, "id": "q0889", "text": "मैं किस कंपनी में काम करती हूँ?"}
+{"n": 890, "id": "q0890", "text": "Naanu yaava company alli kelasa maadtidini?"}
+{"n": 891, "id": "q0891", "text": "ನಾನು ಯಾವ ಕಂಪನಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 892, "id": "q0892", "text": "Main kaunsa instrument seekh rahi hoon?"}
+{"n": 893, "id": "q0893", "text": "मैं कौन सा वाद्य यंत्र सीख रही हूँ?"}
+{"n": 894, "id": "q0894", "text": "Naanu yaava instrument kaltidini?"}
+{"n": 895, "id": "q0895", "text": "ನಾನು ಯಾವ ವಾದ್ಯವನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 896, "id": "q0896", "text": "Main usually kis time workout karti hoon?"}
+{"n": 897, "id": "q0897", "text": "मैं आमतौर पर किस समय व्यायाम करती हूँ?"}
+{"n": 898, "id": "q0898", "text": "Naanu usually yaava time ge workout maadtini?"}
+{"n": 899, "id": "q0899", "text": "ನಾನು ಸಾಮಾನ್ಯವಾಗಿ ಯಾವ ಸಮಯಕ್ಕೆ ವ್ಯಾಯಾಮ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 900, "id": "q0900", "text": "Mera favourite singer kaun hai?"}
+{"n": 901, "id": "q0901", "text": "मेरा सबसे पसंदीदा गायक कौन है?"}
+{"n": 902, "id": "q0902", "text": "Nanna favourite singer yaaru?"}
+{"n": 903, "id": "q0903", "text": "ನನ್ನ ಅತ್ಯಂತ ಇಷ್ಟದ ಗಾಯಕ ಯಾರು?"}
+{"n": 904, "id": "q0904", "text": "Main kaunsi language seekh rahi hoon?"}
+{"n": 905, "id": "q0905", "text": "मैं कौन सी भाषा सीख रही हूँ?"}
+{"n": 906, "id": "q0906", "text": "Naanu yaava language kaltidini?"}
+{"n": 907, "id": "q0907", "text": "ನಾನು ಯಾವ ಭಾಷೆಯನ್ನು ಕಲಿಯುತ್ತಿದ್ದೇನೆ?"}
+{"n": 908, "id": "q0908", "text": "Main office kaise jaati hoon?"}
+{"n": 909, "id": "q0909", "text": "मैं दफ़्तर कैसे जाती हूँ?"}
+{"n": 910, "id": "q0910", "text": "Naanu office ge hege hogtini?"}
+{"n": 911, "id": "q0911", "text": "ನಾನು ಕಚೇರಿಗೆ ಹೇಗೆ ಹೋಗುತ್ತೇನೆ?"}
+{"n": 912, "id": "q0912", "text": "Main ab kaunse city mein rehta hoon?"}
+{"n": 913, "id": "q0913", "text": "मैं अब किस शहर में रहता हूँ?"}
+{"n": 914, "id": "q0914", "text": "Naanu eega yaava city alli irtini?"}
+{"n": 915, "id": "q0915", "text": "ನಾನು ಈಗ ಯಾವ ನಗರದಲ್ಲಿ ವಾಸಿಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 916, "id": "q0916", "text": "Mere brother ka naam kya hai?"}
+{"n": 917, "id": "q0917", "text": "मेरे भाई का नाम क्या है?"}
+{"n": 918, "id": "q0918", "text": "Nanna brother hesaru enu?"}
+{"n": 919, "id": "q0919", "text": "ನನ್ನ ಸಹೋದರನ ಹೆಸರು ಏನು?"}
+{"n": 920, "id": "q0920", "text": "Main kaunsi diet follow karta hoon?"}
+{"n": 921, "id": "q0921", "text": "मैं किस प्रकार का आहार लेता हूँ?"}
+{"n": 922, "id": "q0922", "text": "Naanu yaava tarada diet follow maadtini?"}
+{"n": 923, "id": "q0923", "text": "ನಾನು ಯಾವ ರೀತಿಯ ಆಹಾರಕ್ರಮವನ್ನು ಪಾಲಿಸುತ್ತೇನೆ?"}
+{"n": 924, "id": "q0924", "text": "Main apni next trip par kahan ja raha hoon?"}
+{"n": 925, "id": "q0925", "text": "मैं अपनी अगली यात्रा पर कहाँ जा रहा हूँ?"}
+{"n": 926, "id": "q0926", "text": "Naanu next trip ge elli hogtidini?"}
+{"n": 927, "id": "q0927", "text": "ನಾನು ನನ್ನ ಮುಂದಿನ ಪ್ರವಾಸಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತಿದ್ದೇನೆ?"}
+{"n": 928, "id": "q0928", "text": "Main kaunse exam ki preparation kar raha hoon?"}
+{"n": 929, "id": "q0929", "text": "मैं किस परीक्षा की तैयारी कर रहा हूँ?"}
+{"n": 930, "id": "q0930", "text": "Naanu yaava exam ge prepare maadta idini?"}
+{"n": 931, "id": "q0931", "text": "ನಾನು ಯಾವ ಪರೀಕ್ಷೆಗೆ ತಯಾರಿ ನಡೆಸುತ್ತಿದ್ದೇನೆ?"}
+{"n": 932, "id": "q0932", "text": "Meri body ke kaunse part mein chot lagi hai?"}
+{"n": 933, "id": "q0933", "text": "मेरे शरीर के किस हिस्से में चोट लगी है?"}
+{"n": 934, "id": "q0934", "text": "Nanna body alli yaava part ge debbu aagide?"}
+{"n": 935, "id": "q0935", "text": "ನನ್ನ ದೇಹದ ಯಾವ ಭಾಗಕ್ಕೆ ಪೆಟ್ಟಾಗಿದೆ?"}
+{"n": 936, "id": "q0936", "text": "Main originally kahan ki rehne wali hoon?"}
+{"n": 937, "id": "q0937", "text": "मैं मूल रूप से कहाँ की रहने वाली हूँ?"}
+{"n": 938, "id": "q0938", "text": "Naanu originally elli inda bandidini?"}
+{"n": 939, "id": "q0939", "text": "ನಾನು ಮೂಲತಃ ಎಲ್ಲಿಂದ ಬಂದಿದ್ದೇನೆ?"}
+{"n": 940, "id": "q0940", "text": "Main kya kaam karti hoon?"}
+{"n": 941, "id": "q0941", "text": "मैं क्या काम करती हूँ?"}
+{"n": 942, "id": "q0942", "text": "Naanu yenu kelasa maadtini?"}
+{"n": 943, "id": "q0943", "text": "ನಾನು ಯಾವ ಕೆಲಸ ಮಾಡುತ್ತೇನೆ?"}
+{"n": 944, "id": "q0944", "text": "Mere rabbit ka naam kya hai?"}
+{"n": 945, "id": "q0945", "text": "मेरे खरगोश का नाम क्या है?"}
+{"n": 946, "id": "q0946", "text": "Nanna rabbit hesaru enu?"}
+{"n": 947, "id": "q0947", "text": "ನನ್ನ ಮೊಲದ ಹೆಸರು ಏನು?"}
+{"n": 948, "id": "q0948", "text": "Meri favourite dish kaunsi hai?"}
+{"n": 949, "id": "q0949", "text": "मेरा सबसे पसंदीदा व्यंजन कौन सा है?"}
+{"n": 950, "id": "q0950", "text": "Nanna favourite dish yaavudu?"}
+{"n": 951, "id": "q0951", "text": "ನನಗೆ ಅತ್ಯಂತ ಇಷ್ಟವಾದ ತಿನಿಸು ಯಾವುದು?"}
+{"n": 952, "id": "q0952", "text": "Main weekends par kaunsa sport khelti hoon?"}
+{"n": 953, "id": "q0953", "text": "मैं सप्ताहांत में कौन सा खेल खेलती हूँ?"}
+{"n": 954, "id": "q0954", "text": "Naanu weekend alli yaava sport aadtini?"}
+{"n": 955, "id": "q0955", "text": "ನಾನು ವಾರಾಂತ್ಯದಲ್ಲಿ ಯಾವ ಕ್ರೀಡೆ ಆಡುತ್ತೇನೆ?"}
+{"n": 956, "id": "q0956", "text": "Main kaunsi team ko support karti hoon?"}
+{"n": 957, "id": "q0957", "text": "मैं किस टीम का समर्थन करती हूँ?"}
+{"n": 958, "id": "q0958", "text": "Naanu yaava team support maadtini?"}
+{"n": 959, "id": "q0959", "text": "ನಾನು ಯಾವ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತೇನೆ?"}

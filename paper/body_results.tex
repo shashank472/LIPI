@@ -1,0 +1,111 @@
+\section{Results}
+\label{sec:results}
+
+\subsection{Facts stated outside English are hard to find again}
+\label{sec:main}
+Table~\ref{tab:main} gives Recall@5 for English questions by the form in which the facts were stored. For every retriever, moving the same fact out of English costs recall; \NumSigCells{} of the \NumCells{} non-English cells differ significantly from the same retriever's English cell (McNemar, $p<0.01$).
+
+The two non-neural or English-only baselines fail in characteristic ways. BM25 is weak even in English (\RBMHiEn\%), because questions and statements share few words by design, and it finds essentially nothing in any non-English form. The English-only encoder used by default in A-Mem retrieves \RMiniEnHiEn\% of English-stated facts. Its recall drops to \RMiniEnHiMoN\% and \RMiniEnKnMoN\% when the fact is written in native-script Hindi or Kannada, scripts it cannot represent. On native-script \emph{code-mixed} text it retains \RMiniEnHiCmN\% and \RMiniEnKnCmN\%, entirely through the English words embedded in it.
+
+Multilingual encoders fare better but still lose much of their recall. Averaged over the \NumMulti{} multilingual and Indic encoders, Recall@5 falls from \RavgHiEn\% (\form{EN}) to between \RavgHiMoR\% and \RavgHiCmN\% for the Hindi forms, and from \RavgKnEn\% to between \RavgKnMoR\% and \RavgKnCmN\% for the Kannada forms. Kannada is harder than Hindi in every form. The strongest English retriever, mE5-base (\RmEbaseHiEn\%), keeps only \RmEbaseHiCmR\% on Hinglish and \RmEbaseKnCmR\% on Kannada--English, and \RmEbaseHiMoR\% and \RmEbaseKnMoR\% on Romanized monolingual text. BGE-M3 is the most robust to native script, nearly matching its English level on code-mixed native text (\RBGEHiCmN\% and \RBGEKnCmN\% versus \RBGEHiEn\% on \form{EN}). Yet the same words in Latin script fall to \RBGEHiCmR\% and \RBGEKnCmR\%.
+
+The Indic-specialised encoders have the smallest positive gaps (\IndicGapMin--\IndicGapMax{} points), mostly because their English recall is low (\RIndSBHiEn\% and \RVyakHiEn\%). LaBSE, trained for bitext mining, is an outlier. It aligns translations perfectly: for every Hindi fact in our pool, it ranks the English version of the same fact first. But it is poor at matching questions to statements, especially in English. No retriever is both strong on English and robust across forms.
+
+\input{tables/main_r5}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/fig_forms.pdf}
+\caption{Recall@5 for English questions by the form in which the fact was stored, averaged over the \NumMulti{} multilingual and Indic encoders. \textbf{Raw}: memories indexed as written. \textbf{Translit}: deterministic script unification. \textbf{Gloss}: an LLM-written English gloss indexed alongside each memory. Labels give Raw and Gloss values; Table~\ref{tab:mitigation} reports per-retriever numbers.}
+\label{fig:forms}
+\end{figure}
+
+\subsection{Romanization, not code-mixing, drives the loss}
+\label{sec:factorial}
+The parallel $2\times2$ design separates the two properties that distinguish Indian chat from English (Table~\ref{tab:factorial}).
+
+\paragraph{Code-mixing helps.} Averaged over multilingual encoders, code-mixed memories are retrieved \EffHiMix{} (Hindi) and \EffKnMix{} (Kannada) points \emph{more} often than the same content in monolingual form. The English words that code-mixed users naturally include, such as \emph{shift}, \emph{flat} and \emph{office}, anchor the memory to an English question. The effect is largest for English-centric retrievers: +\MixMiniEnHi{} and +\MixMiniEnKn{} points for the English-only encoder, and +\MixmEbaseHi{} and +\MixmEbaseKn{} for mE5-base.
+
+\paragraph{Romanization hurts.} The same words written in native script are retrieved \EffHiScript{} (Hindi) and \EffKnScript{} (Kannada) points more often than in Latin script, and about \ScriptBGE{} points more often for BGE-M3.
+
+\paragraph{The two effects compound.} Romanized monolingual text, which has neither English anchors nor native script, is the worst condition for nearly every encoder, averaging \RavgHiMoR\% (Hindi) and \RavgKnMoR\% (Kannada). This mirrors the finding of \citet{codemixtax2026} for question answering, and we show it also holds for retrieval in memory. It matters in practice, because Romanized Hindi and Kannada are what many users actually type.
+
+\paragraph{Regression analysis.} A logistic regression on all \NumMulti{}-encoder outcomes, with retriever fixed effects and fact-clustered standard errors (Table~\ref{tab:regression}), confirms the pattern. Among Romanized memories, code-mixing multiplies the odds of retrieval by \ORMix{}. Among monolingual memories, native script multiplies them by \ORNat{}. The negative interaction (odds ratio \ORInt{}) shows that the two aids partly substitute for each other. Kannada lowers the odds by a factor of \ORKan{} relative to Hindi.
+
+\paragraph{Why Romanized text is hard.} Tokenisation offers part of the explanation (Table~\ref{tab:fertility}). The XLM-R tokeniser shared by mE5 and BGE-M3 splits Romanized monolingual words into \FertXHiMoR{} (Hindi) and \FertXKnMoR{} (Kannada) pieces on average. The same words in native script take \FertXHiMoN{} and \FertXKnMoN{} pieces, and English takes \FertXEn{}. Romanized Indic words are thus cut into short, English-looking fragments that carry little of their meaning. The English-only tokeniser maps most Kannada-script tokens to \texttt{[UNK]}, which explains why that encoder cannot retrieve native Kannada at all.
+
+\input{tables/factorial}
+\input{tables/regression}
+\input{tables/fertility}
+
+\subsection{Questions in the user's language do not rescue retrieval}
+\label{sec:reverse}
+A code-mixed user may also ask questions in code-mixed form. Figure~\ref{fig:reverse} varies the question form. Matching the question's form to the memory's form helps only partly: with a Romanized code-mixed question over Romanized code-mixed memories, or a native-script question over native-script memories, mean Recall@5 is \SameFormRaw\%, still below the English--English level (\EnAvgRaw\%). Across all non-English question and memory forms, Raw indexing reaches \RevAvgRaw\%. Translating only the question into English (QT) barely helps (\RevAvgQt\%), because the memory remains in the hard form. Adding the write-time gloss (Gloss+QT) raises Recall@5 to \RevAvgGlQt\%.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=\linewidth]{figures/fig_reverse.pdf}
+\caption{Recall@5 by memory form (rows) and question form (columns), averaged over the multilingual and Indic encoders, without mitigation (Raw) and with mitigation (Gloss+QT).}
+\label{fig:reverse}
+\end{figure}
+
+\subsection{Mitigations: unify the script, or write an English gloss}
+\label{sec:mitigation}
+Table~\ref{tab:mitigation} compares the mitigations for English questions.
+
+\paragraph{Script unification backfires.} Deterministically romanizing every native-script memory and question lowers mean non-English Recall@5 from \MitAvgRaw\% to \MitAvgTranslit\%. It converts the comparatively easy native-script forms into the hardest one, Romanized text. Converting in the other direction would require resolving the ambiguity of casual Romanized spelling, a learned transliteration problem \citep{madhani2023aksharantar}, and would still leave the English words of code-mixed text in a script the encoder represents poorly.
+
+\paragraph{An English gloss at write time closes most of the gap.} Indexing an LLM-written English gloss next to each non-English memory raises mean non-English Recall@5 from \MitAvgRaw\% to \MitAvgGloss\% (Hindi \MitAvgRawHi\%\,$\rightarrow$\,\MitAvgGlossHi\%, Kannada \MitAvgRawKn\%\,$\rightarrow$\,\MitAvgGlossKn\%). Every retriever improves on average, as do \NumCellsImproved{} of the \NumCells{} retriever--form cells. The gain is largest where Raw indexing fails most: Romanized monolingual text (+\GainMoR{} points on average) and English-centric encoders (+\GainmEbase{} for mE5-base, +\GainMiniEn{} for the English-only encoder). For every encoder with reasonable English recall, non-English recall under Gloss comes within a few points of its English recall under the same indexing. Where the gloss preserved the answer string, Recall@5 is \GlossKeptRfive\%; where it lost the answer, Recall@5 is \GlossLostRfive\%. Better translation should therefore help further.
+
+\paragraph{Costs of the gloss.} The gloss has two costs. First, English-stated facts can lose a little. The other users' facts and the IndicTalk turns gain English glosses and so compete more strongly with English facts; for mE5-base, English-stated facts fall from \RmEbaseHiEn\% to \GlossEnmEbaseHi\% in the Hindi pool. Second, the gloss needs one extra LLM call per non-English memory. The call is short (a chat message in, one sentence out) and is paid once at write time rather than on every read.
+
+\input{tables/mitigation}
+
+\subsection{Larger memories}
+\label{sec:poolsize}
+Real histories hold more than 336 messages. Figure~\ref{fig:poolsize} repeats the main comparison with \PoolNSmall{}, \PoolNDefault{} and about \PoolNLarge{} memories per user; the largest pool uses every admissible distractor in the banks. Absolute recall falls as memories grow, but the ordering is stable, and the relative loss under Raw indexing widens. Non-English recall is 60\% of English recall with \PoolNSmall{} memories and 38\% with about \PoolNLarge{}, while under Gloss it matches or exceeds English recall at every size. With about \PoolNLarge{} memories, English-stated facts reach \PoolLargeRawEN\%, non-English facts \PoolLargeRawnonEN\% under Raw indexing, and \PoolLargeGlossnonEN\% under Gloss.
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=0.46\linewidth]{figures/fig_poolsize.pdf}
+\caption{Recall@5 for English questions as the number of memories per user grows, averaged over the \NumMulti{} multilingual and Indic encoders. Colour: indexing (Raw or Gloss). Line style: facts stored in English (solid) or in the eight Hindi and Kannada forms (dashed).}
+\label{fig:poolsize}
+\end{figure}
+
+\subsection{Retrieval, not reading, is the bottleneck}
+\label{sec:e2e}
+Table~\ref{tab:e2e} shows what happens when an LLM reader answers from five memories. When the target memory is among them (Oracle), Claude Haiku 4.5 answers \EtoEOracleNonEn\% of non-English and \EtoEOracleEn\% of English facts correctly; it reads Hinglish, Kannada--English and native-script memories about as well as English ones. With mE5-base's top 5 under Raw indexing, accuracy on non-English facts collapses to \EtoERawNonEn\% (English: \EtoERawEn\%), closely tracking how often the target was retrieved. With the gloss in the index it rises to \EtoEGlossNonEn\%, close to the English level under the same indexing (\EtoEGlossEn\%). Across conditions, accuracy is bounded by retrieval: the language barrier in agent memory sits at the retriever, not the LLM.
+
+\input{tables/e2e}
+
+\section{Discussion}
+\label{sec:discussion}
+
+\paragraph{Implications for memory systems.}
+Today's defaults fit poorly with how many people actually write. Storing memories in the user's own language and script, as Mem0's input-language mode does \citep{mem0repo}, preserves fidelity. But a store indexed only by that text inherits every weakness of its encoder on Romanized and code-mixed input. An English-only default encoder, as in A-Mem \citep{amemrepo}, cannot represent Devanagari or Kannada at all. Our results support a simple pattern: keep the original text for the reader, and index it together with a canonical English gloss written once at write time. Deterministic script unification is attractive because it needs no model, but it moves memories toward the representation encoders handle worst.
+
+\paragraph{Implications for evaluation.}
+Memory benchmarks report a single English number. The gap we measure is far larger than the differences that typically separate memory systems on English benchmarks, so a system's ranking on LoCoMo or LongMemEval says little about how it serves a user who writes ``\emph{yaar finally Pune shift ho gayi}''. Because \lipi{} is parallel and pool-controlled, it can be added to a memory system's evaluation at low cost: its 1{,}920 non-English memories and 1{,}200 questions fit in a single evaluation run.
+
+\paragraph{Toward Romanization-robust encoders.}
+Multilingual encoders see Hindi and Kannada mostly in native script during pre-training, and their tokenisers fragment Romanized Indic words. Code-mixed text survives partly because of its English words, while monolingual Romanized text has no such anchor. Romanization-aware pre-training \citep{husain2024romansetu} or contrastive fine-tuning on Romanized and code-mixed pairs are natural next steps. \lipi{}'s parallel forms provide such pairs, though at present only enough for evaluation.
+
+\paragraph{Limitations.}
+\begin{itemize}
+\item \textbf{Synthetic data.} The facts are LLM-drafted and checked automatically and by an LLM reviewer, not yet by native speakers. Real chat is noisier: inconsistent spellings, typos and script switches within a sentence. This plausibly makes our estimates of the problem optimistic.
+\item \textbf{One model family.} The drafting, gloss and reader models all come from the Claude family. This could make glosses of Claude-drafted text unusually accurate, so the gloss results should be confirmed with other models.
+\item \textbf{Two languages.} We cover two languages, one Indo-Aryan and one Dravidian. Other scripts and code-mixing registers, such as Tamil--English, Bengali--English or Arabizi, may behave differently.
+\item \textbf{Simple memories.} Memories are single utterances, and every question targets a single fact. Multi-hop, temporal and knowledge-update questions, where cross-lingual matching interacts with reasoning, are not tested.
+\item \textbf{Components, not frameworks.} We evaluate retrieval components and a gloss strategy rather than complete memory frameworks, whose fact-extraction step could itself translate, or garble, code-mixed input.
+\item \textbf{Retrievers not evaluated.} Compute limits kept us from evaluating API embedders (such as Mem0's default, \texttt{text-embedding-3-small}) and LLM-based embedders (such as Qwen3-Embedding).
+\end{itemize}
+
+\section{Conclusion}
+\label{sec:conclusion}
+We asked whether an LLM agent's memory still works when a user states a fact in Hinglish, Kannada--English or native-script Hindi or Kannada, and later asks about it in English. Using \lipi{}, a parallel and pool-controlled benchmark, we find that it largely does not. Retrieval loses most of its recall, Romanized monolingual text is nearly unretrievable, and the culprit is romanization rather than code-mixing. Because LLM readers understand these memories once they see them, the fix belongs at indexing time. An English gloss written alongside each non-English memory closes most of the gap, whereas deterministic script unification makes things worse. We release \lipi{} and all model outputs to make language and script robustness a standard part of evaluating agent memory.
+
+\section*{Broader Impact Statement}
+Personal assistants that remember are being deployed to users who write in code-mixed and Romanized registers. Our results show that such users silently receive a worse memory, and that an English-only evaluation will not reveal it. Making the gap measurable, and showing an inexpensive way to close it, should help these users; we see no direct path from this work to harm. All users and facts in \lipi{} are fictional. The released distractor corpora are synthetic, CC-BY-4.0 conversations. Glossing memories with an LLM means sending user messages to a model, which deployed systems should handle under the same privacy terms as the memories themselves.
+
+\section*{Reproducibility Statement}
+\CodeAvailability{} The benchmark, every per-fact rank, all 5{,}254 glosses and translations, and all reader answers are included, so every table and figure can be regenerated with \texttt{src/analyze.py} and \texttt{src/figures.py} without any API access. The prompts used for drafting, glossing, translating and reading are given in Appendices~\ref{app:style} and~\ref{app:prompts}.

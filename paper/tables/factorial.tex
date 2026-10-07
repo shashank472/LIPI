@@ -1,0 +1,24 @@
+\begin{table}[t]
+\centering
+\small
+\caption{Decomposing the drop (Recall@5 points, English questions, Raw indexing). \emph{Mixing} = mean(CM forms) $-$ mean(MO forms): positive means code-mixed memories are easier to find. \emph{Script} = mean(native forms) $-$ mean(Romanized forms): positive means native script is easier. \emph{EN gap} = EN $-$ mean of the four non-English forms. 95\% bootstrap CIs over facts are given for the average row.}
+\label{tab:factorial}
+\begin{tabular}{@{}l ccc ccc@{}}
+\toprule
+ & \multicolumn{3}{c}{Hindi} & \multicolumn{3}{c}{Kannada} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+Retriever & Mixing & Script & EN gap & Mixing & Script & EN gap \\
+\midrule
+MiniLM-en & +26.9 & +3.5 & +47.2 & +32.3 & +0.2 & +42.8 \\
+mMiniLM & +10.2 & +34.4 & +20.1 & +19.8 & -11.9 & +40.3 \\
+mE5-small & +22.1 & -0.8 & +25.4 & +10.0 & +6.7 & +30.6 \\
+mE5-base & +17.3 & +7.3 & +52.8 & +10.0 & +3.8 & +59.8 \\
+LaBSE & +4.6 & +34.2 & -12.1 & -5.6 & +31.0 & -10.3 \\
+BGE-M3 & +12.5 & +48.3 & +32.3 & +10.8 & +47.9 & +33.3 \\
+IndicSBERT & +1.2 & +9.6 & +10.6 & -1.2 & +15.4 & +14.8 \\
+Vyakyarth & +4.6 & +20.0 & +15.4 & +3.3 & +24.2 & +16.2 \\
+\midrule
+Avg.\ multilingual & +10.4 [9, 12] & +21.8 [20, 24] & +20.7 [19, 23] & +6.7 [5, 8] & +16.7 [15, 19] & +26.4 [24, 28] \\
+\bottomrule
+\end{tabular}
+\end{table}
